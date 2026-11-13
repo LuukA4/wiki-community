@@ -1,0 +1,317 @@
+[
+  {
+    "naam": "Argouw",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Burggraafschap Jukten",
+    "beschrijving": "Paleis-fort van de oude heren van Garmeland in Garmelandse architectuur.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "argouw",
+    "type": "city"
+  },
+  {
+    "naam": "Arstellen",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Graafschap Sambadije",
+    "beschrijving": "Rijke stad hoog in het noorden bij de legendarische Sambaatse ijzerheuvels waar hoge adel begraven ligt.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "arstellen",
+    "type": "city"
+  },
+  {
+    "naam": "Barterburg",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Graafschap Sambadije",
+    "beschrijving": "Hoofdstad van Sambadije en centrale verbinding van Castavonië; bekend om de muskus-os en warme kledij.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "barterburg",
+    "type": "city"
+  },
+  {
+    "naam": "Beunster-stad",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Baronie Beunster",
+    "beschrijving": "Enige gefortificeerde grote stad in Beunster; snel gegroeid tijdens de eeuwige oorlog met militaire havens en scheepswerven; grootste Gregoriaanse kerk van Castavonië.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "beunster-stad",
+    "type": "city"
+  },
+  {
+    "naam": "Bokkum",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Burggraafschap Jukten",
+    "beschrijving": "Handelscentrum voor noordelijk vee; fokt grote praalbokken.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "bokkum",
+    "type": "city"
+  },
+  {
+    "naam": "Corburg",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Burggraafschap Jukten",
+    "beschrijving": "Communicatiecentrum van het rijk; Raventoren met boodschappervogels.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "corburg",
+    "type": "city"
+  },
+  {
+    "naam": "Demen",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Graafschap Sambadije",
+    "beschrijving": "'Rattenstad' omdat het grootste deel van de bevolking ratspur is; unieke ratspur-architectuur met bruggetjes en paden.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "demen",
+    "type": "city"
+  },
+  {
+    "naam": "Euberdal",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Kroonland Whelen",
+    "beschrijving": "Stad op een eiland in de Euber, direct bestuurd door de kroon; bedevaartsoord waar Sint Sebaltus begraven is.",
+    "interessante_locaties": [
+      "Tombe van Sebaltus in het balrût-complex",
+      "Pelgrimswijk",
+      "Kasteel Bockheim"
+    ],
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "euberdal",
+    "type": "city"
+  },
+  {
+    "naam": "Foldev",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Graafschap Orstede",
+    "beschrijving": "'De onbreekbare stad' door de jarenlange belegering die nooit viel; poort naar het Librerium vanuit het noorden.",
+    "interessante_locaties": [
+      "Buskruitwerkplaatsen ('rattenbom')",
+      "Liebra brug (2 km, naar het Librerium)"
+    ],
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "foldev",
+    "type": "city"
+  },
+  {
+    "naam": "Graankant",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Burggraafschap Jukten",
+    "beschrijving": "Hospitum met grote gewelven; verplichte stop voor pelgrims naar Euberdal.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "graankant",
+    "type": "city"
+  },
+  {
+    "naam": "Graffel",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Burggraafschap Jukten",
+    "beschrijving": "Tolpoorten in de uitlopers van de Neder-Euber en Trongel; belast handelsverkeer tussen Hommelhaven en Ventium.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "graffel",
+    "type": "city"
+  },
+  {
+    "naam": "Grauwpunt",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Burggraafschap Jukten",
+    "beschrijving": "Bezit een flink kasteel op de rotsen langs de Dondel, zwaar gefortificeerd.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "grauwpunt",
+    "type": "city"
+  },
+  {
+    "naam": "Hezelstein",
+    "land": "Triumvantium",
+    "regio": null,
+    "beschrijving": "Kleinere stad in het noorden, direct bestuurd door de rijkswegenmeester; ontwerpen voor wegen en bruggen; controlepunt voor import/export en escortes over de Euber.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "hezelstein",
+    "type": "city"
+  },
+  {
+    "naam": "Holsveldt",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Burggraafschap Jukten",
+    "beschrijving": "Poorten beheersen de landroute tussen Hommelhaven en Ventium.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "holsveldt",
+    "type": "city"
+  },
+  {
+    "naam": "Hommelhaven",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Koninklijke vrijstad Hommelhaven",
+    "beschrijving": "Grootste gefortificeerde havenstad van Castavonië; bulk van import/export naar Skaffadocië en Randhaarst.",
+    "interessante_locaties": [
+      "Raathof",
+      "Bar Spitsval (ratspur kapers)",
+      "Pakhuizen district"
+    ],
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "hommelhaven",
+    "type": "city"
+  },
+  {
+    "naam": "Houwst",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Burggraafschap Jukten",
+    "beschrijving": "Balrût gebouwd na de eeuwige oorlog als teken van de overwinning van het licht; gefinancierd door de burggraaf van Jukten.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "houwst",
+    "type": "city"
+  },
+  {
+    "naam": "Kluik",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Burggraafschap Jukten",
+    "beschrijving": "Kloostercomplex met kavilitische monniken die boeken en manuscripten schrijven.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "kluik",
+    "type": "city"
+  },
+  {
+    "naam": "Meerhaven",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Burggraafschap Jukten",
+    "beschrijving": "Muren lopen diep de rivier in; profiteert van handel langs de Dondel.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "meerhaven",
+    "type": "city"
+  },
+  {
+    "naam": "Pildir",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Baljuwschap Koringland",
+    "beschrijving": "Hoofdstad van Koringland en na Ventium de stad met de meeste inwoners; bekend om de grote agrarische markt.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "pildir",
+    "type": "city"
+  },
+  {
+    "naam": "Raskof",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Baronie Kaurum",
+    "beschrijving": "IJzermijnen van Raskof; ijzer wordt langs de Euber/Trantaan door Castavonië verscheept.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "raskof",
+    "type": "city"
+  },
+  {
+    "naam": "Stierebosch",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Hertogdom Ursihr",
+    "beschrijving": "2e grootste stad van Ursihr, in de donkere bossen; bekend om houtproductie.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "stierebosch",
+    "type": "city"
+  },
+  {
+    "naam": "Talivaart",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Baronie Teteren",
+    "beschrijving": "Hoofdstad van de rijkste baronie Teteren; na de Püngü-so oorlogen veel vluchtelingen uit het oosten.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "talivaart",
+    "type": "city"
+  },
+  {
+    "naam": "Thalgen",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Hertogdom Ursihr",
+    "beschrijving": "Hoofdstad van Ursihr en thuisbasis van de Ursihr-familie en de Thalgse wacht (elitesoldaten).",
+    "interessante_locaties": [
+      "Kasteel van Thalgen",
+      "St. Evertinus balrût (volledig van hout)",
+      "Koninklijke jachtgebieden"
+    ],
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "thalgen",
+    "type": "city"
+  },
+  {
+    "naam": "Tolheim",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Ordestaat Balvan",
+    "beschrijving": "Grootste stad in het noorden van Castavonië, laatste echte grens; militaire stad met veel ridderordes.",
+    "interessante_locaties": [
+      "Tratelhuis (raad van ridders en adel)",
+      "Sterrenwacht-outpost (noorderlicht)",
+      "Sint Sebaltus plaza"
+    ],
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "tolheim",
+    "type": "city"
+  },
+  {
+    "naam": "Turland",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Markiezaat Erendorf",
+    "beschrijving": "Vestingsbalrût van Sint-Hannes, ook te gebruiken als verdedigingswerk bij belegeringen.",
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "turland",
+    "type": "city"
+  },
+  {
+    "naam": "Ventium",
+    "land": "Koninkrijk Castavonië",
+    "regio": "Kroonland Whelen",
+    "beschrijving": "Hoofdstad van Castavonië en grootste stad van het koninkrijk; politiek en religieus centrum aan de rivier de Trongel. Koning Krastus en de 7e oplidoom regeren hier. Centrum van handel met talloze gilden. Ooit hoofdstad van graafschap Koringland.",
+    "interessante_locaties": [
+      "Werkplaats van de trongelse smidsgilde",
+      "Sint Lubertus-Jan balrût (grootste van het Triumvantium)",
+      "Handelsdistrict"
+    ],
+    "sources": [
+      "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)"
+    ],
+    "id": "ventium",
+    "type": "city"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "naam": "Aasha",
+    "titel": "Duistere godin",
+    "domeinen": [
+      "Lust",
+      "Hoogmoed"
+    ],
+    "beschrijving": "Wederhelft van Asmodeus (♂) en Kronos (♀ samen paars).",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "aasha",
+    "type": "deity"
+  },
+  {
+    "naam": "Asmodeus",
+    "titel": "God van Lust",
+    "domeinen": [
+      "Lust"
+    ],
+    "beschrijving": "Wederhelft Aasha (♂-♀); rood. Ook vrouwelijke naam.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "asmodeus",
+    "type": "deity"
+  },
+  {
+    "naam": "Belial",
+    "titel": "Duistere god",
+    "beschrijving": "Een van de duistere goden wier bestaan onzeker is.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "belial",
+    "type": "deity"
+  },
+  {
+    "naam": "Belphegor",
+    "titel": "God van Vraatzucht",
+    "domeinen": [
+      "Vraatzucht",
+      "Afgunst"
+    ],
+    "beschrijving": "Ook Belian (♀); werkt samen met Malachai als duo van vraatzucht en afgunst.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "belphegor",
+    "type": "deity"
+  },
+  {
+    "naam": "Carrion",
+    "titel": "God van Gemakzucht",
+    "domeinen": [
+      "Gemakzucht"
+    ],
+    "beschrijving": "Werkt alleen, komt pas als zijn broer Kronos wordt teruggedreven. Broer van Kozel en Kronos.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "carrion",
+    "type": "deity"
+  },
+  {
+    "naam": "Dante",
+    "titel": "Duistere god",
+    "beschrijving": "Gekoppeld aan Nemesis.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "dante",
+    "type": "deity"
+  },
+  {
+    "naam": "Danterion",
+    "titel": "God van Bedrog",
+    "domeinen": [
+      "Bedrog"
+    ],
+    "beschrijving": "Ook Danitora (♀); jongste hoge duistere god, zoon/dochter van Aasha.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "danterion",
+    "type": "deity"
+  },
+  {
+    "naam": "Drako",
+    "titel": "Duistere god",
+    "beschrijving": "Een van de duistere goden wier bestaan onzeker is.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "drako",
+    "type": "deity"
+  },
+  {
+    "naam": "Fabius",
+    "titel": "Duistere god",
+    "beschrijving": "Wordt vaak vereerd op meerdere manieren.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "fabius",
+    "type": "deity"
+  },
+  {
+    "naam": "Faust",
+    "titel": "Duistere god",
+    "beschrijving": "Wordt vaak vereerd op meerdere manieren.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "faust",
+    "type": "deity"
+  },
+  {
+    "naam": "Gormagon",
+    "titel": "God van Hebzucht",
+    "domeinen": [
+      "Hebzucht"
+    ],
+    "beschrijving": "Ook Morgana / Ragona (♀).",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "gormagon",
+    "type": "deity"
+  },
+  {
+    "naam": "Harkan",
+    "titel": "Duistere god",
+    "beschrijving": "Gekoppeld aan Carrion.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "harkan",
+    "type": "deity"
+  },
+  {
+    "naam": "Kozel",
+    "titel": "God van Razernij",
+    "domeinen": [
+      "Razernij",
+      "Hebzucht"
+    ],
+    "beschrijving": "Mannelijke wederhelft met Morgana; een van de 7 stabiele duistere goden, de sterkste samen met Kronos en Carrion. Broer van Carrion en Kronos. Wordt sterker door het beoefenen van zonden, ook zonder te aanbidden.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "kozel",
+    "type": "deity"
+  },
+  {
+    "naam": "Kronos",
+    "titel": "God van Hoogmoed",
+    "domeinen": [
+      "Hoogmoed",
+      "Lust"
+    ],
+    "beschrijving": "Wederhelft Aasha (samen paars). Grote rol in manipulatie en gebruik van legers tijdens bovengrondse oorlogen. Broer van Kozel en Carrion.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "kronos",
+    "type": "deity"
+  },
+  {
+    "naam": "Malachai",
+    "titel": "God van Afgunst",
+    "domeinen": [
+      "Afgunst",
+      "Jaloezie"
+    ],
+    "beschrijving": "Ook Malleus (♂) / Maliana / Malinea (♀); ook bekend als Malachai (Messenger).",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "malachai",
+    "type": "deity"
+  },
+  {
+    "naam": "Morgana",
+    "titel": "Duistere godin",
+    "domeinen": [
+      "Razernij",
+      "Hebzucht"
+    ],
+    "beschrijving": "Wederhelft van Kozel; ook Ragona.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "morgana",
+    "type": "deity"
+  },
+  {
+    "naam": "Nemesis",
+    "titel": "Duistere godin",
+    "beschrijving": "Gekoppeld aan Dante.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "nemesis",
+    "type": "deity"
+  },
+  {
+    "naam": "Raksha",
+    "titel": "Duistere god",
+    "beschrijving": "Een van de duistere goden wier bestaan onzeker is.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "raksha",
+    "type": "deity"
+  }
+]

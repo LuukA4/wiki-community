@@ -1,0 +1,119 @@
+[
+  {
+    "naam": "Asmodeaans geloof",
+    "goden": [
+      "Asmodeus"
+    ],
+    "beschrijving": "Duister geloof rond Asmodeus (lust).",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "asmodeaans-geloof",
+    "type": "religion"
+  },
+  {
+    "naam": "Dravogo",
+    "goden": [
+      "Aasha"
+    ],
+    "beschrijving": "Geloof met vrouwelijke priesteressen (orde Eerbaarheid); vuur/rood = leven, duisternis/zwart = dood. Eerste geschriften ontcijferd in Oud-Krestoris (-333).",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "dravogo",
+    "type": "religion"
+  },
+  {
+    "naam": "Duistere goden (het Duister)",
+    "goden": [
+      "Kozel",
+      "Kronos",
+      "Carrion",
+      "Asmodeus",
+      "Gormagon",
+      "Belphegor",
+      "Malachai",
+      "Danterion",
+      "Aasha",
+      "Morgana"
+    ],
+    "beschrijving": "Gesplitst van 1 onstabiele god naar 7 stabiele goden. Duistere goden worden niet aanbeden maar worden sterker door zonden te beoefenen. Kozelaars staan volledig aan de kant van Kozel en Morgana.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "duistere-goden-het-duister",
+    "type": "religion"
+  },
+  {
+    "naam": "Gregoriaans geloof",
+    "goden": [
+      "Sint Gregorius van Skaffadocië"
+    ],
+    "beschrijving": "Ontstond -133 toen Gregorius van Skaffadocië de mana-bliksemdraak versloeg.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "gregoriaans-geloof",
+    "type": "religion"
+  },
+  {
+    "naam": "IJsbeergeloof",
+    "goden": [],
+    "beschrijving": "Oud geloof van Randhaarst; ijsberen zijn heilig.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "ijsbeergeloof",
+    "type": "religion"
+  },
+  {
+    "naam": "Kavilitisch geloof (Kavilisme)",
+    "goden": [],
+    "beschrijving": "Staatsreligie van Castavonië; ontstaan -112 uit Sint Sebaltus, volgeling van Gregorius. Oplidoom regeert vanuit Ventium.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "kavilitisch-geloof-kavilisme",
+    "type": "religion"
+  },
+  {
+    "naam": "Lore",
+    "goden": [],
+    "beschrijving": "Geloof dat in het Librerium wordt aangehangen.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "lore",
+    "type": "religion"
+  },
+  {
+    "naam": "Pepelisme",
+    "goden": [],
+    "beschrijving": "Geloof van Reginald Dèlor.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "pepelisme",
+    "type": "religion"
+  },
+  {
+    "naam": "Skaffa",
+    "goden": [],
+    "beschrijving": "Duister geloof rond Skaffa Djaffa & Kozel.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "skaffa",
+    "type": "religion"
+  },
+  {
+    "naam": "Vyrdalisch geloof (Varc'o)",
+    "goden": [],
+    "beschrijving": "Woudgeloof van Maurik Oost ter Dam.",
+    "sources": [
+      "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)"
+    ],
+    "id": "vyrdalisch-geloof-varc-o",
+    "type": "religion"
+  }
+]

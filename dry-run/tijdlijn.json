@@ -1,0 +1,1792 @@
+[
+  {
+    "jaar": 107,
+    "titel": "2-staten oplossing Dèlor door Reginald",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "2-staten-oplossing-delor-door-reginald-107",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -182,
+    "titel": "Aankomst Krestoriaanse Vluchtelingen op Skaffadocië",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "aankomst-krestoriaanse-vluchtelingen-op-skaffadocie--182",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -900,
+    "titel": "Alkonsië wordt het eerste menselijke rijk in het Zegenland",
+    "detail": "Het eerste machtige landelijke en maritieme rijk",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "alkonsie-wordt-het-eerste-menselijke-rijk-in-het-zegenland--900",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -62,
+    "titel": "Alliantie tussen Noordelijke Dwergenrijk en Dèlor",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "alliantie-tussen-noordelijke-dwergenrijk-en-delor--62",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 58,
+    "titel": "Balderokken-opstand",
+    "detail": "Balder Dèlor begint een revolutie tegen de verduisterde Reginald.",
+    "groep": "Tijd van het triumviraat",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "balderokken-opstand-58",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -113,
+    "titel": "Baronie Drazul wordt gesticht",
+    "detail": "De overgebleven Herten van Masul vormen een nieuwe staat van Ardonen met als wapen een bloedend hert",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "baronie-drazul-wordt-gesticht--113",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 1,
+    "titel": "Beekervaart valt Godrak binnen",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "beekervaart-valt-godrak-binnen-1",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -19,
+    "titel": "Beekervaart valt vrijstaat Orstede binnen",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "beekervaart-valt-vrijstaat-orstede-binnen--19",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -470,
+    "titel": "Beekervaart wordt een koninkrijk na vele veroveringen",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "beekervaart-wordt-een-koninkrijk-na-vele-veroveringen--470",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 154,
+    "titel": "Belegering en Inname van Beunster",
+    "detail": "Kaurum neemt Beunster in na 1.5 maand",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "belegering-en-inname-van-beunster-154",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 60,
+    "titel": "Bezetting Librerium & Beeldenstorm",
+    "groep": "Tijd van het triumviraat",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "bezetting-librerium-beeldenstorm-60",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 60,
+    "titel": "Bezetting Librerium door Balderrokken",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "bezetting-librerium-door-balderrokken-60",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -411,
+    "titel": "Boderick land op Randhaarst",
+    "detail": "Boderick Ursihr 'de avonturier' landt op Oostkust Randhaarst en sticht de eerste stad",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "boderick-land-op-randhaarst--411",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -411,
+    "titel": "Boderick Ursihr landt op Randhaarst",
+    "detail": "'De avonturier' landt op de oostkust en sticht de eerste stad.",
+    "groep": "De rol van de mens",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "boderick-ursihr-landt-op-randhaarst--411",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 98,
+    "titel": "Bohlul en Castavonië sluiten vrede",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "bohlul-en-castavonie-sluiten-vrede-98",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 86,
+    "titel": "Burgeroorlog van de zwarte draak begint",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "burgeroorlog-van-de-zwarte-draak-begint-86",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 86,
+    "titel": "Burgeroorlog (Zwarte Draak) begint",
+    "groep": "Tijd van Verdeling",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "burgeroorlog-zwarte-draak-begint-86",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -172,
+    "titel": "De Ardoonse Masul tak wordt verdreven uit Hoogerwaarden",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "de-ardoonse-masul-tak-wordt-verdreven-uit-hoogerwaarden--172",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -264,
+    "titel": "De baronie van Whelen wordt verheven tot graafschap",
+    "detail": "Onder koninkrijk Dèlor",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "de-baronie-van-whelen-wordt-verheven-tot-graafschap--264",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 4,
+    "titel": "De Duistere tovenaar boekt vele overwinningen",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "de-duistere-tovenaar-boekt-vele-overwinningen-4",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -820,
+    "titel": "De dwergen verliezen de oorlog en trekken ondergronds",
+    "detail": "Het land overspoeld met duisternis",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "de-dwergen-verliezen-de-oorlog-en-trekken-ondergronds--820",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 97,
+    "titel": "De grote Þsa",
+    "detail": "Mars van Obafemi III richting Godrak uit wraak",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "de-grote-sa-97",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 51,
+    "titel": "De Herten Jacht",
+    "detail": "2e Masul opstand",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "de-herten-jacht-51",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -99,
+    "titel": "De markiezaatsfamilie Suykerbuyk verkrijgt de noordelijke landen",
+    "detail": "Markiezaat Whelen wordt gepromoveerd tot Hertogdom",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "de-markiezaatsfamilie-suykerbuyk-verkrijgt-de-noordelijke-landen--99",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 75,
+    "titel": "De Meestersraad valt uit elkaar",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "de-meestersraad-valt-uit-elkaar-75",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 154,
+    "titel": "De moord op goldraak Harold Artus",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "de-moord-op-goldraak-harold-artus-154",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -135,
+    "titel": "De Ridderschappen krijgen een commandant",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "de-ridderschappen-krijgen-een-commandant--135",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 25,
+    "titel": "De Sporentrip",
+    "detail": "Herovering van de hekserij met paddenstoelbossen",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "de-sporentrip-25",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 104,
+    "titel": "Derde grote stammenoorlog in Afrika",
+    "groep": "Tijd van Demonen",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "derde-grote-stammenoorlog-in-afrika-104",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 104,
+    "titel": "Derde grote stammenoorlog in Waayoro",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "derde-grote-stammenoorlog-in-waayoro-104",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -127,
+    "titel": "Eerste Ardoonse vrijheidsoorlog",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "eerste-ardoonse-vrijheidsoorlog--127",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -333,
+    "titel": "Eerste Dravogo-geschriften ontcijferd",
+    "detail": "In Oud-Krestoris.",
+    "groep": "De rol van de mens",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "eerste-dravogo-geschriften-ontcijferd--333",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -333,
+    "titel": "Eerste Dravogo geschriften worden ontcijferd in Krestoris",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "eerste-dravogo-geschriften-worden-ontcijferd-in-krestoris--333",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -294,
+    "titel": "Eerste grote stammenoorlog in Waayoro",
+    "groep": "De rol van de mens",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]",
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "eerste-grote-stammenoorlog-in-waayoro--294",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -640,
+    "titel": "Eerste menselijke stadstaten in Zegenland",
+    "detail": "Ontstaan in het machtsvacuüm.",
+    "groep": "De oude beschavingen",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "eerste-menselijke-stadstaten-in-zegenland--640",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -357,
+    "titel": "Eerste oorlog tussen Beekervaart en Rollodo",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "eerste-oorlog-tussen-beekervaart-en-rollodo--357",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 42,
+    "titel": "Eerste stilstand eeuwige oorlog",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "eerste-stilstand-eeuwige-oorlog-42",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -177,
+    "titel": "Eind aan de Grote oorlog",
+    "detail": "Rollodo en Garmeland onderwerpen zich en worden hertogdommen",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "eind-aan-de-grote-oorlog--177",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -99,
+    "titel": "Eind Garmeland-Beekervaartse oorlog",
+    "detail": null,
+    "groep": "Gregoriaanse Hervorming (Keizertijd)",
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "eind-garmeland-beekervaartse-oorlog--99",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -216,
+    "titel": "Eind Grote Krestoriaanse oorlog en ontvluchting",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "eind-grote-krestoriaanse-oorlog-en-ontvluchting--216",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 107,
+    "titel": "Einde Balderokken-opstand (111) en 2-staten oplossing Dèlor",
+    "detail": "Reginald regelt triumbesprekingen voor Balder en Felix; vertrekt in 110 naar het verre oosten.",
+    "groep": "Tijd van Demonen",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "einde-balderokken-opstand-111-en-2-staten-oplossing-delor-107",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -99,
+    "titel": "Einde Garmeland-Beekervaartse oorlog",
+    "detail": "Beekervaart en Ursihr annexeren grondgebied.",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "einde-garmeland-beekervaartse-oorlog--99",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -140,
+    "titel": "Einde Oude Rattenplaag",
+    "detail": "35% van de bevolking van het Zegenland komt om het leven",
+    "groep": "De Keizerstijd",
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "einde-oude-rattenplaag--140",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 102,
+    "titel": "Fort Hardonium is af",
+    "detail": "Harold startte de bouw in jaar 70",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "fort-hardonium-is-af-102",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -20,
+    "titel": "Geboorte Krastus Suyckerbuyck",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "geboorte-krastus-suyckerbuyck--20",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -212,
+    "titel": "Graafschap Whelen wordt verheven tot markiezaat",
+    "detail": "Onder keizerrijk Dèlor",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "graafschap-whelen-wordt-verheven-tot-markiezaat--212",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 101,
+    "titel": "Gregorius en Namayara trouwen",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "gregorius-en-namayara-trouwen-101",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 101,
+    "titel": "Gregorius II trouwt Namayara",
+    "detail": "Vrede in de burgeroorlog; claim van de Zwarte Draak gevalideerd.",
+    "groep": "De laatste hoop",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "gregorius-ii-trouwt-namayara-101",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 80,
+    "titel": "Gregorius II vertrekt naar Krestoris",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "gregorius-ii-vertrekt-naar-krestoris-80",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -133,
+    "titel": "Gregorius van Skaffadocië verslaat de bliksemdraak",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "gregorius-van-skaffadocie-verslaat-de-bliksemdraak--133",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 56,
+    "titel": "Grote Expeditie naar Afrika",
+    "detail": "Krastus en Gregorius II trekken persoonlijk mee; Harold Artus geïnstalleerd als goldraak van Goldra.",
+    "groep": "Tijd van het triumviraat",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "grote-expeditie-naar-afrika-56",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -220,
+    "titel": "Grote Krestoriaanse oorlog",
+    "detail": "Tot -216; Oud-Krestoris overspoeld door duisternis.",
+    "groep": "De rol van de mens",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "grote-krestoriaanse-oorlog--220",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -492,
+    "titel": "Grote oorlog tussen menselijke stadstaten en dwergenrijken",
+    "detail": "Duurde tot -417.",
+    "groep": "De rol van de mens",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "grote-oorlog-tussen-menselijke-stadstaten-en-dwergenrijken--492",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -206,
+    "titel": "Grote oorlog Zegenland",
+    "detail": "Uit verzet tegen het nieuwe Keizerrijk smeden Rollodo Hormia en Garmeland het krijgshaftige verbond",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "grote-oorlog-zegenland--206",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 46,
+    "titel": "Harold wordt goldraak van Goldra",
+    "detail": "Geïnstalleerd door groothertog Gregorius II van Druval",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "harold-wordt-goldraak-van-goldra-46",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": null,
+    "titel": "Herovering Librerium",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "herovering-librerium",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 62,
+    "titel": "Het Grote Feestmaal & ontstaan 5 Relikwieën",
+    "detail": "Reginald wordt terug naar de lichte kant gehaald; Kwiebus verbannen",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "het-grote-feestmaal-ontstaan-5-relikwieen-62",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 62,
+    "titel": "Het grote Feestmaal & ontstaan van de 5 relikwieën",
+    "detail": "Gehost door Ménok; Kwiebus veroordeeld en verbannen.",
+    "groep": "Tijd van het triumviraat",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "het-grote-feestmaal-ontstaan-van-de-5-relikwieen-62",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -74,
+    "titel": "Het laatste dwergenrijk Oemban wordt onderworpen",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "het-laatste-dwergenrijk-oemban-wordt-onderworpen--74",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -86,
+    "titel": "Het Librerium wordt een stad",
+    "detail": "De eerste plannen voor een nieuwe keizerlijke hoofdstad worden gesmeed",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "het-librerium-wordt-een-stad--86",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -500,
+    "titel": "Het verbond van Hormia",
+    "detail": "Uit verzet tegen stadstaat Dèlor sluiten stadstaten Gaudri Arigas Harmia Ralzanica en Tarmonil een verbond",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "het-verbond-van-hormia--500",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -415,
+    "titel": "Het verbond van Hormia wordt koninkrijk Hormia",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "het-verbond-van-hormia-wordt-koninkrijk-hormia--415",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 5,
+    "titel": "Het Zwamschandaal komt naar buiten",
+    "detail": "Krastus ontdekt dat zwambedrijven logen over verloren manschappen",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "het-zwamschandaal-komt-naar-buiten-5",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -98,
+    "titel": "Himadië wordt gesticht door Skaffadus",
+    "detail": "De keizer sticht de sterrenwacht om adel op te laten groeien en mana magie te leren",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "himadie-wordt-gesticht-door-skaffadus--98",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -194,
+    "titel": "Hormia wordt veroverd door Dèlor",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "hormia-wordt-veroverd-door-delor--194",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 49,
+    "titel": "Invoering Magnum Restrictus Krastosis",
+    "detail": "Krastus verklaart de meeste baronieën 'nietig'",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "invoering-magnum-restrictus-krastosis-49",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 121,
+    "titel": "Karel Barkeleije wordt omgelegd",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "karel-barkeleije-wordt-omgelegd-121",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -5,
+    "titel": "Keizer Skaffadus I sterft in zijn slaap",
+    "detail": "Skaffadus II wordt gekroond in het Librerium; Skaffadus I wordt Sint Skaffadosius.",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "keizer-skaffadus-i-sterft-in-zijn-slaap--5",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -137,
+    "titel": "Keizer Skaffadus I sticht de Riddersheerlijkheden",
+    "detail": "Er worden achttien Ridderschappen gesticht onder het Lorianmeer",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "keizer-skaffadus-i-sticht-de-riddersheerlijkheden--137",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -11,
+    "titel": "Keizer Skaffadus laat de noordelijke Dwergen diep graven",
+    "detail": "De Grote Zonde",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "keizer-skaffadus-laat-de-noordelijke-dwergen-diep-graven--11",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -5,
+    "titel": "Keizer Skaffadus sterft in zijn slaap",
+    "detail": "Skaffadus I sterft en wordt Sint Skaffadosius; Skaffadus II wordt keizer in het Librerium",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "keizer-skaffadus-sterft-in-zijn-slaap--5",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -105,
+    "titel": "Kozelaars stichten hun eerste legerkamp",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "kozelaars-stichten-hun-eerste-legerkamp--105",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 56,
+    "titel": "Krastus en Gregorius II vertrekken richting Waayoro",
+    "detail": "Grote expeditie",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "krastus-en-gregorius-ii-vertrekken-richting-waayoro-56",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -20,
+    "titel": "Krastus Suykerbuyk wordt geboren",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "krastus-suykerbuyk-wordt-geboren--20",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 3,
+    "titel": "Krastus trekt zuidwaards",
+    "detail": "Legeraanvoerder Krastus krijgt opdracht het zuiden te verdedigen tegen de duistere tovenaar",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "krastus-trekt-zuidwaards-3",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -230,
+    "titel": "Laatste mannelijke telg koninkrijk Beekervaart sterft",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "laatste-mannelijke-telg-koninkrijk-beekervaart-sterft--230",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 49,
+    "titel": "Leontine van Ruijtersbergh wordt vermoord door vampieren",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "leontine-van-ruijtersbergh-wordt-vermoord-door-vampieren-49",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -177,
+    "titel": "Markiezaat Whelen wordt Hertogdom Castavonië",
+    "detail": "Onder keizerrijk Dèlor",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "markiezaat-whelen-wordt-hertogdom-castavonie--177",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -207,
+    "titel": "Moord op Franciscus Masul",
+    "detail": "De Beekervaartse heer Franciscus Masul wordt vermoord door rijksgezinden",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "moord-op-franciscus-masul--207",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 84,
+    "titel": "Namayara en zoon komen aan in Godrak bij de witte toren van Ménok",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "namayara-en-zoon-komen-aan-in-godrak-bij-de-witte-toren-van-menok-84",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -118,
+    "titel": "Noordelijke dwergenrijk sluit alliantie met keizerrijk",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "noordelijke-dwergenrijk-sluit-alliantie-met-keizerrijk--118",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -34,
+    "titel": "Noordelijke expansie Sambadije",
+    "detail": "Markiezaat Whelen breid uit naar het noorden",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "noordelijke-expansie-sambadije--34",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -1372,
+    "titel": "Onstaan Ménok?",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "onstaan-menok--1372",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -300,
+    "titel": "Ontstaan baronie van Whelen",
+    "detail": "Onder koninkrijk Beekervaart",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "ontstaan-baronie-van-whelen--300",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -1150,
+    "titel": "Ontstaan eerste Stadstaten in Zegenland",
+    "detail": "Wordt mogelijk door machtsvacuum na splitsing Dwergenrijk",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "ontstaan-eerste-stadstaten-in-zegenland--1150",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -112,
+    "titel": "Ontstaan Kavilitisch geloof",
+    "detail": "Sint Sebaltus bekeert een deel van de familie Ursihr.",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "ontstaan-kavilitisch-geloof--112",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -214,
+    "titel": "Ontstaan Keizerrijk Dèlor",
+    "detail": "Door het trouwen met de dochter van Beekervaart erft Dèlor alle landen en wordt het het machtigste rijk",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]",
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "ontstaan-keizerrijk-delor--214",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -50,
+    "titel": "Ontstaan Keizersraad",
+    "detail": "Economische handelssector met de loyaalste bondgenoten van de Keizer",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "ontstaan-keizersraad--50",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 42,
+    "titel": "Ontstaan koninkrijk Castavonië",
+    "detail": "Binnen Triumvantium",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "ontstaan-koninkrijk-castavonie-42",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -86,
+    "titel": "Ontstaan Librerium",
+    "detail": "Klooster Sint Gregorius verbouwd tot Librerium, hoofdstad van Dèlor door Keizer Skaffadus I.",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "ontstaan-librerium--86",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -1080,
+    "titel": "Ontstaan Ménoks Tovenarij",
+    "detail": "In samenwerking met de eerste stadstaten?",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "ontstaan-menoks-tovenarij--1080",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -772,
+    "titel": "Ontstaan Storbuutse Federatie",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "ontstaan-storbuutse-federatie--772",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 45,
+    "titel": "Ontstaan Triumvantium",
+    "groep": "Tijd van het triumviraat",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]",
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "detail": "Het Triumvantium ontstaat 14 jaar na het uitroepen",
+    "id": "ontstaan-triumvantium-45",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -375,
+    "titel": "Ontstaan vrijstaat Orstede",
+    "detail": "Een groep voldanten van Beekervaart splitst af",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "ontstaan-vrijstaat-orstede--375",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -216,
+    "titel": "Ontvluchting Oud-Krestoris",
+    "detail": "Geloof in Oud-Krestoris ging mis; economie stort in, technologie gaat verloren.",
+    "groep": "De rol van de mens",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "ontvluchting-oud-krestoris--216",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 26,
+    "titel": "Ontzetting van Foldev",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "ontzetting-van-foldev-26",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -272,
+    "titel": "Orstede slaagt erin een gebied te behouden na onderhandelingen",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "orstede-slaagt-erin-een-gebied-te-behouden-na-onderhandelingen--272",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -180,
+    "titel": "Oude rattenplaag",
+    "detail": "Tot -140; verlies van 35% van de bevolking van het keizerrijk.",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "oude-rattenplaag--180",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 102,
+    "titel": "Pact van Sallahri & start kruistocht",
+    "detail": "Alliantie tegen Abdul Ranier; 7e oplidoom Hubner verklaart heilige oorlog.",
+    "groep": "Tijd van Demonen",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "pact-van-sallahri-start-kruistocht-102",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -10,
+    "titel": "Prins Reginald wordt geboren",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "prins-reginald-wordt-geboren--10",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -97,
+    "titel": "Randhaarst sluit zich aan bij het keizerrijk",
+    "detail": "Het Storbuutse Rijk wordt Hertogdom Randhaarst",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "randhaarst-sluit-zich-aan-bij-het-keizerrijk--97",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 47,
+    "titel": "Ratspur krijgen gelijke rechten in Castavonië",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "ratspur-krijgen-gelijke-rechten-in-castavonie-47",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 57,
+    "titel": "Reginald roept het keizerschap opnieuw uit",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "reginald-roept-het-keizerschap-opnieuw-uit-57",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 110,
+    "titel": "Reginald vertrekt oostwaards",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "reginald-vertrekt-oostwaards-110",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 47,
+    "titel": "Rijksridderschappen afgeschaft in Castavonië en Godrak",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "rijksridderschappen-afgeschaft-in-castavonie-en-godrak-47",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -10,
+    "titel": "Rollodo wordt bij het keizerrijk gevoegd",
+    "detail": "De laatste mannelijke erfgenaam sterft en de keizer trouwt met de dochter",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "rollodo-wordt-bij-het-keizerrijk-gevoegd--10",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -510,
+    "titel": "Rollodo wordt een koninkrijk na vele veroveringen",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "rollodo-wordt-een-koninkrijk-na-vele-veroveringen--510",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 103,
+    "titel": "Sam sterft in het Hoelterwoud",
+    "groep": "Tijd van Demonen",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "sam-sterft-in-het-hoelterwoud-103",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -133,
+    "titel": "Sint Gregorius van Skaffadocië verslaat de mana-bliksemdraak",
+    "detail": "Gregorius gaat zelf dood door de bliksem; het Gregoriaans geloof ontstaat; klooster gebouwd (-130).",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "sint-gregorius-van-skaffadocie-verslaat-de-mana-bliksemdraak--133",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -128,
+    "titel": "Skaffadocië wordt hertogdom onder het Keizerrijk",
+    "detail": "Na inval door Garmeland.",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "skaffadocie-wordt-hertogdom-onder-het-keizerrijk--128",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 99,
+    "titel": "Slag aan de Schroeizijde",
+    "detail": "Krimbal en Ragitonis dood",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "slag-aan-de-schroeizijde-99",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -102,
+    "titel": "Slag bij de Trantaan",
+    "detail": "Beslissende veldslag: Garmeland en Oud-Ursihr verliezen tegen Beekervaart, Nieuw-Ursihr en Castavonië.",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "slag-bij-de-trantaan--102",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -97,
+    "titel": "Slag bij Heimart",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "slag-bij-heimart--97",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -99,
+    "titel": "Slag bij Heimart",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "slag-bij-heimart--99",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 33,
+    "titel": "Slag bij Onkfalen",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "slag-bij-onkfalen-33",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 32,
+    "titel": "Slag om de Euber",
+    "detail": "Skaffadus II sterft; roept met zijn laatste woorden het Triumvantium uit.",
+    "groep": "Tijd van het triumviraat",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "slag-om-de-euber-32",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 32,
+    "titel": "Slag om de Euber en dood van Skaffadus II",
+    "detail": "Skaffadus II benoemt met zijn laatste woorden het Triumvantium",
+    "groep": "De Eeuwige oorlog",
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "slag-om-de-euber-en-dood-van-skaffadus-ii-32",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 99,
+    "titel": "Slag van het - (Ragitonis en Krimbal dood)",
+    "detail": "Maurik Oost ter Dam sterft en wordt Maurok de Baldadige; Namayara heiligverklaard ('Saranetesse').",
+    "groep": "De laatste hoop",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "slag-van-het-ragitonis-en-krimbal-dood-99",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 21,
+    "titel": "Splitsing keizerrijk Lepan",
+    "detail": "Oorlog tussen de rijke steden in het westen en de keizerlijke in het oosten",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "splitsing-keizerrijk-lepan-21",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -1620,
+    "titel": "Splitsing van het oude Dwergenrijk",
+    "detail": "Vermoedelijk door het eerste duister",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "splitsing-van-het-oude-dwergenrijk--1620",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -720,
+    "titel": "Splitsing van het oude dwergenrijk",
+    "detail": "Vermoedelijk door het eerste duister.",
+    "groep": "De oude beschavingen",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "splitsing-van-het-oude-dwergenrijk--720",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -415,
+    "titel": "Stadstaat Dèlor wordt een koninkrijk",
+    "detail": "Dèlor roept koningschap uit",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "stadstaat-delor-wordt-een-koninkrijk--415",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -415,
+    "titel": "Stadstaat Dèlor wordt koninkrijk",
+    "detail": "Dèlor was zo belangrijk in de oorlog tegen de dwergen en wordt een koninkrijk van meerdere stadstaten in het zuiden van het Zegenland.",
+    "groep": "De rol van de mens",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "stadstaat-delor-wordt-koninkrijk--415",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -360,
+    "titel": "Stadstaat Garm wordt koninkrijk Garmeland",
+    "detail": "De Laatste stadstaat die het koningschap uitroept",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "stadstaat-garm-wordt-koninkrijk-garmeland--360",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 58,
+    "titel": "Start Balderrokken opstand",
+    "detail": "Tegen Reginalds verduistering",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "start-balderrokken-opstand-58",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -188,
+    "titel": "Start eerste Ardoonse vrijheidsoorlog (onderdeel Grote oorlog)",
+    "detail": "Na jaren oorlog komen de Ardonen in opstand tegen Beekervaart",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "start-eerste-ardoonse-vrijheidsoorlog-onderdeel-grote-oorlog--188",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 0,
+    "titel": "Start eeuwige oorlog door de Grote Zonde",
+    "detail": "Keizer Skaffadus I had onwetend een poort geopend naar het kwaad in de onderwereld (-117).",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]",
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "start-eeuwige-oorlog-door-de-grote-zonde-0",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -115,
+    "titel": "Start Garmeland-Beekervaartse oorlog",
+    "detail": "Door concurrentie; eerste oorlog met groots gebruik van Mana.",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]",
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "start-garmeland-beekervaartse-oorlog--115",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -220,
+    "titel": "Start Grote Krestoriaanse oorlog",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "start-grote-krestoriaanse-oorlog--220",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 92,
+    "titel": "Start Ondergrondse oorlogen",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "start-ondergrondse-oorlogen-92",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -927,
+    "titel": "Start oorlog tussen Dwergen en Mensen",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "start-oorlog-tussen-dwergen-en-mensen--927",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -180,
+    "titel": "Start Oude Rattenplaag",
+    "detail": "Mensen verwachten een straf van de goden",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "start-oude-rattenplaag--180",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 82,
+    "titel": "Start Püngü-so oorlogen",
+    "detail": "Om Neder-Lepan na het overlijden van de tsaar zonder opvolger.",
+    "groep": "Tijd van Verdeling",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]",
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "start-pungu-so-oorlogen-82",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -117,
+    "titel": "Start Storbuutse Bloedwinter",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "start-storbuutse-bloedwinter--117",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 149,
+    "titel": "Start tweede Balderokken opstand",
+    "detail": "Balder bezet Rollodo",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "start-tweede-balderokken-opstand-149",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 86,
+    "titel": "Stichting Markiezaat Erendorf",
+    "detail": "Tegen de Nooise invasies",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "stichting-markiezaat-erendorf-86",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -182,
+    "titel": "Stichting Republiek Skaffadocië",
+    "detail": "Vluchtelingen uit Oud-Krestoris komen aan op Skaffadocië.",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "stichting-republiek-skaffadocie--182",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -162,
+    "titel": "Storbuutse Federatie wordt een rijk",
+    "detail": "Randhaarst is compleet ingelijfd",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "storbuutse-federatie-wordt-een-rijk--162",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -67,
+    "titel": "Trongelse smidsgilde opgericht",
+    "detail": "Door een groep dwergen en mensen.",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "trongelse-smidsgilde-opgericht--67",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -67,
+    "titel": "Trongelse smidsgilde wordt opgericht",
+    "detail": "Smidsgilde van dwergen en mensen",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "trongelse-smidsgilde-wordt-opgericht--67",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 75,
+    "titel": "Uiteenvalling Meestersraad",
+    "groep": "Tijd van Verdeling",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "uiteenvalling-meestersraad-75",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 32,
+    "titel": "Uitroeping Triumvantium",
+    "detail": "Skaffadus II roept het Triumvantium uit",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "uitroeping-triumvantium-32",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -800,
+    "titel": "Val van het Alkonsische rijk",
+    "detail": "Mogelijk door duister",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "val-van-het-alkonsische-rijk--800",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 4,
+    "titel": "Val van het Noordelijke dwergenrijk",
+    "detail": "Bijna helemaal uitgeroeid door duistere kracht",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "val-van-het-noordelijke-dwergenrijk-4",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 87,
+    "titel": "Verbranding en inname Librerium",
+    "groep": "Tijd van Verdeling",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]",
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "verbranding-en-inname-librerium-87",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -99,
+    "titel": "Vintar sluit zich opnieuw aan bij het keizerrijk",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "vintar-sluit-zich-opnieuw-aan-bij-het-keizerrijk--99",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -3,
+    "titel": "Vorming economische Cirkels",
+    "detail": "Skaffadus II vormt uit de Keizerscirkel handelscirkels",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "vorming-economische-cirkels--3",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -50,
+    "titel": "Vorming Economische Cirkels",
+    "detail": "Door Skaffadus II.",
+    "groep": "De Keizertijd",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "vorming-economische-cirkels--50",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 108,
+    "titel": "Vorming pact van Sallahri",
+    "detail": "Kruistocht richting Ranier en Afrika",
+    "groep": "Triumvantium",
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "vorming-pact-van-sallahri-108",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 44,
+    "titel": "Vorming rijken en kroningen",
+    "detail": "Inclusief vereniging van Skaffadocië onder Godrak.",
+    "groep": "Tijd van het triumviraat",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "vorming-rijken-en-kroningen-44",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 42,
+    "titel": "Vrede van Barterburg",
+    "detail": "De noorderratten geven zich over",
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "vrede-van-barterburg-42",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": 96,
+    "titel": "Vrede van Trazam",
+    "detail": "Vrede tussen Castavonië en Bohlul; Neder-Lepan veroverd; dochter van Krastus gehuwd met zoon van Bohlul.",
+    "groep": "De laatste hoop",
+    "sources": [
+      "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]"
+    ],
+    "id": "vrede-van-trazam-96",
+    "type": "timeline_event"
+  },
+  {
+    "jaar": -273,
+    "titel": "Vrijstaat Orstede valt Beekervaart binnen voor landbouwgrond",
+    "detail": null,
+    "groep": null,
+    "kleur": null,
+    "sources": [
+      "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)"
+    ],
+    "id": "vrijstaat-orstede-valt-beekervaart-binnen-voor-landbouwgrond--273",
+    "type": "timeline_event"
+  }
+]

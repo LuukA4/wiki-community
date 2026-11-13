@@ -1,0 +1,1214 @@
+[
+  {
+    "naam": "Antokor",
+    "functie": "Zwarte ridder",
+    "informatie": "Een van de eerste verduisterde ridders.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "antokor",
+    "type": "character"
+  },
+  {
+    "naam": "Antrakas",
+    "functie": "Koning van de ondoden",
+    "loyaliteit": [
+      "Mushroom"
+    ],
+    "religie": [
+      "Asmodeaans"
+    ],
+    "echtgenoot": "Dohanna",
+    "informatie": "Koning onder de doden, herrezen uit de dood; verlichaming van de dood, draagt harnas en twee-handig zwaard.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]",
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "titels": [
+      "Koning van de Ondoden"
+    ],
+    "persoonlijkheid": "Verlichaming van de dood; geen pijn of emotie.",
+    "id": "antrakas",
+    "type": "character"
+  },
+  {
+    "naam": "Arnold van Zattepier",
+    "familie": "van Zattepier",
+    "functie": "Kapitein, huurling",
+    "eigendommen": "Verzopen Jan, Malle Jaap",
+    "loyaliteit": [
+      "Zottelingen"
+    ],
+    "religie": [
+      "Kozel"
+    ],
+    "geboorteplaats": "Beunster",
+    "informatie": "Kapitein van de Zottelingen ('Roof, plunder en zuip maar weer!').",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "arnold-van-zattepier",
+    "type": "character"
+  },
+  {
+    "naam": "Aurelian",
+    "functie": "Bandiet in ballingschap",
+    "geboorteplaats": "afrika",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "aurelian",
+    "type": "character"
+  },
+  {
+    "naam": "Bahlul",
+    "functie": null,
+    "informatie": "Oostelijke heerser; in oorlog met Castavonië (Püngü-so oorlogen), later vrede.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "bahlul",
+    "type": "character"
+  },
+  {
+    "naam": "Balthazar Raltogh",
+    "informatie": "Broer van Skaffadus II; verbannen naar de zuidelijke draslanden.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "balthazar-raltogh",
+    "type": "character"
+  },
+  {
+    "naam": "Barsem Ursihr",
+    "familie": "Ursihr",
+    "functie": "Hertog",
+    "eigendommen": "Hertogdom Ursihr",
+    "loyaliteit": [
+      "Castavonië"
+    ],
+    "geboorteplaats": "Thalgen, Ursihr",
+    "informatie": "Familiehoofd van de Ursihrs; goede vriend van Ropert van Drood.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "barsem-ursihr",
+    "type": "character"
+  },
+  {
+    "naam": "Bartolomeüs van Heeselstein",
+    "familie": "van Heeselstein",
+    "titels": [
+      "Heer van Heeselstein"
+    ],
+    "loyaliteit": [
+      "Castavonië"
+    ],
+    "informatie": "Benoemd tot rijksbouwmeester in jaar 71 (samen met Jakobus Franker).",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "bartolomeus-van-heeselstein",
+    "type": "character"
+  },
+  {
+    "naam": "Benalbiz Apeli",
+    "familie": "Apeli",
+    "functie": "Diplomaat",
+    "geboorteplaats": "Apeli",
+    "loyaliteit": [
+      "Librerium",
+      "Apeli"
+    ],
+    "religie": [
+      "Lore"
+    ],
+    "sterfdatum": "87",
+    "sterfteplaats": "Het Librerium",
+    "informatie": "Persoonlijke gids van Krastus en Gregorius en diplomaat van Afrika. Sterft tijdens het beschermen van een van de vijf relikwieën in het Librerium.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "benalbiz-apeli",
+    "type": "character"
+  },
+  {
+    "naam": "Bertrude",
+    "loyaliteit": [
+      "Mushroom"
+    ],
+    "religie": [
+      "Asmodeaans",
+      "Beelzebub"
+    ],
+    "echtgenoot": "Reginald Dèlor (27-62)",
+    "kinderen": [
+      "Tristan Dèlor",
+      "Felix Dèlor"
+    ],
+    "uiterlijk": "Lange zilveren haren, bleke huid, gemiddelde lengte, draagt vaak wit.",
+    "persoonlijkheid": "Onvoorspelbaar en afgunstig.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "bertrude",
+    "type": "character"
+  },
+  {
+    "naam": "Boderick Ursihr",
+    "bijnaam": "De Avonturier",
+    "familie": "Ursihr",
+    "functie": "Koning van Randhaarst",
+    "loyaliteit": [
+      "RanhaarstUrsihr"
+    ],
+    "religie": [
+      "IJsbeergeloof"
+    ],
+    "sterfteplaats": "Zee",
+    "informatie": "Landde in -411 op de oostkust van Randhaarst en stichtte daar het eerste koninkrijk; stichter van de Ursihr-dynastie. Sterft tijdens een gevecht met een waterserpent.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "boderick-ursihr",
+    "type": "character"
+  },
+  {
+    "naam": "Carminia",
+    "functie": "Demon Asmodeus",
+    "loyaliteit": [
+      "Asmodeus"
+    ],
+    "religie": [
+      "Asmodeaans"
+    ],
+    "informatie": "Demon; Maurik Oost ter Dam verkocht zijn ziel aan haar (jaar 99).",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "carminia",
+    "type": "character"
+  },
+  {
+    "naam": "Casper (verwilderde)",
+    "bijnaam": "verwilderde oer Casper",
+    "functie": "Dwaler",
+    "eigendommen": "stok met knapzak van bananenblad",
+    "loyaliteit": [
+      "Niemand"
+    ],
+    "religie": [
+      "Jungle goden"
+    ],
+    "informatie": "Ooit reiziger uit Castavonië; verwilderde in de jungle; vermoordde Gork en vrouwe Bredius.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "casper-verwilderde",
+    "type": "character"
+  },
+  {
+    "naam": "De Doler",
+    "bijnaam": "De Doler",
+    "functie": "Huurling",
+    "informatie": "Reist mee naar afrika; familie zou rijk zijn maar heeft titel afgestaan.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "de-doler",
+    "type": "character"
+  },
+  {
+    "naam": "Dohanna",
+    "titels": [
+      "Koningin"
+    ],
+    "loyaliteit": [
+      "Mushroom"
+    ],
+    "religie": [
+      "Asmodeaans"
+    ],
+    "echtgenoot": "Antrakas",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "dohanna",
+    "type": "character"
+  },
+  {
+    "naam": "Dramon de Barmhartige",
+    "functie": "Legeraanvoerder",
+    "informatie": "Noemt zichzelf barmhartig omdat hij beweert mensen de dood cadeau te doen.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "dramon-de-barmhartige",
+    "type": "character"
+  },
+  {
+    "naam": "Duistere Tovenaar",
+    "titels": [
+      "Duistere Tovenaar"
+    ],
+    "loyaliteit": [
+      "Mushroom"
+    ],
+    "religie": [
+      "Asmodeaans?"
+    ],
+    "informatie": "Machtige duistere tovenaar in de moeraslanden; goede relaties met Antrakas, slechte met Dohanna.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "duistere-tovenaar",
+    "type": "character"
+  },
+  {
+    "naam": "Gerrit Wambuis",
+    "familie": "Wambuis",
+    "functie": "Librerium Grootmeester",
+    "loyaliteit": [
+      "Librerium",
+      "Lore"
+    ],
+    "religie": [
+      "Lore"
+    ],
+    "informatie": "Mogelijk overleden tijdens plundering/verbranding Librerium.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "gerrit-wambuis",
+    "type": "character"
+  },
+  {
+    "naam": "Gobert",
+    "bijnaam": "kampioen van Kozel",
+    "functie": "Kampioen van Kozel",
+    "eigendommen": "persoonlijk arbokken legioen",
+    "loyaliteit": [
+      "Kozel"
+    ],
+    "informatie": "Was sterfelijk man, volgeling van Kozel; door mana gemuteerd met langharige geitenkop en onmenselijke kracht.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "gobert",
+    "type": "character"
+  },
+  {
+    "naam": "Gregorius II van Druval",
+    "familie": "van Druval",
+    "titels": [
+      "Groothertog van Godrak, Graaf van Druval"
+    ],
+    "loyaliteit": [
+      "Godrak",
+      "Triumvantium"
+    ],
+    "religie": [
+      "Gregoriaans",
+      "Dravogo",
+      "Asmodeaans"
+    ],
+    "geboortedatum": "-18",
+    "geboorteplaats": "Thitemar, Druval",
+    "echtgenoot": "Namayara (101-?)",
+    "vader": "Renatus van Druval",
+    "moeder": "Wendel van Vintar-Valderingen",
+    "kinderen": [
+      "Zwarte Draak van Druval",
+      "Nymeria van Druval"
+    ],
+    "uiterlijk": "Rijkelijk versierd harnas; ene oog blauw, andere bruin met vleugje groen; platte neus, donkere bossige baard, donkere krullen onder de helm.",
+    "leven": "Leerde in het Librerium o.a. Harold, Maurik, Krastus en Marthinus kennen; kreeg de Mana-Draak Krimbal op zijn 10e verjaardag. Fan van het Skaffadosische spel Vâtruo voor oorlogsplanning. Corrumpeerde op de vulkaaneilanden tot Asmodeus; trouwde Namayara in 101.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "gregorius-ii-van-druval",
+    "type": "character"
+  },
+  {
+    "naam": "Haars Tuk",
+    "functie": "Leider snazelaargroep Reep",
+    "eigendommen": "snazelaars groep troepen",
+    "loyaliteit": [
+      "Reep"
+    ],
+    "informatie": "Half snazelaar.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "haars-tuk",
+    "type": "character"
+  },
+  {
+    "naam": "Harold Artus",
+    "familie": "Artus",
+    "titels": [
+      "Graaf van Goldra"
+    ],
+    "loyaliteit": [
+      "Godrak"
+    ],
+    "religie": [
+      "Gregoriaans"
+    ],
+    "geboortedatum": "-8",
+    "geboorteplaats": "Aarthuijs, Beekervaart",
+    "echtgenoot": "Isabella van Nèpadrek",
+    "vader": "Markus Artus",
+    "moeder": "Elizabeth D'Almerans",
+    "kinderen": [
+      "Tiberius Artus"
+    ],
+    "broers_zussen": [
+      "Catharina Artus"
+    ],
+    "persoonlijkheid": "Wordt aardig, slim en goed genoemd; strategisch sterk in organisatie van legers en voorraad.",
+    "leven": "Werd in jaar 56/46 geïnstalleerd als goldraak van Goldra; startte in jaar 57 met de bouw van fort Hardonium rond het Aarthuijs (af in 102).",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "harold-artus",
+    "type": "character"
+  },
+  {
+    "naam": "Hayamina van Barterburg",
+    "familie": "van Barterburg",
+    "functie": "Koningin",
+    "eigendommen": "Kroonland Whelen",
+    "loyaliteit": [
+      "Castavonie",
+      "Castavonië"
+    ],
+    "religie": [
+      "Kavelitisch"
+    ],
+    "geboorteplaats": "Barterburg",
+    "informatie": "Komt uit de adellijke familie die Barterburg bestuurt.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]",
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "titels": [
+      "Koningin van Castavonië"
+    ],
+    "geboortedatum": "-15",
+    "echtgenoot": "Krastus Suyckerbuyck I",
+    "kinderen": [
+      "Krastus II",
+      "Helena"
+    ],
+    "id": "hayamina-van-barterburg",
+    "type": "character"
+  },
+  {
+    "naam": "Helena Suyckerbuyck",
+    "familie": "Suyckerbuyck",
+    "functie": "Prinses, koningin",
+    "eigendommen": "Koninkrijk Neder-Lepan",
+    "loyaliteit": [
+      "Castavonië"
+    ],
+    "religie": [
+      "Kavelitisch"
+    ],
+    "geboorteplaats": "Ventium",
+    "informatie": "Dochter van koning Krastus; wordt na de vrede met bollet koningin van Neder-Lepan. Persoonlijk wapenschild: adelaar van Suyckerbuck verslaat groene draak van Lepan.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]",
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "titels": [
+      "Koningin van Neder-Lepan"
+    ],
+    "vader": "Krastus Suyckerbuyck I",
+    "moeder": "Hayamina -",
+    "id": "helena-suyckerbuyck",
+    "type": "character"
+  },
+  {
+    "naam": "Hendrik Oost ter Dam",
+    "familie": "Oost ter dam",
+    "titels": [
+      "Burggraaf van Inderwaarden",
+      "Graaf van Granderwaarden"
+    ],
+    "loyaliteit": [
+      "Godrak"
+    ],
+    "religie": [
+      "Vyrdalisch",
+      "Gregoriaans"
+    ],
+    "geboortedatum": "-6",
+    "geboorteplaats": "Eksterbank, Beekervaart",
+    "sterfdatum": "99",
+    "sterfteplaats": "Veld van As, Vulkaaneilanden",
+    "leven": "Erfde Burggraafschap Inderwaarden; viel Hogerwaarden binnen tijdens de Balderokkenopstand en riep Graafschap Granderwaarden uit.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "hendrik-oost-ter-dam",
+    "type": "character"
+  },
+  {
+    "naam": "Hendrik van Palland",
+    "familie": "van Palland",
+    "functie": "Hoogschout",
+    "eigendommen": "Hommelhaven",
+    "loyaliteit": [
+      "Castavonië"
+    ],
+    "religie": [
+      "Kavelitisch"
+    ],
+    "geboorteplaats": "Stierebosch, Ursihr",
+    "informatie": "Studeerde economie in het Librerium, daarna legeropleiding in Goldra; werd hoogschout van de vrijstad Hommelhaven.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "hendrik-van-palland",
+    "type": "character"
+  },
+  {
+    "naam": "Hugo",
+    "functie": "Bandietenleider in ballingschap",
+    "eigendommen": "De bende van de kale kin",
+    "loyaliteit": [
+      "Skaffa Djaffa"
+    ],
+    "informatie": "Baardloze dwerg; omgekocht door Skaffa Djaffa; geëxecuteerd tijdens de witte parade (jaar 51).",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "hugo",
+    "type": "character"
+  },
+  {
+    "naam": "Jan de Joviale",
+    "functie": "Muzikant",
+    "geboorteplaats": "Ooststeden",
+    "loyaliteit": [
+      "Librerium"
+    ],
+    "sterfdatum": "87",
+    "sterfteplaats": "Het Librerium",
+    "informatie": "Ging naar het Librerium omdat zijn muzikale talent daar gewaardeerd werd; sterft tijdens de verbranding van het Librerium.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "jan-de-joviale",
+    "type": "character"
+  },
+  {
+    "naam": "Jontel Jan",
+    "functie": null,
+    "informatie": "Woont in het Hoelterwoud en helpt Hoelterse mensachtigen en creaturen.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "jontel-jan",
+    "type": "character"
+  },
+  {
+    "naam": "Karlis van Orstede",
+    "familie": "van Orstede",
+    "functie": "Graaf / toernooi-organurator",
+    "eigendommen": "Graafschap Orstede",
+    "loyaliteit": [
+      "Castavonië"
+    ],
+    "religie": [
+      "Kavelitisch"
+    ],
+    "geboorteplaats": "Foldev, Orstede",
+    "informatie": "Organiseert toernooien (steekspelen, boogschieten, worstelen, schaken); won het grote toernooi van de trouwerij van Gregorius II van Druval.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "karlis-van-orstede",
+    "type": "character"
+  },
+  {
+    "naam": "Koenraad Ursihr",
+    "familie": "Ursihr",
+    "titels": [
+      "Heer van Randhaarst"
+    ],
+    "loyaliteit": [
+      "Godrak"
+    ],
+    "religie": [
+      "Gregoriaans (IJsbeer)"
+    ],
+    "geboortedatum": "-12",
+    "geboorteplaats": "Krimbon, Randhaarst",
+    "informatie": "Bloedlijn van Boderick Ursihr; een van de weinigen die nog in het oerse beren geloof gelooft.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "koenraad-ursihr",
+    "type": "character"
+  },
+  {
+    "naam": "Kozel",
+    "functie": "Entiteit/god",
+    "loyaliteit": [
+      "Kozel"
+    ],
+    "religie": [
+      "Kozel"
+    ],
+    "informatie": "De enige vorm waarin stervelingen hem zagen is een vage schaduw; wordt als een god beschouwd.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "kozel",
+    "type": "character"
+  },
+  {
+    "naam": "Krastus Leoric Suyckerbuyck II",
+    "familie": "Suyckerbuyck",
+    "functie": "Kroonprins",
+    "loyaliteit": [
+      "Castavonië"
+    ],
+    "religie": [
+      "Lore",
+      "Kavelitisch"
+    ],
+    "geboorteplaats": "Ventium",
+    "informatie": "Zoon van Krastus I en opvolger van de troon.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]",
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "titels": [
+      "Kroonprins van Castavonië"
+    ],
+    "vader": "Krastus Suyckerbuyck I",
+    "id": "krastus-leoric-suyckerbuyck-ii",
+    "type": "character"
+  },
+  {
+    "naam": "Krastus Suyckerbuyck I",
+    "familie": "Suyckerbuyck",
+    "functie": "Koning",
+    "eigendommen": "Koninkrijk Castavonië",
+    "loyaliteit": [
+      "Castavonië"
+    ],
+    "religie": [
+      "Lore",
+      "Kavelitisch"
+    ],
+    "geboorteplaats": "Ventium",
+    "informatie": "Was vroeger hertog van rijksland Koringland, militaire opvoeding, studeerde in het Librerium. Kreeg bijnaam 'krankzinnige koning' door trauma's; jaagt vaak in Ursihr en Frummenwoud. Opvoedde een drake genaamd Bobr.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]",
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "titels": [
+      "Koning van Castavonië"
+    ],
+    "geboortedatum": "-20",
+    "echtgenoot": "Hayamina -",
+    "vader": "Kranker III Suyckerbuyck van Castavonië",
+    "kinderen": [
+      "Krastus II",
+      "Helena"
+    ],
+    "bijnaam": "de krankzinnige koning",
+    "uiterlijk": "Tengere man van hoge gestalte, bleke huid, donkere ogen, brons haar tot de schouders, scherpe neus.",
+    "persoonlijkheid": "Geliefd door het volk, sluw in de politiek; krankzinnig geworden door trauma's van de eeuwige oorlog.",
+    "leven": "Geboren in de hertogelijke familie Suyckerbuyck; militaire opvoeding; studeerde in het Librerium. Werd in jaar 5 gekroond tot hertog van Koringland; benoemde Pierot van Ganderen tot baljuw. Na de uitspraak over het Triumvantium werd hij koning van Castavonië (jaar 42).",
+    "id": "krastus-suyckerbuyck-i",
+    "type": "character"
+  },
+  {
+    "naam": "Kwiebus",
+    "functie": "Oud-rechterhand van Reginald",
+    "loyaliteit": [
+      "Het duister"
+    ],
+    "geboorteplaats": "Krimbon, Randhaarst",
+    "informatie": "Adviseur van Reginald met contacten met duistere krachten; gaf Reginald duistere mana. Verbannen naar het zuiden na het Grote Feestmaal (jaar 66/62).",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "kwiebus",
+    "type": "character"
+  },
+  {
+    "naam": "Liegbeest",
+    "functie": "Mana-Draak",
+    "informatie": "Draak uit het noorden.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "liegbeest",
+    "type": "character"
+  },
+  {
+    "naam": "Lodoc van Druval",
+    "familie": "van Druval",
+    "loyaliteit": [
+      "Ridderorde Balvan"
+    ],
+    "religie": [
+      "Gregoriaans"
+    ],
+    "echtgenoot": "Wendel van Vintar-Valderingen",
+    "broers_zussen": [
+      "Renatus van Druval",
+      "Liliandra van Druval"
+    ],
+    "informatie": "Oudere broer van Renatus, zwaar tegen Dravogo.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "lodoc-van-druval",
+    "type": "character"
+  },
+  {
+    "naam": "Loran de strandjutter",
+    "functie": null,
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "loran-de-strandjutter",
+    "type": "character"
+  },
+  {
+    "naam": "Lucasius van Benzhoren",
+    "familie": "van Benzhoren",
+    "loyaliteit": [
+      "Anna"
+    ],
+    "religie": [
+      "?"
+    ],
+    "informatie": "Ooit ridder van de Trampeliers; verraadde de raad voor Anna. Verduisterde in 105 door aanwezigheid van Marosila.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "lucasius-van-benzhoren",
+    "type": "character"
+  },
+  {
+    "naam": "Luka",
+    "functie": "Librerium Monnik, Kapitein oorlogsmonniken",
+    "loyaliteit": [
+      "Librerium",
+      "Lore"
+    ],
+    "religie": [
+      "Lore"
+    ],
+    "informatie": "Heeft in het geheim een vrouw; geheime relatie met Olivia. Trekt mee met Reginald ondergronds tijdens de reclamatieoorlogen.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "luka",
+    "type": "character"
+  },
+  {
+    "naam": "Marinus",
+    "functie": "Librerium Boekhouder",
+    "loyaliteit": [
+      "Librerium",
+      "Lore"
+    ],
+    "religie": [
+      "Lore"
+    ],
+    "informatie": "Goede vrienden met Pim; zit vaak in de grote bibliotheek; schrijft verzamelde informatie op.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "marinus",
+    "type": "character"
+  },
+  {
+    "naam": "Marosila",
+    "functie": "Aartsdemon Asmodeus",
+    "eigendommen": "Paleis van vreugde",
+    "loyaliteit": [
+      "Asmodeus"
+    ],
+    "religie": [
+      "Varc'o",
+      "Asmodeaans"
+    ],
+    "informatie": "Ontmoet Gregorius II en redt hem op het slagveld, bekeert hem onbewust naar Asmodeaans.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "marosila",
+    "type": "character"
+  },
+  {
+    "naam": "Marthinus Zijp",
+    "familie": "Zijp",
+    "titels": [
+      "Heer van Ooststeden",
+      "Heer van Klaven"
+    ],
+    "loyaliteit": [
+      "Godrak"
+    ],
+    "religie": [
+      "Gregoriaans"
+    ],
+    "geboortedatum": "-10",
+    "geboorteplaats": "Krimpelhof, Orstede",
+    "leven": "Bouwde Zijpdommen (gefortificeerde gemeenten); kocht Ooststeden van Orstede.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "marthinus-zijp",
+    "type": "character"
+  },
+  {
+    "naam": "Maurik Oost ter Dam",
+    "familie": "Oost ter dam",
+    "titels": [
+      "Burggraaf van Inderwaarden"
+    ],
+    "loyaliteit": [
+      "Godrak"
+    ],
+    "religie": [
+      "Vyrdalisch",
+      "Asmodeaans"
+    ],
+    "geboortedatum": "-6",
+    "geboorteplaats": "Eksterbank, Beekervaart",
+    "sterfdatum": "99",
+    "sterfteplaats": "Veld van As, Vulkaaneilanden",
+    "kinderen": [
+      "Hendrik Oost ter Dam"
+    ],
+    "leven": "Raaf Kraakus is zijn boodschapper; bidt in het bos naar de woudgoden van Varc'o. Verkocht in 99 zijn ziel aan demon Carminia en werd Maurok de Baldadige.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "maurik-oost-ter-dam",
+    "type": "character"
+  },
+  {
+    "naam": "Maurok de Baldadige",
+    "bijnaam": "de Baldadige",
+    "familie": "Voorheen Oost ter Dam",
+    "functie": "Zwarte ridder",
+    "eigendommen": "persoonlijk leger",
+    "loyaliteit": [
+      "Asmodeus"
+    ],
+    "religie": [
+      "Asmodeaans"
+    ],
+    "geboorteplaats": "Het slachtveld van As",
+    "informatie": "Voorheen Maurik van Oosterdam; viel onder de spreuk van Asmodeus; vecht met eigen legioen tegen zijn oude land. Cambion sinds jaar 99.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]",
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "titels": [
+      "Zwarte ridder, Generaal"
+    ],
+    "geboortedatum": "11",
+    "leven": "Voorheen Maurik van Oosterdam; zwarte ridder met eigen legioen tegen zijn oude land.",
+    "id": "maurok-de-baldadige",
+    "type": "character"
+  },
+  {
+    "naam": "Namayara",
+    "titels": [
+      "Groothertogin van Godrak"
+    ],
+    "loyaliteit": [
+      "Godrak"
+    ],
+    "religie": [
+      "Geloof Afrika",
+      "Dravogo"
+    ],
+    "geboortedatum": "-12",
+    "geboorteplaats": "Afrika",
+    "echtgenoot": "Gregorius II (101-?)",
+    "kinderen": [
+      "Zwarte Draak van Druval",
+      "Nymeria van Druval"
+    ],
+    "informatie": "(Ex-)vrouw van keizer Sam; heilig verklaard ('Saranetesse') in jaar 99 voor helende krachten tijdens de Godrische burgeroorlog.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "namayara",
+    "type": "character"
+  },
+  {
+    "naam": "Nymeria van Druval",
+    "familie": "van Druval",
+    "loyaliteit": [
+      "Godrak"
+    ],
+    "religie": [
+      "Dravogo"
+    ],
+    "vader": "Gregorius II van Druval",
+    "moeder": "Namayara -",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "nymeria-van-druval",
+    "type": "character"
+  },
+  {
+    "naam": "Olivia",
+    "loyaliteit": [],
+    "religie": [
+      "Lore"
+    ],
+    "informatie": "Geheime relatie met grootmeester Luka.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "olivia",
+    "type": "character"
+  },
+  {
+    "naam": "Olivilder",
+    "titels": [
+      "Linkerhand"
+    ],
+    "loyaliteit": [
+      "Mushroom"
+    ],
+    "religie": [
+      "Asmodeaans"
+    ],
+    "informatie": "Linkerhand van Dohanna; oud-adviseur van Reginald die hem met fout advies corrumpeerde.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "olivilder",
+    "type": "character"
+  },
+  {
+    "naam": "Paulinus van Tinnitus",
+    "familie": "van Tinnitus",
+    "functie": "Heks",
+    "eigendommen": "Hekserij Brokster",
+    "loyaliteit": [
+      "Brokster"
+    ],
+    "informatie": "Vroeger heks van Brokster, later verbannen; veroverde Brokster terug en nam vrouwe Tolhuizen gevangen.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "paulinus-van-tinnitus",
+    "type": "character"
+  },
+  {
+    "naam": "Pierot van Ganderen",
+    "familie": "Ganderen",
+    "functie": "Baljuw",
+    "eigendommen": "Koringland",
+    "loyaliteit": [
+      "Castavonië"
+    ],
+    "religie": [
+      "Kavilitisch"
+    ],
+    "geboorteplaats": "Ventium, Whelen",
+    "informatie": "Baljuw van Koringland ('de broodmand van Castavonië'); een van de rijkste adel; kundig in het leiden van boeren en heffingstroepen.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "pierot-van-ganderen",
+    "type": "character"
+  },
+  {
+    "naam": "Pim",
+    "functie": "Librerium Grootmeester van Rekenen",
+    "loyaliteit": [
+      "Librerium",
+      "Lore"
+    ],
+    "religie": [
+      "Lore"
+    ],
+    "informatie": "Rekenmeester; bestudeert nieuwe rekenformules.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "pim",
+    "type": "character"
+  },
+  {
+    "naam": "Raimond",
+    "functie": "Librerium Grootmeester",
+    "loyaliteit": [
+      "Librerium",
+      "Lore"
+    ],
+    "religie": [
+      "Lore"
+    ],
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "raimond",
+    "type": "character"
+  },
+  {
+    "naam": "Reep",
+    "bijnaam": "het Steeltje",
+    "functie": "Potion-brouwer",
+    "eigendommen": "Herpershoek",
+    "loyaliteit": [
+      "Anna"
+    ],
+    "informatie": "Overziet de Herpershoek met snazelaars; heeft een eigen snazelaar-militie.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "reep",
+    "type": "character"
+  },
+  {
+    "naam": "Reginald Dèlor",
+    "familie": "Dèlor",
+    "titels": [
+      "Koning van Dèlor"
+    ],
+    "loyaliteit": [
+      "Dèlor"
+    ],
+    "religie": [
+      "Pepelisme",
+      "Asmodeaans",
+      "Skaffa"
+    ],
+    "geboortedatum": "-10",
+    "geboorteplaats": "Librerium, Dèlor",
+    "echtgenoot": "Bertrude (27-62)",
+    "vader": "Skaffadus II Dèlor",
+    "moeder": "Andrea Androeve",
+    "kinderen": [
+      "Balder Dèlor",
+      "Tristan Dèlor",
+      "Felix Dèlor"
+    ],
+    "broers_zussen": [
+      "Raphaël Dèlor"
+    ],
+    "uiterlijk": "Koninklijke, bijna goddelijke aura; lichtbruine puntige baard met zilveren haren, diepblauwe ogen, kaal, welgedaan figuur in dure gewaden.",
+    "leven": "Geboren -10; opgevoed door monniken van het Librerium. Nam na de dood van zijn eerste vrouw te veel mana en werd beïnvloed door Kwiebus (duistere mana); verduisterde. Na de creatie van de vijf relikwieën keerde hij terug; hielp het Librerium bevrijden. Stierf niet; trok in jaar 110 naar het verre oosten.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "reginald-delor",
+    "type": "character"
+  },
+  {
+    "naam": "Renatus van Druval",
+    "familie": "van Druval",
+    "titels": [
+      "Hertog van Godrak, Graaf van Druval"
+    ],
+    "loyaliteit": [
+      "Godrak"
+    ],
+    "religie": [
+      "Gregoriaans"
+    ],
+    "echtgenoot": "Wendel van Vintar-Valderingen",
+    "kinderen": [
+      "Flouria van Druval",
+      "Gregorius II van Druval"
+    ],
+    "broers_zussen": [
+      "Lodoc van Druval",
+      "Liliandra van Druval"
+    ],
+    "informatie": "Vader van Gregorius II; verenigde Druval en Valderingen door huwelijk; tegen Dravogo.",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "renatus-van-druval",
+    "type": "character"
+  },
+  {
+    "naam": "Roeland Backus",
+    "familie": "Backus",
+    "functie": "Maarschalk / Voorzitter van de oorlogsraad",
+    "loyaliteit": [
+      "Castavonië"
+    ],
+    "religie": [
+      "Lore",
+      "Gregoriaans"
+    ],
+    "geboorteplaats": "Pildir, Koringland",
+    "informatie": "Veldmaarschalk van het koninklijk leger; richtte de oorlogsraad op en het 6-jarenplan voor herstructurering van het leger.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]",
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "titels": [
+      "Maarschalk van de oorlogsraad"
+    ],
+    "leven": "Veldmaarschalk; benoemde tot hoofd noordfront in de eeuwige oorlog; richtte de oorlogsraad op met het 6-jarenplan.",
+    "id": "roeland-backus",
+    "type": "character"
+  },
+  {
+    "naam": "Ropert van Droord",
+    "bijnaam": "De zwaan van Krastus",
+    "familie": "van Droord",
+    "functie": "Generaal / Grootmeester van de orde van Balvan",
+    "eigendommen": "Ordestaat Balvan",
+    "loyaliteit": [
+      "Castavonië"
+    ],
+    "religie": [
+      "Kavelitisch"
+    ],
+    "informatie": "Meest vertrouwde generaal van Krastus; regeert de Ordestaat Balvan. Adopteerde tijdens de slag om de Euber een kat genaamd Gerbert.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "ropert-van-droord",
+    "type": "character"
+  },
+  {
+    "naam": "Skaffadus II Dèlor",
+    "familie": "Dèlor",
+    "titels": [
+      "Keizer van Dèlor"
+    ],
+    "loyaliteit": [
+      "Dèlor"
+    ],
+    "religie": [
+      "Gregoriaans",
+      "Asmodeaans",
+      "Skaffa"
+    ],
+    "geboortedatum": "-86",
+    "geboorteplaats": "Klopperije, Hartland",
+    "sterfdatum": "32",
+    "sterfteplaats": "Slag om de Euber, Sambadije",
+    "echtgenoot": "Andrea Androeve",
+    "vader": "Skaffadus I Dèlor",
+    "kinderen": [
+      "Raphaël Dèlor",
+      "Reginald Dèlor"
+    ],
+    "informatie": "Benoemde in zijn laatste woorden de vorming van het Triumvantium; stierf in de slag om de Euber (jaar 32).",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "skaffadus-ii-delor",
+    "type": "character"
+  },
+  {
+    "naam": "Tashir",
+    "functie": "Bandiet in ballingschap",
+    "geboorteplaats": "afrika/ranier land",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "tashir",
+    "type": "character"
+  },
+  {
+    "naam": "Tiberius Artus",
+    "familie": "Artus",
+    "loyaliteit": [
+      "Godrak"
+    ],
+    "religie": [
+      "Gregoriaans"
+    ],
+    "geboortedatum": "-8",
+    "geboorteplaats": "Aarthuijs, Beekervaart",
+    "vader": "Harold Artus",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "tiberius-artus",
+    "type": "character"
+  },
+  {
+    "naam": "Tristan (verduisterde)",
+    "familie": "Voorheen Dèlor",
+    "functie": "Zwarte ridder",
+    "loyaliteit": [],
+    "religie": [
+      "Iets van duister"
+    ],
+    "geboorteplaats": "Gangenstelsels",
+    "informatie": "Voorheen zoon van Reginald; gevangengenomen en gemarteld ondergronds; kwam terug als Cambion.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "tristan-verduisterde",
+    "type": "character"
+  },
+  {
+    "naam": "Viktor Smits",
+    "familie": "Smits",
+    "functie": "Kwakzalver",
+    "loyaliteit": [
+      "Moeras"
+    ],
+    "informatie": "Gefaalde tovenaar die mensen oplichtte; veroordeeld tot levenslange taakstraf (paddenstoelen plukken); meegenomen door snazelaars van anna.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "viktor-smits",
+    "type": "character"
+  },
+  {
+    "naam": "Warlock",
+    "functie": "Warlock",
+    "loyaliteit": [
+      "moeras"
+    ],
+    "geboorteplaats": "Lepan",
+    "informatie": "Mede-oprichter van het moeras koninkrijk.",
+    "sources": [
+      "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]"
+    ],
+    "id": "warlock",
+    "type": "character"
+  },
+  {
+    "naam": "Zwarte Draak van Druval",
+    "familie": "van Druval",
+    "titels": [
+      "Groothertog van Godrak, Graaf van Druval"
+    ],
+    "loyaliteit": [
+      "Godrak"
+    ],
+    "religie": [
+      "Gregoriaans",
+      "Dravogo"
+    ],
+    "vader": "Gregorius II van Druval",
+    "moeder": "Namayara",
+    "sources": [
+      "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]"
+    ],
+    "id": "zwarte-draak-van-druval",
+    "type": "character"
+  }
+]

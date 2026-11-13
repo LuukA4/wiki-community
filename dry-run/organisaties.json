@@ -1,0 +1,343 @@
+[
+  {
+    "naam": "Alkonsiërs",
+    "type": "organization",
+    "locatie": "Vintar-Valderingen, Borlova en Klaven",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "alkonsiers"
+  },
+  {
+    "naam": "Ardonen",
+    "type": "organization",
+    "locatie": "Inderwaarden, Hoogerwaarden en Frummenwoud",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "ardonen"
+  },
+  {
+    "naam": "Arigezen",
+    "type": "organization",
+    "locatie": "de Pepelarij en Androeve",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "arigezen"
+  },
+  {
+    "naam": "Avar-Avara",
+    "type": "organization",
+    "locatie": "Sahelregio",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "avar-avara"
+  },
+  {
+    "naam": "Broederschap van de zonsopgang",
+    "type": "organization",
+    "beschrijving": "Kavilitisch; in Koringland.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "broederschap-van-de-zonsopgang"
+  },
+  {
+    "naam": "De Nooien",
+    "type": "organization",
+    "locatie": "noordwestkant van het Bollet-rijk",
+    "beschrijving": "Maken veel gebruik van paarden.",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "de-nooien"
+  },
+  {
+    "naam": "De Sterrenwacht",
+    "type": "organization",
+    "beschrijving": "Sterrenwacht te Himadië; verklaarde in jaar 58 onafhankelijkheid van het Keizerrijk en sloot zich aan bij de Groot-Tovenarij van Ménok.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "de-sterrenwacht"
+  },
+  {
+    "naam": "Eerbaarheid",
+    "type": "organization",
+    "leider": "Valadora Milagon (Hoofd Dravogo Priesteres)",
+    "leden": [
+      "Aasha D'tsamaï"
+    ],
+    "beschrijving": "Dravogo orde specifiek bestaande uit vrouwelijke priesteressen. Vuur/rood symboliseert leven en geboorte; duisternis/zwart de dood.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "eerbaarheid"
+  },
+  {
+    "naam": "Hamaten",
+    "type": "organization",
+    "locatie": "Beunster, Goldra, Fraamden en de Tovenarij",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "hamaten"
+  },
+  {
+    "naam": "Herkiërs",
+    "type": "organization",
+    "locatie": "Hoelterwoud",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "herkiers"
+  },
+  {
+    "naam": "Kavilitische kerk",
+    "type": "organization",
+    "leider": "Hubner van Zwalen (7e Oplidoom)",
+    "beschrijving": "Religieuze gemeenschap van het Kavilitische geloof; stichter St Sebaltus.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "kavilitische-kerk"
+  },
+  {
+    "naam": "Krestorianen",
+    "type": "organization",
+    "locatie": "Seermuk, Walgen, Viminar, Varinst en Druval",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "krestorianen"
+  },
+  {
+    "naam": "Loerijnen",
+    "type": "organization",
+    "locatie": null,
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "loerijnen"
+  },
+  {
+    "naam": "Meestersraad",
+    "type": "organization",
+    "leider": "Gregorius II van Druval (oprichter)",
+    "leden": [
+      "Douwe van Booren",
+      "Harold Artus",
+      "Reginald Dèlor",
+      "Maurik Oost ter Dam",
+      "Jelle"
+    ],
+    "beschrijving": "Opgericht -3 door rijke adel van Skaffadocië; viel uiteen in jaar 75.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "meestersraad"
+  },
+  {
+    "naam": "Oldragen",
+    "type": "organization",
+    "locatie": "Oemban",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "oldragen"
+  },
+  {
+    "naam": "Orde van de Basilisk (Dandalië)",
+    "type": "organization",
+    "beschrijving": "Ridderorde in Dandalië.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "orde-van-de-basilisk-dandalie"
+  },
+  {
+    "naam": "Orde van de eclipse",
+    "type": "organization",
+    "beschrijving": "Kavilitisch; gevestigd in Tolheim.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "orde-van-de-eclipse"
+  },
+  {
+    "naam": "Orde van de zon",
+    "type": "organization",
+    "beschrijving": "Persoonlijke garde van de huidige oplidoom; beschermers van heilige plaatsen, relieken en de Oplidoom. Opgericht tijdens de eeuwige oorlog. Loyaliteit: Kavilitische kerk.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "orde-van-de-zon"
+  },
+  {
+    "naam": "Pansoliërs",
+    "type": "organization",
+    "locatie": null,
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "pansoliers"
+  },
+  {
+    "naam": "Raad van 15 heren",
+    "type": "organization",
+    "leider": "Douwe van Booren",
+    "leden": [
+      "Brant van Prasen",
+      "Allard Smoeburg",
+      "Maruo Drïefur",
+      "Lucius Brodo",
+      "Moverdt Arkanst",
+      "Lucasius van Benzhoren"
+    ],
+    "beschrijving": "Luidt de klok 15x wanneer de Trampeliers eraan komen; de heren van de Trampeliers rijden voorop.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "raad-van-15-heren"
+  },
+  {
+    "naam": "Raad van draken",
+    "type": "organization",
+    "beschrijving": "Raad van draken.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "raad-van-draken"
+  },
+  {
+    "naam": "Raad van Tovenaars",
+    "type": "organization",
+    "leider": "Ménok de Witte (oprichter)",
+    "leden": [
+      "Melgior",
+      "Cornelis",
+      "Almeric"
+    ],
+    "beschrijving": "Raad van tovenaars van het Librerium.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "raad-van-tovenaars"
+  },
+  {
+    "naam": "Ralzijnen",
+    "type": "organization",
+    "locatie": "Metradorium, Dandali en Midon",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "ralzijnen"
+  },
+  {
+    "naam": "Ridders van de rode zon",
+    "type": "organization",
+    "beschrijving": "Kavilitisch; gevestigd in Tolheim.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "ridders-van-de-rode-zon"
+  },
+  {
+    "naam": "Roldanen",
+    "type": "organization",
+    "locatie": "Rollodo en Drazul",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "roldanen"
+  },
+  {
+    "naam": "Samlanders",
+    "type": "organization",
+    "locatie": "Sambadije en Balvan",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "samlanders"
+  },
+  {
+    "naam": "Storbuten",
+    "type": "organization",
+    "locatie": "Ursihr, Yalten, Hommelhaven, Kaurum, Randhaarst",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "storbuten"
+  },
+  {
+    "naam": "Struinlanders",
+    "type": "organization",
+    "locatie": "Koringland, Whelen, Teteren, Orstede en Ooststeden",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "struinlanders"
+  },
+  {
+    "naam": "Tarmanen",
+    "type": "organization",
+    "locatie": "Tolen en Hormia",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "tarmanen"
+  },
+  {
+    "naam": "Tavolen",
+    "type": "organization",
+    "locatie": "Gadrisië",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "tavolen"
+  },
+  {
+    "naam": "Triumvantium",
+    "type": "organization",
+    "leider": "Keizer Skaffadus II van Dèlor (oprichter)",
+    "leden": [
+      "Reginald Dèlor",
+      "Krastus Suykerbuyk",
+      "Gregorius II van Druval"
+    ],
+    "beschrijving": "Stabiliteit in het oude keizerrijk; Skaffadus II verdeelde het keizerrijk ter preventie van verzwakking van zijn zoon.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "triumvantium"
+  },
+  {
+    "naam": "Vintar-Mariniers",
+    "type": "organization",
+    "beschrijving": "Mariniers van Vintar.",
+    "sources": [
+      "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)"
+    ],
+    "id": "vintar-mariniers"
+  },
+  {
+    "naam": "Voldanten",
+    "type": "organization",
+    "locatie": "Beekervaart en Mosdor",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "voldanten"
+  },
+  {
+    "naam": "Vordrellen",
+    "type": "organization",
+    "locatie": "Interwolde",
+    "sources": [
+      "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)"
+    ],
+    "id": "vordrellen"
+  }
+]
