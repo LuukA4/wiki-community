@@ -242,6 +242,102 @@
     "sourceEntityType": "organization"
   },
   {
+    "docId": "Foldaafse_staatsmilitie",
+    "title": "Foldaafse staatsmilitie",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Foldaafse staatsmilitie"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "staatsmilitie"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Graafschap Orstede (Foldev)"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Leger van Orstede, 'de wacht van het Librerium'; tijdens het beleg van Foldev (jaar 12) beschermden ze een omgevallen muur en wierpen bommengooiers bommen; beladen ezels met munitie. Kleuren rood-geel-wit."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nLeger van Orstede, 'de wacht van het Librerium'; tijdens het beleg van Foldev (jaar 12) beschermden ze een omgevallen muur en wierpen bommengooiers bommen; beladen ezels met munitie. Kleuren rood-geel-wit.",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Godrische_Leensoldaat",
+    "title": "Godrische Leensoldaat",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Godrische Leensoldaat"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "leger"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Groothertogdom Godrak"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Getrainde leensoldaten (6 rangen), ook uitgezonden naar andere gebieden."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGetrainde leensoldaten (6 rangen), ook uitgezonden naar andere gebieden.",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Goldra_Boogschutter",
+    "title": "Goldra Boogschutter",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Goldra Boogschutter"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "eenheid"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Graafschap Goldra"
+        ]
+      }
+    ],
+    "content": "",
+    "sourceEntityType": "organization"
+  },
+  {
     "docId": "Hamaten",
     "title": "Hamaten",
     "category": "Organisaties",
@@ -298,6 +394,74 @@
     "sourceEntityType": "organization"
   },
   {
+    "docId": "Hertogelijke_garde_(Godrak)",
+    "title": "Hertogelijke garde (Godrak)",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Hertogelijke garde (Godrak)"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "garde"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Groothertogdom Godrak"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Loyaalste soldaten; bescherming van entourages, onderdrukking van opstanden, politiewerk. Elke heer krijgt hertogelijke garde als persoonlijke bescherming onder direct toezicht van de groothertog."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nLoyaalste soldaten; bescherming van entourages, onderdrukking van opstanden, politiewerk. Elke heer krijgt hertogelijke garde als persoonlijke bescherming onder direct toezicht van de groothertog.",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Hoelterse_mensachtigen",
+    "title": "Hoelterse mensachtigen",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Hoelterse mensachtigen"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "volk"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Walterschap Hoelterwoud"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Door mana aangetaste menssoorten; gediscrimineerd, niet welkom in dorpen; vaak gebruikt door Skaffa Djaffa in zijn oorlogen; raar uiterlijk door ongecontroleerde mana."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nDoor mana aangetaste menssoorten; gediscrimineerd, niet welkom in dorpen; vaak gebruikt door Skaffa Djaffa in zijn oorlogen; raar uiterlijk door ongecontroleerde mana.",
+    "sourceEntityType": "organization"
+  },
+  {
     "docId": "Kavilitische_kerk",
     "title": "Kavilitische kerk",
     "category": "Organisaties",
@@ -332,6 +496,68 @@
     "sourceEntityType": "organization"
   },
   {
+    "docId": "Keizersraad",
+    "title": "Keizersraad",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Keizersraad"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "raad"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Kroonland Metradorium"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Oudste cirkel (cirkel 3): Metradorium, Dandali, Hormia, Gadrisië, Androeve, Pepelarij. Economische handelssector met de loyaalste bondgenoten van de keizer (gevormd -50)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nOudste cirkel (cirkel 3): Metradorium, Dandali, Hormia, Gadrisië, Androeve, Pepelarij. Economische handelssector met de loyaalste bondgenoten van de keizer (gevormd -50).",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Kikkermannen",
+    "title": "Kikkermannen",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Kikkermannen"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "volk"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Bewoners van moerassen en zwambossen in het zuiden; communiceren door kwaken; trouw aan de paddenkoning; ingehuurd als scouts/gidsen en huurlingen."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nBewoners van moerassen en zwambossen in het zuiden; communiceren door kwaken; trouw aan de paddenkoning; ingehuurd als scouts/gidsen en huurlingen.",
+    "sourceEntityType": "organization"
+  },
+  {
     "docId": "Krestorianen",
     "title": "Krestorianen",
     "category": "Organisaties",
@@ -360,6 +586,102 @@
     "sourceEntityType": "organization"
   },
   {
+    "docId": "Leger_van_Castavonië",
+    "title": "Leger van Castavonië",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Leger van Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "leger"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Grootste leger van het Triumvantium met de meeste heffingstroepen; koploper in buskruitproductie. Focus: ridders, lichte ruiterij, paalwapeninfanterie, boogschutters, buskruitartillerie."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGrootste leger van het Triumvantium met de meeste heffingstroepen; koploper in buskruitproductie. Focus: ridders, lichte ruiterij, paalwapeninfanterie, boogschutters, buskruitartillerie.",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Leger_van_Dèlor",
+    "title": "Leger van Dèlor",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Leger van Dèlor"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "leger"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Koninkrijk Dèlor"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Goed leger van groots formaat met veel oproepkracht; ridders, speermannen, schutters, buskruitartillerie."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGoed leger van groots formaat met veel oproepkracht; ridders, speermannen, schutters, buskruitartillerie.",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Librerium_Ridder",
+    "title": "Librerium Ridder",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Librerium Ridder"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "eenheid"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Het Librerium"
+        ]
+      }
+    ],
+    "content": "",
+    "sourceEntityType": "organization"
+  },
+  {
     "docId": "Loerijnen",
     "title": "Loerijnen",
     "category": "Organisaties",
@@ -379,6 +701,34 @@
       }
     ],
     "content": "",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Mana-Tovenaar",
+    "title": "Mana-Tovenaar",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Mana-Tovenaar"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "volk"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Mensen gemaakt van mana (zoals Ménok en Cornelis); vallen onder menssoorten."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nMensen gemaakt van mana (zoals Ménok en Cornelis); vallen onder menssoorten.",
     "sourceEntityType": "organization"
   },
   {
@@ -422,6 +772,68 @@
     "sourceEntityType": "organization"
   },
   {
+    "docId": "Meestersraad_(cirkel_1)",
+    "title": "Meestersraad (cirkel 1)",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Meestersraad (cirkel 1)"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "raad"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Skaffadocië"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Randhaarst, Skaffadocië, Beunster, Frummenwoud, Metradorium, Borlova, Inderwaarden, Goldra/Garmeland, Himadië, Ménok. Valt uiteen in jaar 75."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nRandhaarst, Skaffadocië, Beunster, Frummenwoud, Metradorium, Borlova, Inderwaarden, Goldra/Garmeland, Himadië, Ménok. Valt uiteen in jaar 75.",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Noorderratten",
+    "title": "Noorderratten",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Noorderratten"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "volk"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Andere soort ratspur (steviger, minder intelligent); stammen in de noorderbergen onder de sterkste; berucht om bloeddorstigheid; werden verenigd door duistere magie in de eeuwige oorlog."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nAndere soort ratspur (steviger, minder intelligent); stammen in de noorderbergen onder de sterkste; berucht om bloeddorstigheid; werden verenigd door duistere magie in de eeuwige oorlog.",
+    "sourceEntityType": "organization"
+  },
+  {
     "docId": "Oldragen",
     "title": "Oldragen",
     "category": "Organisaties",
@@ -447,6 +859,74 @@
       }
     ],
     "content": "",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Opperraad_/_Hoge_militaire_raad",
+    "title": "Opperraad / Hoge militaire raad",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Opperraad / Hoge militaire raad"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "raad"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Groothertogdom Godrak"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Opperraad: admiraal, groothertog, generaal. Hoge militaire raad over marine, land en lucht; staand leger, privélegers, leenleger."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nOpperraad: admiraal, groothertog, generaal. Hoge militaire raad over marine, land en lucht; staand leger, privélegers, leenleger.",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Orakel_der_Draken",
+    "title": "Orakel der Draken",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Orakel der Draken"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "orakel"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Oud-Skaffadocië"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Dravogo-geloof; draken beweerden elk element te controleren. Door de 6 keizers belegerd en vernietigd; alle draken gedood op twee na: Ragitonis (Wind) en de Bliksemdraak."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nDravogo-geloof; draken beweerden elk element te controleren. Door de 6 keizers belegerd en vernietigd; alle draken gedood op twee na: Ragitonis (Wind) en de Bliksemdraak.",
     "sourceEntityType": "organization"
   },
   {
@@ -534,6 +1014,34 @@
     "sourceEntityType": "organization"
   },
   {
+    "docId": "Orks",
+    "title": "Orks",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Orks"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "volk"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Volk in het Zegenland."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nVolk in het Zegenland.",
+    "sourceEntityType": "organization"
+  },
+  {
     "docId": "Pansoliërs",
     "title": "Pansoliërs",
     "category": "Organisaties",
@@ -553,6 +1061,108 @@
       }
     ],
     "content": "",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Raad_2",
+    "title": "Raad 2",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Raad 2"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "raad"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Beekervaart"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Beekervaart, Mosdor, Librerium, Orstede, Whelen, Koringland."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nBeekervaart, Mosdor, Librerium, Orstede, Whelen, Koringland.",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Raad_4",
+    "title": "Raad 4",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Raad 4"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "raad"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Koringland"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Koringland, Teteren, Sambadije, Whelen, Vampieren, Turland, Vrijstad Dovenburg, Heerlijkheid Vreisburg, Heerlijkheid Arstellen."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nKoringland, Teteren, Sambadije, Whelen, Vampieren, Turland, Vrijstad Dovenburg, Heerlijkheid Vreisburg, Heerlijkheid Arstellen.",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Raad_5",
+    "title": "Raad 5",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Raad 5"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "raad"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Rollodo"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Rollodo, Drazul, Hoogerwaarden, Hoelterwoud, Oemban, Interwolde."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nRollodo, Drazul, Hoogerwaarden, Hoelterwoud, Oemban, Interwolde.",
     "sourceEntityType": "organization"
   },
   {
@@ -692,6 +1302,34 @@
     "sourceEntityType": "organization"
   },
   {
+    "docId": "Ratspur_(Ratmannen)",
+    "title": "Ratspur (Ratmannen)",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Ratspur (Ratmannen)"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "volk"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Genetisch dicht bij mensen; spreken menselijke taal; leven in clans (als reuze adelijke families) met clanhoofd. Kregen in 47 gelijke rechten in Castavonië."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGenetisch dicht bij mensen; spreken menselijke taal; leven in clans (als reuze adelijke families) met clanhoofd. Kregen in 47 gelijke rechten in Castavonië.",
+    "sourceEntityType": "organization"
+  },
+  {
     "docId": "Ridders_van_de_rode_zon",
     "title": "Ridders van de rode zon",
     "category": "Organisaties",
@@ -773,6 +1411,102 @@
       }
     ],
     "content": "",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Sipahi",
+    "title": "Sipahi",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Sipahi"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "eenheid"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Lichte cavalerie-eenheid."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nLichte cavalerie-eenheid.",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Snazelaars_(Goblins)",
+    "title": "Snazelaars (Goblins)",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Snazelaars (Goblins)"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "volk"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Goblin-soort met grote oren, groen/bruine huid, laf gedrag; jagen in groepen op zwakke prooien; mogen niet in dorpen/steden van het Triumvantium verblijven (moerasdictaat van Skaffadus II)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGoblin-soort met grote oren, groen/bruine huid, laf gedrag; jagen in groepen op zwakke prooien; mogen niet in dorpen/steden van het Triumvantium verblijven (moerasdictaat van Skaffadus II).",
+    "sourceEntityType": "organization"
+  },
+  {
+    "docId": "Staand_Leger_van_Godrak_('Uz_Marto_Dorkul')",
+    "title": "Staand Leger van Godrak ('Uz Marto Dorkul')",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Staand Leger van Godrak ('Uz Marto Dorkul')"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "leger"
+        ]
+      },
+      {
+        "cells": [
+          "Leider",
+          "Groothertog Gregorius II van Druval"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Groothertogdom Godrak"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Professioneel staand leger van 10.000 man met 4 branches (land, marine, lucht, levensvoorzieningen): 1 opperbevelhebber, 4 generaals, 35 huisgarde, 15 kapiteinen, 20 luitenanten, 360 leenridders, 960 voetridders, 960 halberdiers, 5.760 piekeniers, 160 vaandragers, 1.920 kruisboogschutters, 960 pavise-kruisboogschutters. Onderverdeeld in 'Huk Varokoz Gregoriul' (5.000), vendel (500), vendelskwartier (125), compagnie (30), peloton (10); cavalerie in 'Zinhur Dravo Trampeol' (215 man), lans (48), lanskwartier (12), eskadron (6), skadron (3)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nProfessioneel staand leger van 10.000 man met 4 branches (land, marine, lucht, levensvoorzieningen): 1 opperbevelhebber, 4 generaals, 35 huisgarde, 15 kapiteinen, 20 luitenanten, 360 leenridders, 960 voetridders, 960 halberdiers, 5.760 piekeniers, 160 vaandragers, 1.920 kruisboogschutters, 960 pavise-kruisboogschutters. Onderverdeeld in 'Huk Varokoz Gregoriul' (5.000), vendel (500), vendelskwartier (125), compagnie (30), peloton (10); cavalerie in 'Zinhur Dravo Trampeol' (215 man), lans (48), lanskwartier (12), eskadron (6), skadron (3).",
     "sourceEntityType": "organization"
   },
   {
@@ -928,6 +1662,40 @@
     "sourceEntityType": "organization"
   },
   {
+    "docId": "Verband_van_IJzer_en_Hout",
+    "title": "Verband van IJzer en Hout",
+    "category": "Organisaties",
+    "infoboxCaption": "Organisatie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Verband van IJzer en Hout"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "verbond"
+        ]
+      },
+      {
+        "cells": [
+          "Locatie",
+          "Ursihr"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Ursihr, Kaurum, Yalten, Beunster, Vrijstad Talivaart."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nUrsihr, Kaurum, Yalten, Beunster, Vrijstad Talivaart.",
+    "sourceEntityType": "organization"
+  },
+  {
     "docId": "Vintar-Mariniers",
     "title": "Vintar-Mariniers",
     "category": "Organisaties",
@@ -1037,6 +1805,34 @@
       }
     ],
     "content": "## Beschrijving\n\nOostelijk rijk, in oorlog met Castavonië (Püngü-so oorlogen), later vrede (Vrede van Trazam, 96) en pact van Sallahri (102).",
+    "sourceEntityType": "country"
+  },
+  {
+    "docId": "Bollet_Sultanaat",
+    "title": "Bollet Sultanaat",
+    "category": "Landen",
+    "infoboxCaption": "Land",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Bollet Sultanaat"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Sultanaat"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Oostelijk sultanaat; in oorlog met Castavonië (Püngü-so oorlogen) en later vrede (Vrede van Trazam, 96/98) en pact van Sallahri."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nOostelijk sultanaat; in oorlog met Castavonië (Püngü-so oorlogen) en later vrede (Vrede van Trazam, 96/98) en pact van Sallahri.",
     "sourceEntityType": "country"
   },
   {
@@ -1203,6 +1999,34 @@
       }
     ],
     "content": "## Beschrijving\n\nOostelijk rijk in Afrika-achtige regio's: Ekundè, Oloja, Nafaruza, Zarukha Mansanaat, Confederatie van Havas, Djalu Kwitoo-Vangoo, Ozuzu Federatie, Fari Toroké, Dahusa, Aboro, Ajiruba, Kalomé, Mbara-Lunu, Okon Goro, Marafa, Bohlul.",
+    "sourceEntityType": "country"
+  },
+  {
+    "docId": "Khalid_Kalifaat",
+    "title": "Khalid Kalifaat",
+    "category": "Landen",
+    "infoboxCaption": "Land",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Khalid Kalifaat"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Kalifaat"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Oostelijk kalifaat met Abdul Ranier als extremist."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nOostelijk kalifaat met Abdul Ranier als extremist.",
     "sourceEntityType": "country"
   },
   {
@@ -1410,6 +2234,34 @@
     "sourceEntityType": "country"
   },
   {
+    "docId": "Neder-Lepanese_Emiraten",
+    "title": "Neder-Lepanese Emiraten",
+    "category": "Landen",
+    "infoboxCaption": "Land",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Neder-Lepanese Emiraten"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Emiraten"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Verdeeld Neder-Lepan; veroverd door Castavonië/Bohlul in de Püngü-so oorlogen; geregeerd door dochter van Krastus met zoon van Bohlul."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nVerdeeld Neder-Lepan; veroverd door Castavonië/Bohlul in de Püngü-so oorlogen; geregeerd door dochter van Krastus met zoon van Bohlul.",
+    "sourceEntityType": "country"
+  },
+  {
     "docId": "Oud-Krestoris",
     "title": "Oud-Krestoris",
     "category": "Landen",
@@ -1497,6 +2349,34 @@
       }
     ],
     "content": "## Beschrijving\n\nVerbond van drie staten ontstaan in jaar 45 na de verdeling van het Keizerrijk Dèlor door Skaffadus II. Leden: Reginald Dèlor, Krastus Suykerbuyk, Gregorius II van Druval. Opgericht door Keizer Skaffadus II van Dèlor.",
+    "sourceEntityType": "country"
+  },
+  {
+    "docId": "Tsardom_Lepan",
+    "title": "Tsardom Lepan",
+    "category": "Landen",
+    "infoboxCaption": "Land",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Tsardom Lepan"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Tsardom"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Oostelijk tsardom; splitst in jaar 21/82 in Neder-Lepan en Hoger-Lepan na het overlijden van de tsaar."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nOostelijk tsardom; splitst in jaar 21/82 in Neder-Lepan en Hoger-Lepan na het overlijden van de tsaar.",
     "sourceEntityType": "country"
   },
   {
@@ -2096,6 +2976,52 @@
     "sourceEntityType": "region"
   },
   {
+    "docId": "Graafschap_Beekervaart",
+    "title": "Graafschap Beekervaart",
+    "category": "Regio's",
+    "infoboxCaption": "Regio",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Graafschap Beekervaart"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Graafschap"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Groothertogdom Godrak"
+        ]
+      },
+      {
+        "cells": [
+          "Hoofdstad",
+          "Eksterbank"
+        ]
+      },
+      {
+        "cells": [
+          "Heerser",
+          "Ogustinus van Beekervaart"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "~210.000 inwoners; graslanden en loofbossen; Eksterbank was grootste handelsstad van het keizerrijk aan de S Walkerbeek/Trantaan."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\n~210.000 inwoners; graslanden en loofbossen; Eksterbank was grootste handelsstad van het keizerrijk aan de S Walkerbeek/Trantaan.",
+    "sourceEntityType": "region"
+  },
+  {
     "docId": "Graafschap_Fraamden",
     "title": "Graafschap Fraamden",
     "category": "Regio's",
@@ -2397,6 +3323,18 @@
       },
       {
         "cells": [
+          "Hoofdstad",
+          "Timpelberg"
+        ]
+      },
+      {
+        "cells": [
+          "Heerser",
+          "Paulinus van Tinitus"
+        ]
+      },
+      {
+        "cells": [
           "Beschrijving",
           "Slechte relaties met Castavonië; enorme invloed ondanks klein grondgebied; 10+ kikkerman stammen."
         ]
@@ -2449,6 +3387,46 @@
       }
     ],
     "content": "## Beschrijving\n\n~630.000 inwoners, graslanden en loofbossen.",
+    "sourceEntityType": "region"
+  },
+  {
+    "docId": "Hertogdom_Hoogerwoud",
+    "title": "Hertogdom Hoogerwoud",
+    "category": "Regio's",
+    "infoboxCaption": "Regio",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Hertogdom Hoogerwoud"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Hertogdom"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Dèlor"
+        ]
+      },
+      {
+        "cells": [
+          "Heerser",
+          "Franciscus Masul"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Dennenbos, loofbos, grasland, heuvels."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nDennenbos, loofbos, grasland, heuvels.",
     "sourceEntityType": "region"
   },
   {
@@ -2535,6 +3513,40 @@
       }
     ],
     "content": "## Beschrijving\n\nOntstond na een interne breuk in de Storbuutse Federatie; modern feodaal model, bekering tot het Kavilitische geloof. Bekend om infanterie, houtkap, bont en papier; havenstad Hommelhaven.",
+    "sourceEntityType": "region"
+  },
+  {
+    "docId": "Het_sticht_van_Androeve",
+    "title": "Het sticht van Androeve",
+    "category": "Regio's",
+    "infoboxCaption": "Regio",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Het sticht van Androeve"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Sticht"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Dèlor"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Gebied waarover een grootmeester als heer wereldlijke zeggenschap heeft; Androeve aan een oostelijke baai."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGebied waarover een grootmeester als heer wereldlijke zeggenschap heeft; Androeve aan een oostelijke baai.",
     "sourceEntityType": "region"
   },
   {
@@ -2630,6 +3642,52 @@
     "sourceEntityType": "region"
   },
   {
+    "docId": "Kroonland_Hartland",
+    "title": "Kroonland Hartland",
+    "category": "Regio's",
+    "infoboxCaption": "Regio",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Kroonland Hartland"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Kroondomein"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Dèlor"
+        ]
+      },
+      {
+        "cells": [
+          "Hoofdstad",
+          "Sabetra Loricum"
+        ]
+      },
+      {
+        "cells": [
+          "Heerser",
+          "Reginald van Dèlor"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "~1.100.000 inwoners; grasland, loofbossen, heides."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\n~1.100.000 inwoners; grasland, loofbossen, heides.",
+    "sourceEntityType": "region"
+  },
+  {
     "docId": "Kroonland_Metradorium",
     "title": "Kroonland Metradorium",
     "category": "Regio's",
@@ -2713,6 +3771,98 @@
       }
     ],
     "content": "## Beschrijving\n\nKroonland bestuurd door Krastus zelf. Ventium is hoofdstad en diplomatiek centrum; hier zetelt de Oplidoom van het Kavilisme en de Trongelse Smidsgilde. Clan Salvesium (grootste ratspur clan) rond Ventium.",
+    "sourceEntityType": "region"
+  },
+  {
+    "docId": "Land_van_Goldra",
+    "title": "Land van Goldra",
+    "category": "Regio's",
+    "infoboxCaption": "Regio",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Land van Goldra"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Golderdom"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Groothertogdom Godrak"
+        ]
+      },
+      {
+        "cells": [
+          "Hoofdstad",
+          "Patershof"
+        ]
+      },
+      {
+        "cells": [
+          "Heerser",
+          "Jorg van - / Harold Artus (goldraak)"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "~250.000-780.000 inwoners; basaltkliffen, grasland, heide, duinen."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\n~250.000-780.000 inwoners; basaltkliffen, grasland, heide, duinen.",
+    "sourceEntityType": "region"
+  },
+  {
+    "docId": "Markiezaat_Borlova",
+    "title": "Markiezaat Borlova",
+    "category": "Regio's",
+    "infoboxCaption": "Regio",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Markiezaat Borlova"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Markiezaat"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Dèlor"
+        ]
+      },
+      {
+        "cells": [
+          "Hoofdstad",
+          "Hancecort"
+        ]
+      },
+      {
+        "cells": [
+          "Heerser",
+          "Hanc II Borlova"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Moeras, duinen, mangroves."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nMoeras, duinen, mangroves.",
     "sourceEntityType": "region"
   },
   {
@@ -3020,6 +4170,40 @@
     "sourceEntityType": "region"
   },
   {
+    "docId": "Tovenarij_van_Cornelis",
+    "title": "Tovenarij van Cornelis",
+    "category": "Regio's",
+    "infoboxCaption": "Regio",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Tovenarij van Cornelis"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Tovenarij"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Dèlor"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Tovenarij van tovenaar Cornelis (verduisterde/helende kant)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nTovenarij van tovenaar Cornelis (verduisterde/helende kant).",
+    "sourceEntityType": "region"
+  },
+  {
     "docId": "Walterschap_Hoelterwoud",
     "title": "Walterschap Hoelterwoud",
     "category": "Regio's",
@@ -3054,13 +4238,2233 @@
     "sourceEntityType": "region"
   },
   {
+    "docId": "Zijpdom_Inklave",
+    "title": "Zijpdom Inklave",
+    "category": "Regio's",
+    "infoboxCaption": "Regio",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Zijpdom Inklave"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "Zijpdom"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Dèlor"
+        ]
+      },
+      {
+        "cells": [
+          "Heerser",
+          "Marthinus Zijp"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Neutraal gebleven in de Blauwe Revolutie; officieel zijpdom sinds 52/62."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nNeutraal gebleven in de Blauwe Revolutie; officieel zijpdom sinds 52/62.",
+    "sourceEntityType": "region"
+  },
+  {
+    "docId": "Asmodeaans",
+    "title": "Asmodeaans",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Asmodeaans"
+        ]
+      },
+      {
+        "cells": [
+          "Goden",
+          "Asmodeus"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Aftakking van Dravogo; zien Sint Gregorius als starter van chaos. Asmodeus is de duistere naam van Gregorius."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nAftakking van Dravogo; zien Sint Gregorius als starter van chaos. Asmodeus is de duistere naam van Gregorius.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Asmodeaans_geloof",
+    "title": "Asmodeaans geloof",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Asmodeaans geloof"
+        ]
+      },
+      {
+        "cells": [
+          "Goden",
+          "Asmodeus"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Duister geloof rond Asmodeus (lust)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nDuister geloof rond Asmodeus (lust).",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Dravogo",
+    "title": "Dravogo",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Dravogo"
+        ]
+      },
+      {
+        "cells": [
+          "Goden",
+          "Aasha"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Geloof met vrouwelijke priesteressen (orde Eerbaarheid); vuur/rood = leven, duisternis/zwart = dood. Eerste geschriften ontcijferd in Oud-Krestoris (-333)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGeloof met vrouwelijke priesteressen (orde Eerbaarheid); vuur/rood = leven, duisternis/zwart = dood. Eerste geschriften ontcijferd in Oud-Krestoris (-333).",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Duistere_goden_(het_Duister)",
+    "title": "Duistere goden (het Duister)",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Duistere goden (het Duister)"
+        ]
+      },
+      {
+        "cells": [
+          "Goden",
+          "Kozel, Kronos, Carrion, Asmodeus, Gormagon, Belphegor, Malachai, Danterion, Aasha, Morgana"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Gesplitst van 1 onstabiele god naar 7 stabiele goden. Duistere goden worden niet aanbeden maar worden sterker door zonden te beoefenen. Kozelaars staan volledig aan de kant van Kozel en Morgana."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGesplitst van 1 onstabiele god naar 7 stabiele goden. Duistere goden worden niet aanbeden maar worden sterker door zonden te beoefenen. Kozelaars staan volledig aan de kant van Kozel en Morgana.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Gregoriaans",
+    "title": "Gregoriaans",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Gregoriaans"
+        ]
+      },
+      {
+        "cells": [
+          "Goden",
+          "Sint Gregorius"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Skaffadosisch geloof van Sint Gregorius; ook veel op het vasteland aanbeden."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nSkaffadosisch geloof van Sint Gregorius; ook veel op het vasteland aanbeden.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Gregoriaans_geloof",
+    "title": "Gregoriaans geloof",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Gregoriaans geloof"
+        ]
+      },
+      {
+        "cells": [
+          "Goden",
+          "Sint Gregorius van Skaffadocië"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Ontstond -133 toen Gregorius van Skaffadocië de mana-bliksemdraak versloeg."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nOntstond -133 toen Gregorius van Skaffadocië de mana-bliksemdraak versloeg.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "IJsbeergeloof",
+    "title": "IJsbeergeloof",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "IJsbeergeloof"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Oud geloof van Randhaarst; ijsberen zijn heilig."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nOud geloof van Randhaarst; ijsberen zijn heilig.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Kavilitisch_geloof_(Kavilisme)",
+    "title": "Kavilitisch geloof (Kavilisme)",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Kavilitisch geloof (Kavilisme)"
+        ]
+      },
+      {
+        "cells": [
+          "Goden",
+          "De Ochtendheer"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Grootste geloof van Castavonië, vertakt van het Lore-geloof; focust op licht en zon (levenscyclus, wedergeboorte na de dood). God: de 'Ochtendheer'. Rode zon = voorspelling van bloedvergiet; geel is de geloofskleur; eclips = omen van duisternis. 3 diensten per dag (zonsopgang, hoge zon, zonsondergang). Leider: de Oplidoom (verkozen door groot-priesters, gevestigd in de grootste Balrût, doopt de koninklijke familie). Overledenen worden bij zonsondergang begraven; in het noorden veel wegaltaren. Sint Sebaltus verspreidde het geloof. Persoonlijke garde van de oplidoom: Orde van de zon; Orde van de eclipse als voorhoede tegen het duister."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGrootste geloof van Castavonië, vertakt van het Lore-geloof; focust op licht en zon (levenscyclus, wedergeboorte na de dood). God: de 'Ochtendheer'. Rode zon = voorspelling van bloedvergiet; geel is de geloofskleur; eclips = omen van duisternis. 3 diensten per dag (zonsopgang, hoge zon, zonsondergang). Leider: de Oplidoom (verkozen door groot-priesters, gevestigd in de grootste Balrût, doopt de koninklijke familie). Overledenen worden bij zonsondergang begraven; in het noorden veel wegaltaren. Sint Sebaltus verspreidde het geloof. Persoonlijke garde van de oplidoom: Orde van de zon; Orde van de eclipse als voorhoede tegen het duister.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Kozel-geloof",
+    "title": "Kozel-geloof",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Kozel-geloof"
+        ]
+      },
+      {
+        "cells": [
+          "Goden",
+          "Kozel"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Duister geloof van razernij, verspreid over het Zegenland."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nDuister geloof van razernij, verspreid over het Zegenland.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Lore",
+    "title": "Lore",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Lore"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Geloof dat in het Librerium wordt aangehangen."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGeloof dat in het Librerium wordt aangehangen.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Mammon",
+    "title": "Mammon",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Mammon"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Duister geloof in Afrika over hebzucht, meerdere vrouwen, sieraden en goud."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nDuister geloof in Afrika over hebzucht, meerdere vrouwen, sieraden en goud.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Pepelisme",
+    "title": "Pepelisme",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Pepelisme"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Geloof van Reginald Dèlor."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGeloof van Reginald Dèlor.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Skaffa",
+    "title": "Skaffa",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Skaffa"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Duister geloof rond Skaffa Djaffa & Kozel."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nDuister geloof rond Skaffa Djaffa & Kozel.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Skaffa_Djaffa",
+    "title": "Skaffa Djaffa",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Skaffa Djaffa"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Duister geloof van traagheid en het verslomen van gedachten; veel effect op Dèlor en de paddenstoelen-moerassen."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nDuister geloof van traagheid en het verslomen van gedachten; veel effect op Dèlor en de paddenstoelen-moerassen.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Varc'o",
+    "title": "Varc'o",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Varc'o"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Geloof van vreugde en liefde; Bokkeldans-priesteressen in het magisch woud van Inderwaarden; huwelijken in heksenringen."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGeloof van vreugde en liefde; Bokkeldans-priesteressen in het magisch woud van Inderwaarden; huwelijken in heksenringen.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "Vyrdalisch_geloof_(Varc'o)",
+    "title": "Vyrdalisch geloof (Varc'o)",
+    "category": "Religies",
+    "infoboxCaption": "Religie",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Vyrdalisch geloof (Varc'o)"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Woudgeloof van Maurik Oost ter Dam."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nWoudgeloof van Maurik Oost ter Dam.",
+    "sourceEntityType": "religion"
+  },
+  {
+    "docId": "De_Kristallen_Kelk",
+    "title": "De Kristallen Kelk",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "De Kristallen Kelk"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "kelk"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Ménok de Witte"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Met rode vuurkristallen."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nMet rode vuurkristallen.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "De_Plonkeldoos",
+    "title": "De Plonkeldoos",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "De Plonkeldoos"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "reliek"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Reginald Dèlor"
+        ]
+      }
+    ],
+    "content": "",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "De_Walsvlag",
+    "title": "De Walsvlag",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "De Walsvlag"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "vlag"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Vintar"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Handelsvlag van de handelsvloot van Vintar."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nHandelsvlag van de handelsvloot van Vintar.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Demon",
+    "title": "Demon",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Demon"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "mana-wezen"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Van mana gemaakt; wordt voor puur kwaad gebruikt."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nVan mana gemaakt; wordt voor puur kwaad gebruikt.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Draak",
+    "title": "Draak",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Draak"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "mana-wezen"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Krachtigste mana-wezen; kan Spreken (wijsheid van duizenden jaren) of alleen emoties (zoals Krimbal). Geïnspireerd op wyverns. Voorbeelden: Bliksemdraak (sterkste ooit, verslagen door Sint Gregorius), Ragitonis (Wind), Krimbal, Dauji (tweekoppige moerasdraak)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nKrachtigste mana-wezen; kan Spreken (wijsheid van duizenden jaren) of alleen emoties (zoals Krimbal). Geïnspireerd op wyverns. Voorbeelden: Bliksemdraak (sterkste ooit, verslagen door Sint Gregorius), Ragitonis (Wind), Krimbal, Dauji (tweekoppige moerasdraak).",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Drake",
+    "title": "Drake",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Drake"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "dier"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Grote hagedis (2-3m); baardgroei; te temmen (bv. Bobr van Krastus); Drake-eieren in de noorderbergen van Balvan; berijdbaar op ruig terrein."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGrote hagedis (2-3m); baardgroei; te temmen (bv. Bobr van Krastus); Drake-eieren in de noorderbergen van Balvan; berijdbaar op ruig terrein.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Emberzwijn",
+    "title": "Emberzwijn",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Emberzwijn"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "dier"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Groot rood zwijn; hoe roder hoe zeldzamer; leeft in Ursihr en Koringland; jacht van de adel; effectief tegen dondelfanten (brandende zwijnen, sinds 90)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGroot rood zwijn; hoe roder hoe zeldzamer; leeft in Ursihr en Koringland; jacht van de adel; effectief tegen dondelfanten (brandende zwijnen, sinds 90).",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Foldaafse_adelaar",
+    "title": "Foldaafse adelaar",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Foldaafse adelaar"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "dier"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Grote adelaar, spanwijdte 4,5m, witte veren, gele klauwen; jaagt op vee en groot wild (herten)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGrote adelaar, spanwijdte 4,5m, witte veren, gele klauwen; jaagt op vee en groot wild (herten).",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Goeiemorgen",
+    "title": "Goeiemorgen",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Goeiemorgen"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "wapen"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Wapen uit Garmeland."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nWapen uit Garmeland.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Gouden_voet_van_Kranker_'de_langtenige'",
+    "title": "Gouden voet van Kranker 'de langtenige'",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Gouden voet van Kranker 'de langtenige'"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "reliek"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Krastus"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Kranker verloor een voet in een veldslag; die werd als mal gebruikt voor een gouden voet."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nKranker verloor een voet in een veldslag; die werd als mal gebruikt voor een gouden voet.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Het_Bestiarium",
+    "title": "Het Bestiarium",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Het Bestiarium"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "boek"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Boek met bijna alle creaturen en mana-wezens van het Zegenland; wordt regelmatig bijgewerkt."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nBoek met bijna alle creaturen en mana-wezens van het Zegenland; wordt regelmatig bijgewerkt.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Het_eerste_licht",
+    "title": "Het eerste licht",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Het eerste licht"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "reliek/boek"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Oplidoom (Kavilitische kerk)"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Heilig boek van het Kavilitische geloof."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nHeilig boek van het Kavilitische geloof.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Het_Legendarium",
+    "title": "Het Legendarium",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Het Legendarium"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "boek"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Eeuwenoud boek met de vele verhalen over het Zegenland."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nEeuwenoud boek met de vele verhalen over het Zegenland.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Hoelterse_creaturen",
+    "title": "Hoelterse creaturen",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Hoelterse creaturen"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "mana-wezen"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Bijna elk creatuur in dit manawoud is uniek door mana-invloed."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nBijna elk creatuur in dit manawoud is uniek door mana-invloed.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Kroon_van_192_bladeren",
+    "title": "Kroon van 192 bladeren",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Kroon van 192 bladeren"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "kroonjuweel"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Helena Suyckerbuyck"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Gemaakt door de trongelse smidsgilde met adellijke smeden van bollet na de Püngü-so oorlogen; goud als vergulde laurierbladeren (overwinning op Lepan)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGemaakt door de trongelse smidsgilde met adellijke smeden van bollet na de Püngü-so oorlogen; goud als vergulde laurierbladeren (overwinning op Lepan).",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Kroon_van_Castavonië",
+    "title": "Kroon van Castavonië",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Kroon van Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "kroonjuweel"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Krastus"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Ontworpen door mensen, gesmeed door dwergen, ingelegd door ratspur; in het geheim gemaakt na de uitspraak van Skaffadus II over het Triumvantium."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nOntworpen door mensen, gesmeed door dwergen, ingelegd door ratspur; in het geheim gemaakt na de uitspraak van Skaffadus II over het Triumvantium.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Lichtbrenger",
+    "title": "Lichtbrenger",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Lichtbrenger"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "reliek/wapen"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Oplidoom (Kavilitische kerk)"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Oorlogshamer met gele mana-kristallen; volgens verhalen door een heilige gebruikt."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nOorlogshamer met gele mana-kristallen; volgens verhalen door een heilige gebruikt.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Mana-Griffioen",
+    "title": "Mana-Griffioen",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Mana-Griffioen"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "mana-wezen"
+        ]
+      }
+    ],
+    "content": "",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Ménoks_Goeiemorgen",
+    "title": "Ménoks Goeiemorgen",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Ménoks Goeiemorgen"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "wapen"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Ménok de Witte"
+        ]
+      }
+    ],
+    "content": "",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Nachtbreker",
+    "title": "Nachtbreker",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Nachtbreker"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "reliek/wapen"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Oplidoom (Kavilitische kerk)"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Lans met gele mana-kristallen; zou een langdurige duisternis hebben verdreven."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nLans met gele mana-kristallen; zou een langdurige duisternis hebben verdreven.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Paalbijl_van_Gregorius_II",
+    "title": "Paalbijl van Gregorius II",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Paalbijl van Gregorius II"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "wapen"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Gregorius II van Druval"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Paalbijl met een bliksem-mana-kristal."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nPaalbijl met een bliksem-mana-kristal.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Rattengranaat",
+    "title": "Rattengranaat",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Rattengranaat"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "granaat"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Keramische pot met buskruit-primer; ontploft als de pot breekt."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nKeramische pot met buskruit-primer; ontploft als de pot breekt.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Triumvlag",
+    "title": "Triumvlag",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Triumvlag"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "vlag"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Vintar"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Spreuk op de vlag: 'Regius Noktus' (Hoogste Regie)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nSpreuk op de vlag: 'Regius Noktus' (Hoogste Regie).",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Wyvern",
+    "title": "Wyvern",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Wyvern"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "dier"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Wilde beesten, bereden door drakenridders in Skaffadocië; loyal once vertrouwen gewonnen; kleinere vorm = Garkon."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nWilde beesten, bereden door drakenridders in Skaffadocië; loyal once vertrouwen gewonnen; kleinere vorm = Garkon.",
+    "sourceEntityType": "item"
+  },
+  {
+    "docId": "Zakom_Castavonium",
+    "title": "Zakom Castavonium",
+    "category": "Voorwerpen",
+    "infoboxCaption": "Voorwerp",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Zakom Castavonium"
+        ]
+      },
+      {
+        "cells": [
+          "Type",
+          "geschrift"
+        ]
+      },
+      {
+        "cells": [
+          "Eigenaar",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Oudste boek met alle wetten van Castavonië."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nOudste boek met alle wetten van Castavonië.",
+    "sourceEntityType": "item"
+  },
+  {
     "docId": "Tijdlijn",
     "title": "Tijdlijn",
     "category": "Tijdlijn",
     "infoboxCaption": "Tijdlijn",
     "infoboxRows": [],
-    "content": "- **-1620** — Splitsing van het oude Dwergenrijk: Vermoedelijk door het eerste duister\n- **-1372** — Onstaan Ménok?\n- **-1150** — Ontstaan eerste Stadstaten in Zegenland: Wordt mogelijk door machtsvacuum na splitsing Dwergenrijk\n- **-1080** — Ontstaan Ménoks Tovenarij: In samenwerking met de eerste stadstaten?\n- **-927** — Start oorlog tussen Dwergen en Mensen\n- **-900** — Alkonsië wordt het eerste menselijke rijk in het Zegenland: Het eerste machtige landelijke en maritieme rijk\n- **-820** — De dwergen verliezen de oorlog en trekken ondergronds: Het land overspoeld met duisternis\n- **-800** — Val van het Alkonsische rijk: Mogelijk door duister\n- **-772** — Ontstaan Storbuutse Federatie\n- **-720** — Splitsing van het oude dwergenrijk: Vermoedelijk door het eerste duister. (De oude beschavingen)\n- **-640** — Eerste menselijke stadstaten in Zegenland: Ontstaan in het machtsvacuüm. (De oude beschavingen)\n- **-510** — Rollodo wordt een koninkrijk na vele veroveringen\n- **-500** — Het verbond van Hormia: Uit verzet tegen stadstaat Dèlor sluiten stadstaten Gaudri Arigas Harmia Ralzanica en Tarmonil een verbond\n- **-492** — Grote oorlog tussen menselijke stadstaten en dwergenrijken: Duurde tot -417. (De rol van de mens)\n- **-470** — Beekervaart wordt een koninkrijk na vele veroveringen\n- **-415** — Het verbond van Hormia wordt koninkrijk Hormia\n- **-415** — Stadstaat Dèlor wordt een koninkrijk: Dèlor roept koningschap uit\n- **-415** — Stadstaat Dèlor wordt koninkrijk: Dèlor was zo belangrijk in de oorlog tegen de dwergen en wordt een koninkrijk van meerdere stadstaten in het zuiden van het Zegenland. (De rol van de mens)\n- **-411** — Boderick Ursihr landt op Randhaarst: 'De avonturier' landt op de oostkust en sticht de eerste stad. (De rol van de mens)\n- **-411** — Boderick land op Randhaarst: Boderick Ursihr 'de avonturier' landt op Oostkust Randhaarst en sticht de eerste stad\n- **-375** — Ontstaan vrijstaat Orstede: Een groep voldanten van Beekervaart splitst af\n- **-360** — Stadstaat Garm wordt koninkrijk Garmeland: De Laatste stadstaat die het koningschap uitroept\n- **-357** — Eerste oorlog tussen Beekervaart en Rollodo\n- **-333** — Eerste Dravogo geschriften worden ontcijferd in Krestoris\n- **-333** — Eerste Dravogo-geschriften ontcijferd: In Oud-Krestoris. (De rol van de mens)\n- **-300** — Ontstaan baronie van Whelen: Onder koninkrijk Beekervaart\n- **-294** — Eerste grote stammenoorlog in Waayoro (De rol van de mens)\n- **-273** — Vrijstaat Orstede valt Beekervaart binnen voor landbouwgrond\n- **-272** — Orstede slaagt erin een gebied te behouden na onderhandelingen\n- **-264** — De baronie van Whelen wordt verheven tot graafschap: Onder koninkrijk Dèlor\n- **-230** — Laatste mannelijke telg koninkrijk Beekervaart sterft\n- **-220** — Grote Krestoriaanse oorlog: Tot -216; Oud-Krestoris overspoeld door duisternis. (De rol van de mens)\n- **-220** — Start Grote Krestoriaanse oorlog\n- **-216** — Eind Grote Krestoriaanse oorlog en ontvluchting\n- **-216** — Ontvluchting Oud-Krestoris: Geloof in Oud-Krestoris ging mis; economie stort in, technologie gaat verloren. (De rol van de mens)\n- **-214** — Ontstaan Keizerrijk Dèlor: Door het trouwen met de dochter van Beekervaart erft Dèlor alle landen en wordt het het machtigste rijk (De Keizertijd)\n- **-212** — Graafschap Whelen wordt verheven tot markiezaat: Onder keizerrijk Dèlor\n- **-207** — Moord op Franciscus Masul: De Beekervaartse heer Franciscus Masul wordt vermoord door rijksgezinden\n- **-206** — Grote oorlog Zegenland: Uit verzet tegen het nieuwe Keizerrijk smeden Rollodo Hormia en Garmeland het krijgshaftige verbond\n- **-194** — Hormia wordt veroverd door Dèlor\n- **-188** — Start eerste Ardoonse vrijheidsoorlog (onderdeel Grote oorlog): Na jaren oorlog komen de Ardonen in opstand tegen Beekervaart\n- **-182** — Aankomst Krestoriaanse Vluchtelingen op Skaffadocië\n- **-182** — Stichting Republiek Skaffadocië: Vluchtelingen uit Oud-Krestoris komen aan op Skaffadocië. (De Keizertijd)\n- **-180** — Oude rattenplaag: Tot -140; verlies van 35% van de bevolking van het keizerrijk. (De Keizertijd)\n- **-180** — Start Oude Rattenplaag: Mensen verwachten een straf van de goden\n- **-177** — Eind aan de Grote oorlog: Rollodo en Garmeland onderwerpen zich en worden hertogdommen\n- **-177** — Markiezaat Whelen wordt Hertogdom Castavonië: Onder keizerrijk Dèlor\n- **-172** — De Ardoonse Masul tak wordt verdreven uit Hoogerwaarden\n- **-162** — Storbuutse Federatie wordt een rijk: Randhaarst is compleet ingelijfd\n- **-140** — Einde Oude Rattenplaag: 35% van de bevolking van het Zegenland komt om het leven (De Keizerstijd)\n- **-137** — Keizer Skaffadus I sticht de Riddersheerlijkheden: Er worden achttien Ridderschappen gesticht onder het Lorianmeer\n- **-135** — De Ridderschappen krijgen een commandant\n- **-133** — Gregorius van Skaffadocië verslaat de bliksemdraak\n- **-133** — Sint Gregorius van Skaffadocië verslaat de mana-bliksemdraak: Gregorius gaat zelf dood door de bliksem; het Gregoriaans geloof ontstaat; klooster gebouwd (-130). (De Keizertijd)\n- **-128** — Skaffadocië wordt hertogdom onder het Keizerrijk: Na inval door Garmeland. (De Keizertijd)\n- **-127** — Eerste Ardoonse vrijheidsoorlog\n- **-118** — Noordelijke dwergenrijk sluit alliantie met keizerrijk\n- **-117** — Start Storbuutse Bloedwinter\n- **-115** — Start Garmeland-Beekervaartse oorlog: Door concurrentie; eerste oorlog met groots gebruik van Mana. (De Keizertijd)\n- **-113** — Baronie Drazul wordt gesticht: De overgebleven Herten van Masul vormen een nieuwe staat van Ardonen met als wapen een bloedend hert\n- **-112** — Ontstaan Kavilitisch geloof: Sint Sebaltus bekeert een deel van de familie Ursihr. (De Keizertijd)\n- **-105** — Kozelaars stichten hun eerste legerkamp\n- **-102** — Slag bij de Trantaan: Beslissende veldslag: Garmeland en Oud-Ursihr verliezen tegen Beekervaart, Nieuw-Ursihr en Castavonië. (De Keizertijd)\n- **-99** — De markiezaatsfamilie Suykerbuyk verkrijgt de noordelijke landen: Markiezaat Whelen wordt gepromoveerd tot Hertogdom\n- **-99** — Eind Garmeland-Beekervaartse oorlog (Gregoriaanse Hervorming (Keizertijd))\n- **-99** — Einde Garmeland-Beekervaartse oorlog: Beekervaart en Ursihr annexeren grondgebied. (De Keizertijd)\n- **-99** — Slag bij Heimart\n- **-99** — Vintar sluit zich opnieuw aan bij het keizerrijk\n- **-98** — Himadië wordt gesticht door Skaffadus: De keizer sticht de sterrenwacht om adel op te laten groeien en mana magie te leren\n- **-97** — Randhaarst sluit zich aan bij het keizerrijk: Het Storbuutse Rijk wordt Hertogdom Randhaarst\n- **-97** — Slag bij Heimart\n- **-86** — Het Librerium wordt een stad: De eerste plannen voor een nieuwe keizerlijke hoofdstad worden gesmeed\n- **-86** — Ontstaan Librerium: Klooster Sint Gregorius verbouwd tot Librerium, hoofdstad van Dèlor door Keizer Skaffadus I. (De Keizertijd)\n- **-74** — Het laatste dwergenrijk Oemban wordt onderworpen\n- **-67** — Trongelse smidsgilde opgericht: Door een groep dwergen en mensen. (De Keizertijd)\n- **-67** — Trongelse smidsgilde wordt opgericht: Smidsgilde van dwergen en mensen\n- **-62** — Alliantie tussen Noordelijke Dwergenrijk en Dèlor\n- **-50** — Ontstaan Keizersraad: Economische handelssector met de loyaalste bondgenoten van de Keizer\n- **-50** — Vorming Economische Cirkels: Door Skaffadus II. (De Keizertijd)\n- **-34** — Noordelijke expansie Sambadije: Markiezaat Whelen breid uit naar het noorden\n- **-20** — Geboorte Krastus Suyckerbuyck (De Keizertijd)\n- **-20** — Krastus Suykerbuyk wordt geboren\n- **-19** — Beekervaart valt vrijstaat Orstede binnen\n- **-11** — Keizer Skaffadus laat de noordelijke Dwergen diep graven: De Grote Zonde\n- **-10** — Prins Reginald wordt geboren\n- **-10** — Rollodo wordt bij het keizerrijk gevoegd: De laatste mannelijke erfgenaam sterft en de keizer trouwt met de dochter\n- **-5** — Keizer Skaffadus I sterft in zijn slaap: Skaffadus II wordt gekroond in het Librerium; Skaffadus I wordt Sint Skaffadosius. (De Keizertijd)\n- **-5** — Keizer Skaffadus sterft in zijn slaap: Skaffadus I sterft en wordt Sint Skaffadosius; Skaffadus II wordt keizer in het Librerium\n- **-3** — Vorming economische Cirkels: Skaffadus II vormt uit de Keizerscirkel handelscirkels\n- **0** — Start eeuwige oorlog door de Grote Zonde: Keizer Skaffadus I had onwetend een poort geopend naar het kwaad in de onderwereld (-117). (De Keizertijd)\n- **1** — Beekervaart valt Godrak binnen\n- **3** — Krastus trekt zuidwaards: Legeraanvoerder Krastus krijgt opdracht het zuiden te verdedigen tegen de duistere tovenaar\n- **4** — De Duistere tovenaar boekt vele overwinningen\n- **4** — Val van het Noordelijke dwergenrijk: Bijna helemaal uitgeroeid door duistere kracht\n- **5** — Het Zwamschandaal komt naar buiten: Krastus ontdekt dat zwambedrijven logen over verloren manschappen\n- **21** — Splitsing keizerrijk Lepan: Oorlog tussen de rijke steden in het westen en de keizerlijke in het oosten\n- **25** — De Sporentrip: Herovering van de hekserij met paddenstoelbossen\n- **26** — Ontzetting van Foldev\n- **32** — Slag om de Euber: Skaffadus II sterft; roept met zijn laatste woorden het Triumvantium uit. (Tijd van het triumviraat)\n- **32** — Slag om de Euber en dood van Skaffadus II: Skaffadus II benoemt met zijn laatste woorden het Triumvantium (De Eeuwige oorlog)\n- **32** — Uitroeping Triumvantium: Skaffadus II roept het Triumvantium uit\n- **33** — Slag bij Onkfalen\n- **42** — Eerste stilstand eeuwige oorlog\n- **42** — Ontstaan koninkrijk Castavonië: Binnen Triumvantium\n- **42** — Vrede van Barterburg: De noorderratten geven zich over\n- **44** — Vorming rijken en kroningen: Inclusief vereniging van Skaffadocië onder Godrak. (Tijd van het triumviraat)\n- **45** — Ontstaan Triumvantium: Het Triumvantium ontstaat 14 jaar na het uitroepen (Tijd van het triumviraat)\n- **46** — Harold wordt goldraak van Goldra: Geïnstalleerd door groothertog Gregorius II van Druval\n- **47** — Ratspur krijgen gelijke rechten in Castavonië\n- **47** — Rijksridderschappen afgeschaft in Castavonië en Godrak\n- **49** — Invoering Magnum Restrictus Krastosis: Krastus verklaart de meeste baronieën 'nietig'\n- **49** — Leontine van Ruijtersbergh wordt vermoord door vampieren\n- **51** — De Herten Jacht: 2e Masul opstand\n- **56** — Grote Expeditie naar Afrika: Krastus en Gregorius II trekken persoonlijk mee; Harold Artus geïnstalleerd als goldraak van Goldra. (Tijd van het triumviraat)\n- **56** — Krastus en Gregorius II vertrekken richting Waayoro: Grote expeditie\n- **57** — Reginald roept het keizerschap opnieuw uit\n- **58** — Balderokken-opstand: Balder Dèlor begint een revolutie tegen de verduisterde Reginald. (Tijd van het triumviraat)\n- **58** — Start Balderrokken opstand: Tegen Reginalds verduistering\n- **60** — Bezetting Librerium & Beeldenstorm (Tijd van het triumviraat)\n- **60** — Bezetting Librerium door Balderrokken\n- **62** — Het Grote Feestmaal & ontstaan 5 Relikwieën: Reginald wordt terug naar de lichte kant gehaald; Kwiebus verbannen\n- **62** — Het grote Feestmaal & ontstaan van de 5 relikwieën: Gehost door Ménok; Kwiebus veroordeeld en verbannen. (Tijd van het triumviraat)\n- **75** — De Meestersraad valt uit elkaar\n- **75** — Uiteenvalling Meestersraad (Tijd van Verdeling)\n- **80** — Gregorius II vertrekt naar Krestoris\n- **82** — Start Püngü-so oorlogen: Om Neder-Lepan na het overlijden van de tsaar zonder opvolger. (Tijd van Verdeling)\n- **84** — Namayara en zoon komen aan in Godrak bij de witte toren van Ménok\n- **86** — Burgeroorlog (Zwarte Draak) begint (Tijd van Verdeling)\n- **86** — Burgeroorlog van de zwarte draak begint\n- **86** — Stichting Markiezaat Erendorf: Tegen de Nooise invasies\n- **87** — Verbranding en inname Librerium (Tijd van Verdeling)\n- **92** — Start Ondergrondse oorlogen\n- **96** — Vrede van Trazam: Vrede tussen Castavonië en Bohlul; Neder-Lepan veroverd; dochter van Krastus gehuwd met zoon van Bohlul. (De laatste hoop)\n- **97** — De grote Þsa: Mars van Obafemi III richting Godrak uit wraak\n- **98** — Bohlul en Castavonië sluiten vrede\n- **99** — Slag aan de Schroeizijde: Krimbal en Ragitonis dood\n- **99** — Slag van het - (Ragitonis en Krimbal dood): Maurik Oost ter Dam sterft en wordt Maurok de Baldadige; Namayara heiligverklaard ('Saranetesse'). (De laatste hoop)\n- **101** — Gregorius II trouwt Namayara: Vrede in de burgeroorlog; claim van de Zwarte Draak gevalideerd. (De laatste hoop)\n- **101** — Gregorius en Namayara trouwen\n- **102** — Fort Hardonium is af: Harold startte de bouw in jaar 70\n- **102** — Pact van Sallahri & start kruistocht: Alliantie tegen Abdul Ranier; 7e oplidoom Hubner verklaart heilige oorlog. (Tijd van Demonen)\n- **103** — Sam sterft in het Hoelterwoud (Tijd van Demonen)\n- **104** — Derde grote stammenoorlog in Afrika (Tijd van Demonen)\n- **104** — Derde grote stammenoorlog in Waayoro\n- **107** — 2-staten oplossing Dèlor door Reginald\n- **107** — Einde Balderokken-opstand (111) en 2-staten oplossing Dèlor: Reginald regelt triumbesprekingen voor Balder en Felix; vertrekt in 110 naar het verre oosten. (Tijd van Demonen)\n- **108** — Vorming pact van Sallahri: Kruistocht richting Ranier en Afrika (Triumvantium)\n- **110** — Reginald vertrekt oostwaards\n- **121** — Karel Barkeleije wordt omgelegd\n- **149** — Start tweede Balderokken opstand: Balder bezet Rollodo\n- **154** — Belegering en Inname van Beunster: Kaurum neemt Beunster in na 1.5 maand\n- **154** — De moord op goldraak Harold Artus\n- **?** — Herovering Librerium",
+    "content": "- **-1620** — Splitsing van het oude Dwergenrijk: Vermoedelijk door het eerste duister\n- **-1372** — Onstaan Ménok?\n- **-1150** — Ontstaan eerste Stadstaten in Zegenland: Wordt mogelijk door machtsvacuum na splitsing Dwergenrijk\n- **-1080** — Ontstaan Ménoks Tovenarij: In samenwerking met de eerste stadstaten?\n- **-927** — Start oorlog tussen Dwergen en Mensen\n- **-900** — Alkonsië wordt het eerste menselijke rijk in het Zegenland: Het eerste machtige landelijke en maritieme rijk\n- **-820** — De dwergen verliezen de oorlog en trekken ondergronds: Het land overspoeld met duisternis\n- **-800** — Val van het Alkonsische rijk: Mogelijk door duister\n- **-772** — Ontstaan Storbuutse Federatie\n- **-720** — Splitsing van het oude dwergenrijk: Vermoedelijk door het eerste duister. (De oude beschavingen)\n- **-640** — Eerste menselijke stadstaten in Zegenland: Ontstaan in het machtsvacuüm. (De oude beschavingen)\n- **-510** — Rollodo wordt een koninkrijk na vele veroveringen\n- **-500** — Het verbond van Hormia: Uit verzet tegen stadstaat Dèlor sluiten stadstaten Gaudri Arigas Harmia Ralzanica en Tarmonil een verbond\n- **-492** — Grote oorlog tussen menselijke stadstaten en dwergenrijken: Duurde tot -417. (De rol van de mens)\n- **-470** — Beekervaart wordt een koninkrijk na vele veroveringen\n- **-415** — Het verbond van Hormia wordt koninkrijk Hormia\n- **-415** — Stadstaat Dèlor wordt een koninkrijk: Dèlor roept koningschap uit\n- **-415** — Stadstaat Dèlor wordt koninkrijk: Dèlor was zo belangrijk in de oorlog tegen de dwergen en wordt een koninkrijk van meerdere stadstaten in het zuiden van het Zegenland. (De rol van de mens)\n- **-411** — Boderick Ursihr landt op Randhaarst: 'De avonturier' landt op de oostkust en sticht de eerste stad. (De rol van de mens)\n- **-411** — Boderick land op Randhaarst: Boderick Ursihr 'de avonturier' landt op Oostkust Randhaarst en sticht de eerste stad\n- **-375** — Ontstaan vrijstaat Orstede: Een groep voldanten van Beekervaart splitst af\n- **-360** — Stadstaat Garm wordt koninkrijk Garmeland: De Laatste stadstaat die het koningschap uitroept\n- **-357** — Eerste oorlog tussen Beekervaart en Rollodo\n- **-333** — Eerste Dravogo geschriften worden ontcijferd in Krestoris\n- **-333** — Eerste Dravogo-geschriften ontcijferd: In Oud-Krestoris. (De rol van de mens)\n- **-300** — Ontstaan baronie van Whelen: Onder koninkrijk Beekervaart\n- **-294** — Eerste grote stammenoorlog in Waayoro (De rol van de mens)\n- **-273** — Vrijstaat Orstede valt Beekervaart binnen voor landbouwgrond\n- **-272** — Orstede slaagt erin een gebied te behouden na onderhandelingen\n- **-264** — De baronie van Whelen wordt verheven tot graafschap: Onder koninkrijk Dèlor\n- **-230** — Laatste mannelijke telg koninkrijk Beekervaart sterft\n- **-220** — Grote Krestoriaanse oorlog: Tot -216; Oud-Krestoris overspoeld door duisternis. (De rol van de mens)\n- **-220** — Start Grote Krestoriaanse oorlog\n- **-216** — Eind Grote Krestoriaanse oorlog en ontvluchting\n- **-216** — Ontvluchting Oud-Krestoris: Geloof in Oud-Krestoris ging mis; economie stort in, technologie gaat verloren. (De rol van de mens)\n- **-214** — Ontstaan Keizerrijk Dèlor: Door het trouwen met de dochter van Beekervaart erft Dèlor alle landen en wordt het het machtigste rijk (De Keizertijd)\n- **-212** — Graafschap Whelen wordt verheven tot markiezaat: Onder keizerrijk Dèlor\n- **-207** — Moord op Franciscus Masul: De Beekervaartse heer Franciscus Masul wordt vermoord door rijksgezinden\n- **-206** — Grote oorlog Zegenland: Uit verzet tegen het nieuwe Keizerrijk smeden Rollodo Hormia en Garmeland het krijgshaftige verbond\n- **-194** — Hormia wordt veroverd door Dèlor\n- **-188** — Start eerste Ardoonse vrijheidsoorlog (onderdeel Grote oorlog): Na jaren oorlog komen de Ardonen in opstand tegen Beekervaart\n- **-182** — Aankomst Krestoriaanse Vluchtelingen op Skaffadocië\n- **-182** — Stichting Republiek Skaffadocië: Vluchtelingen uit Oud-Krestoris komen aan op Skaffadocië. (De Keizertijd)\n- **-180** — Oude rattenplaag: Tot -140; verlies van 35% van de bevolking van het keizerrijk. (De Keizertijd)\n- **-180** — Start Oude Rattenplaag: Mensen verwachten een straf van de goden\n- **-177** — Eind aan de Grote oorlog: Rollodo en Garmeland onderwerpen zich en worden hertogdommen\n- **-177** — Markiezaat Whelen wordt Hertogdom Castavonië: Onder keizerrijk Dèlor\n- **-172** — De Ardoonse Masul tak wordt verdreven uit Hoogerwaarden\n- **-162** — Storbuutse Federatie wordt een rijk: Randhaarst is compleet ingelijfd\n- **-140** — Einde Oude Rattenplaag: 35% van de bevolking van het Zegenland komt om het leven (De Keizerstijd)\n- **-137** — Keizer Skaffadus I sticht de Riddersheerlijkheden: Er worden achttien Ridderschappen gesticht onder het Lorianmeer\n- **-135** — De Ridderschappen krijgen een commandant\n- **-133** — Gregorius van Skaffadocië verslaat de bliksemdraak\n- **-133** — Sint Gregorius van Skaffadocië verslaat de mana-bliksemdraak: Gregorius gaat zelf dood door de bliksem; het Gregoriaans geloof ontstaat; klooster gebouwd (-130). (De Keizertijd)\n- **-128** — Skaffadocië wordt hertogdom onder het Keizerrijk: Na inval door Garmeland. (De Keizertijd)\n- **-127** — Eerste Ardoonse vrijheidsoorlog\n- **-118** — Noordelijke dwergenrijk sluit alliantie met keizerrijk\n- **-117** — Start Storbuutse Bloedwinter\n- **-115** — Start Garmeland-Beekervaartse oorlog: Door concurrentie; eerste oorlog met groots gebruik van Mana. (De Keizertijd)\n- **-113** — Baronie Drazul wordt gesticht: De overgebleven Herten van Masul vormen een nieuwe staat van Ardonen met als wapen een bloedend hert\n- **-112** — Ontstaan Kavilitisch geloof: Sint Sebaltus bekeert een deel van de familie Ursihr. (De Keizertijd)\n- **-105** — Kozelaars stichten hun eerste legerkamp\n- **-102** — Slag bij de Trantaan: Beslissende veldslag: Garmeland en Oud-Ursihr verliezen tegen Beekervaart, Nieuw-Ursihr en Castavonië. (De Keizertijd)\n- **-99** — De markiezaatsfamilie Suykerbuyk verkrijgt de noordelijke landen: Markiezaat Whelen wordt gepromoveerd tot Hertogdom\n- **-99** — Eind Garmeland-Beekervaartse oorlog (Gregoriaanse Hervorming (Keizertijd))\n- **-99** — Einde Garmeland-Beekervaartse oorlog: Beekervaart en Ursihr annexeren grondgebied. (De Keizertijd)\n- **-99** — Slag bij Heimart\n- **-99** — Slag bij Heimart (De Hoornbreuk): Ursihr-Whelen (27.000) verslaat Garmeland (19.500); Primus van Garmeland en zijn zoon sneuvelen; val van hertogdom Garmeland, einde Garmelands-Beekervaartse oorlog. Onderdeel van de Storbuutse Bloedwinter. (Garmelands-Beekervaartse oorlog)\n- **-99** — Vintar sluit zich opnieuw aan bij het keizerrijk\n- **-98** — Himadië wordt gesticht door Skaffadus: De keizer sticht de sterrenwacht om adel op te laten groeien en mana magie te leren\n- **-97** — Randhaarst sluit zich aan bij het keizerrijk: Het Storbuutse Rijk wordt Hertogdom Randhaarst\n- **-97** — Slag bij Heimart\n- **-86** — Het Librerium wordt een stad: De eerste plannen voor een nieuwe keizerlijke hoofdstad worden gesmeed\n- **-86** — Ontstaan Librerium: Klooster Sint Gregorius verbouwd tot Librerium, hoofdstad van Dèlor door Keizer Skaffadus I. (De Keizertijd)\n- **-74** — Het laatste dwergenrijk Oemban wordt onderworpen\n- **-67** — Trongelse smidsgilde opgericht: Door een groep dwergen en mensen. (De Keizertijd)\n- **-67** — Trongelse smidsgilde wordt opgericht: Smidsgilde van dwergen en mensen\n- **-62** — Alliantie tussen Noordelijke Dwergenrijk en Dèlor\n- **-50** — Ontstaan Keizersraad: Economische handelssector met de loyaalste bondgenoten van de Keizer\n- **-50** — Vorming Economische Cirkels: Door Skaffadus II. (De Keizertijd)\n- **-34** — Noordelijke expansie Sambadije: Markiezaat Whelen breid uit naar het noorden\n- **-20** — Geboorte Krastus Suyckerbuyck (De Keizertijd)\n- **-20** — Krastus Suykerbuyk wordt geboren\n- **-19** — Beekervaart valt vrijstaat Orstede binnen\n- **-11** — Keizer Skaffadus laat de noordelijke Dwergen diep graven: De Grote Zonde\n- **-10** — Prins Reginald wordt geboren\n- **-10** — Rollodo wordt bij het keizerrijk gevoegd: De laatste mannelijke erfgenaam sterft en de keizer trouwt met de dochter\n- **-5** — Keizer Skaffadus I sterft in zijn slaap: Skaffadus II wordt gekroond in het Librerium; Skaffadus I wordt Sint Skaffadosius. (De Keizertijd)\n- **-5** — Keizer Skaffadus sterft in zijn slaap: Skaffadus I sterft en wordt Sint Skaffadosius; Skaffadus II wordt keizer in het Librerium\n- **-3** — Vorming economische Cirkels: Skaffadus II vormt uit de Keizerscirkel handelscirkels\n- **0** — Start eeuwige oorlog door de Grote Zonde: Keizer Skaffadus I had onwetend een poort geopend naar het kwaad in de onderwereld (-117). (De Keizertijd)\n- **1** — Beekervaart valt Godrak binnen\n- **3** — Krastus trekt zuidwaards: Legeraanvoerder Krastus krijgt opdracht het zuiden te verdedigen tegen de duistere tovenaar\n- **4** — De Duistere tovenaar boekt vele overwinningen\n- **4** — Val van het Noordelijke dwergenrijk: Bijna helemaal uitgeroeid door duistere kracht\n- **5** — Het Zwamschandaal komt naar buiten: Krastus ontdekt dat zwambedrijven logen over verloren manschappen\n- **6** — Slag bij Eertel: Goed verdedigbare positie toch snel verloren door de noorderratten. (Eeuwige oorlog)\n- **6** — Slag om de Prentelberg: Enige overwinning in het noorden door generaal Ropert. (Eeuwige oorlog)\n- **12** — Beleg van Foldev (eeuwige oorlog): Foldaafse staatsmilitie beschermt omgevallen muur; bommengooiers werpen bommen op ratspur. (Eeuwige oorlog)\n- **17** — Val van Tolga: Sterk versterkte stad valt snel door een onverwachte landing uit het westen. (Eeuwige oorlog)\n- **20** — Beleg van Foldev: Aanvallers lopen vast bij kasteel Lynelheim. (Eeuwige oorlog)\n- **21** — Splitsing keizerrijk Lepan: Oorlog tussen de rijke steden in het westen en de keizerlijke in het oosten\n- **25** — Beunster offensief: Tegenaanval vanuit Beunster om het front aan te sluiten bij Orstede en Beekervaart. (Eeuwige oorlog)\n- **25** — De Sporentrip: Herovering van de hekserij met paddenstoelbossen\n- **25** — Herrovering van Tolga: Eerste succesvolle tegenaanval op het vasteland door Godrak. (Eeuwige oorlog)\n- **26** — Bevrijding van Ventium: Krastus bevrijdt Ventium met hulp van binnenuit; einde beleg Foldev. (Eeuwige oorlog)\n- **26** — Ontzetting van Foldev\n- **27** — De trampeltrek: Godrak valt aan vanuit het zuiden; de trampeliers vernietigen een enorm aantal vijanden (27-30). (Eeuwige oorlog)\n- **31** — Slag om de Euber (31/32): Westkust bevrijd; Skaffadus II raakt fatale spreuk en roept het Triumvantium uit; keizerrijk verdeeld onder Reginald, Krastus en Jorg. (Eeuwige oorlog)\n- **32** — Slag om de Euber: Skaffadus II sterft; roept met zijn laatste woorden het Triumvantium uit. (Tijd van het triumviraat)\n- **32** — Slag om de Euber en dood van Skaffadus II: Skaffadus II benoemt met zijn laatste woorden het Triumvantium (De Eeuwige oorlog)\n- **32** — Uitroeping Triumvantium: Skaffadus II roept het Triumvantium uit\n- **33** — Slag bij Onkfalen\n- **33** — Veld van Onkfalen: Laatste grote veldslag tegen noorderratten; tij gekeerd door Krastus op zijn drake. (Eeuwige oorlog)\n- **34** — Blokkade van de westzee: Ragitonis verslaat met schepen van Seermuk een groot deel van de terugtrekkende aanvallers. (Eeuwige oorlog)\n- **42** — Eerste stilstand eeuwige oorlog\n- **42** — Ontstaan koninkrijk Castavonië: Binnen Triumvantium\n- **42** — Vrede van Barterburg: De noorderratten geven zich over\n- **44** — Baron Jorg wordt Groothertog van Godrak gekroond: Eerste verenigde Skaffadocië. (Eeuwige oorlog)\n- **44** — Vorming rijken en kroningen: Inclusief vereniging van Skaffadocië onder Godrak. (Tijd van het triumviraat)\n- **45** — Ontstaan Triumvantium: Het Triumvantium ontstaat 14 jaar na het uitroepen (Tijd van het triumviraat)\n- **45** — Ordestaat Balvan gesticht: Krastus schenkt noordelijke provincies van Sambadije aan Ropert van Droord.\n- **46** — Eeuwige oorlog officieel beëindigd\n- **46** — Harold wordt goldraak van Goldra: Geïnstalleerd door groothertog Gregorius II van Druval\n- **47** — Ratspur krijgen gelijke rechten in Castavonië\n- **47** — Rijksridderschappen afgeschaft in Castavonië en Godrak\n- **48** — Garmelands-Beekervaart hernoemd naar Goldra\n- **49** — Invoering Magnum Restrictus Krastosis: Krastus verklaart de meeste baronieën 'nietig'\n- **49** — Leontine van Ruijtersbergh wordt vermoord door vampieren\n- **49** — Oorlog van de Gebroken Zegels begint (tot 51): Burgeroorlog in Königreich Castavonië tussen koning Krastus en opstandige baronnen onder Jolver Bunderen, naar aanleiding van het Magnum Restrictus Krastosis. (Castavonië)\n- **49** — Vintar-Valderingen gevormd binnen Godrak\n- **51** — De Herten Jacht: 2e Masul opstand\n- **51** — Executie van de noorderratten en de bende van Hugo: Tijdens de witte parade in Tolheim; 9 bergbewoners, 15 noorderratten en 3 baardloze dwergen geëxecuteerd. (Eeuwige oorlog)\n- **52** — Inklave wordt officieel zijpdom\n- **56** — Grote Expeditie naar Afrika: Krastus en Gregorius II trekken persoonlijk mee; Harold Artus geïnstalleerd als goldraak van Goldra. (Tijd van het triumviraat)\n- **56** — Krastus en Gregorius II vertrekken richting Waayoro: Grote expeditie\n- **56** — Start Grote Expeditie naar Afrika: Krastus en Jorg persoonlijk mee; Harold Artus goldraak van Goldra.\n- **57** — Reginald roept het keizerschap opnieuw uit\n- **57** — Terugkeer Krastus en Jorg uit Afrika\n- **58** — Balderokken-opstand: Balder Dèlor begint een revolutie tegen de verduisterde Reginald. (Tijd van het triumviraat)\n- **58** — Start Balderrokken opstand: Tegen Reginalds verduistering\n- **59** — Groothertog Jorg krijgt symptomen van een huidziekte\n- **60** — Bezetting Librerium & Beeldenstorm (Tijd van het triumviraat)\n- **60** — Bezetting Librerium door Balderrokken\n- **62** — Het Grote Feestmaal & ontstaan 5 Relikwieën: Reginald wordt terug naar de lichte kant gehaald; Kwiebus verbannen\n- **62** — Het Grote Feestmaal en ontstaan van de 5 relikwieën: Gehost door Ménok; Kwiebus veroordeeld.\n- **62** — Het grote Feestmaal & ontstaan van de 5 relikwieën: Gehost door Ménok; Kwiebus veroordeeld en verbannen. (Tijd van het triumviraat)\n- **71** — Bouwersgilde gestart door rijksbouwmeester: Gespecialiseerd in belegeringsmaterieel en fortificaties.\n- **75** — De Meestersraad valt uit elkaar\n- **75** — Uiteenvalling Meestersraad (Tijd van Verdeling)\n- **80** — Gregorius II vertrekt naar Krestoris\n- **80** — Gregorius II vertrekt naar de vulkaaneilanden (80 - 100)\n- **80** — Jorg vertrekt naar de vulkaaneilanden\n- **81** — Landing op de vulkaaneilanden (expeditie Gregorius II): Godrische vloot landt op duister vulkaaneiland; 75.048 troepenizos totaal, 48.341 doden, 26.707 resterend. (Vulkaaneilanden)\n- **81** — Nooise plunderingen in Sambadije en Teteren (80 - 100)\n- **82** — Start Püngü-so oorlogen: Om Neder-Lepan na het overlijden van de tsaar zonder opvolger. (Tijd van Verdeling)\n- **82** — Sterf tsaar van Lepan; rijk splitst in Neder-Lepan en Hoger-Lepan; start Püngü-so oorlogen (80 - 100)\n- **83** — Slachting bij Mieren: Leger van Krastus in de pan gehakt door dondelfanten en boogschutters van Bollet. (Püngü-so oorlogen)\n- **83** — Slachting bij Muryen: leger van Krastus in de pan gehakt door dondelfanten van Bohlul (80 - 100)\n- **84** — Namayara en zoon komen aan in Godrak bij de witte toren van Ménok\n- **84** — Namayara komt aan bij de witte toren van Ménok met jongen (beweert zoon van Gregorius II) (80 - 100)\n- **86** — Burgeroorlog (Zwarte Draak) begint (Tijd van Verdeling)\n- **86** — Burgeroorlog in Godrak begint (80 - 100)\n- **86** — Burgeroorlog van de zwarte draak begint\n- **86** — Stichting Markiezaat Erendorf: Tegen de Nooise invasies\n- **87** — Geerkel de Sluipachtige naar het vernietigde Librerium voor oude kennis over dondelfanten (80 - 100)\n- **87** — Librerium van binnenuit ingenomen door duister leger onder Abdul-Ranier (80 - 100)\n- **87** — Verbranding en inname Librerium (Tijd van Verdeling)\n- **89** — Castavonië weet emberzwijnen te temmen (80 - 100)\n- **89** — Lore over brandende zwijnen tegen dondelfanten ontdekt\n- **90** — Eerste gedomesticeerde emberzwijnen ingezet aan het front\n- **90** — Eerste inzet vurige emberzwijnen tegen dondelfanten van Bohlul: reeks overwinningen Krastus (80 - 100)\n- **92** — Reginald bevrijdt het Librerium bovengronds: Ontdekt mega-gangenstelsel onder het Librerium voor mana.\n- **92** — Start Ondergrondse oorlogen\n- **93** — Slag van Al-Floran: Leger van Bollet verrast door brandende emberzwijnen en dromedarissen. (Püngü-so oorlogen)\n- **93** — Vrede van Trazam: einde conflict Krastus-Bohlul na duel; Neder-Lepan compleet veroverd (80 - 100)\n- **95** — Neder-Lepan geherstructureerd op westerse manier; pact van Sallahri; start kruistocht tegen Abdul Ranier (80 - 100)\n- **96** — Vrede van Trazam: Vrede tussen Castavonië en Bohlul; Neder-Lepan veroverd; dochter van Krastus gehuwd met zoon van Bohlul. (De laatste hoop)\n- **97** — De grote Þsa: Mars van Obafemi III richting Godrak uit wraak\n- **97** — Sam trekt via de moerassen naar Goldra: Komt achter het verraad van Joris en Namayara.\n- **98** — Bohlul en Castavonië sluiten vrede\n- **98** — Vrede van Trazam: Vrede tussen Castavonië en Bollet na duel Krastus-Bollet. (Püngü-so oorlogen)\n- **99** — Gregorius regelt terugkeer naar het Zegenland; verrast door duister leger en verduisterde troepen van Seermuk/Ragitonis (80 - 100)\n- **99** — Ontvluchting van Oud-Skaffadocië / slag met verduisterde troepen: Gregorius II verrast door duister leger en verduisterde troepen van Seermuk/Ragitonis; Krimbal en Ragitonis sterven. (Vulkaaneilanden)\n- **99** — Slag aan de Schroeizijde: Krimbal en Ragitonis dood\n- **99** — Slag van het - (Ragitonis en Krimbal dood): Maurik Oost ter Dam sterft en wordt Maurok de Baldadige; Namayara heiligverklaard ('Saranetesse'). (De laatste hoop)\n- **101** — Gregorius II trouwt Namayara: Vrede in de burgeroorlog; claim van de Zwarte Draak gevalideerd. (De laatste hoop)\n- **101** — Gregorius en Namayara trouwen\n- **102** — Familie Ruitenberg vlucht naar de moeraslanden\n- **102** — Fort Hardonium is af: Harold startte de bouw in jaar 70\n- **102** — Pact van Sallahri & start kruistocht: Alliantie tegen Abdul Ranier; 7e oplidoom Hubner verklaart heilige oorlog. (Tijd van Demonen)\n- **103** — Sam sterft in het Hoelterwoud (Tijd van Demonen)\n- **104** — Derde grote stammenoorlog in Afrika (Tijd van Demonen)\n- **104** — Derde grote stammenoorlog in Waayoro\n- **105** — Reginald wordt weer gekroond tot koning van Dèlor\n- **106** — Jorg achtervolgt troepen van Sam naar Afrika; sticht kolonies\n- **107** — 2-staten oplossing Dèlor door Reginald\n- **107** — Einde Balderokken-opstand (111) en 2-staten oplossing Dèlor: Reginald regelt triumbesprekingen voor Balder en Felix; vertrekt in 110 naar het verre oosten. (Tijd van Demonen)\n- **108** — Pact van Sallahri gesloten + kolonie Kindobowo gesticht\n- **108** — Vorming pact van Sallahri: Kruistocht richting Ranier en Afrika (Triumvantium)\n- **110** — Reginald vertrekt oostwaards\n- **114** — Eerste Zijpdom in Afrika\n- **121** — Karel Barkeleije wordt omgelegd\n- **149** — Start tweede Balderokken opstand: Balder bezet Rollodo\n- **154** — Belegering en Inname van Beunster: Kaurum neemt Beunster in na 1.5 maand\n- **154** — De moord op goldraak Harold Artus\n- **154** — Slag bij Garbeek: Laatste beslissende slag van de Manenschroeiing; Godrak (23.000, staand leger) verslaat Balderrokken (41.000) bij Garbeek in Fraamden; Balder Dèlor sneuvelt. (Manenschroeiing)\n- **?** — Herovering Librerium",
     "sourceEntityType": "timeline_event"
+  },
+  {
+    "docId": "Argouw",
+    "title": "Argouw",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Argouw"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Burggraafschap Jukten"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Paleis-fort van de oude heren van Garmeland in Garmelandse architectuur."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nPaleis-fort van de oude heren van Garmeland in Garmelandse architectuur.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Arstellen",
+    "title": "Arstellen",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Arstellen"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Graafschap Sambadije"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Rijke stad hoog in het noorden bij de legendarische Sambaatse ijzerheuvels waar hoge adel begraven ligt."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nRijke stad hoog in het noorden bij de legendarische Sambaatse ijzerheuvels waar hoge adel begraven ligt.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Barterburg",
+    "title": "Barterburg",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Barterburg"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Graafschap Sambadije"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Hoofdstad van Sambadije en centrale verbinding van Castavonië; bekend om de muskus-os en warme kledij."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nHoofdstad van Sambadije en centrale verbinding van Castavonië; bekend om de muskus-os en warme kledij.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Beunster-stad",
+    "title": "Beunster-stad",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Beunster-stad"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Baronie Beunster"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Enige gefortificeerde grote stad in Beunster; snel gegroeid tijdens de eeuwige oorlog met militaire havens en scheepswerven; grootste Gregoriaanse kerk van Castavonië."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nEnige gefortificeerde grote stad in Beunster; snel gegroeid tijdens de eeuwige oorlog met militaire havens en scheepswerven; grootste Gregoriaanse kerk van Castavonië.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Bokkum",
+    "title": "Bokkum",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Bokkum"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Burggraafschap Jukten"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Handelscentrum voor noordelijk vee; fokt grote praalbokken."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nHandelscentrum voor noordelijk vee; fokt grote praalbokken.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Corburg",
+    "title": "Corburg",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Corburg"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Burggraafschap Jukten"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Communicatiecentrum van het rijk; Raventoren met boodschappervogels."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nCommunicatiecentrum van het rijk; Raventoren met boodschappervogels.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Demen",
+    "title": "Demen",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Demen"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Graafschap Sambadije"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "'Rattenstad' omdat het grootste deel van de bevolking ratspur is; unieke ratspur-architectuur met bruggetjes en paden."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\n'Rattenstad' omdat het grootste deel van de bevolking ratspur is; unieke ratspur-architectuur met bruggetjes en paden.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Euberdal",
+    "title": "Euberdal",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Euberdal"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Kroonland Whelen"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Stad op een eiland in de Euber, direct bestuurd door de kroon; bedevaartsoord waar Sint Sebaltus begraven is."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nStad op een eiland in de Euber, direct bestuurd door de kroon; bedevaartsoord waar Sint Sebaltus begraven is.\n\n## Interessante locaties\n\n- Tombe van Sebaltus in het balrût-complex\n- Pelgrimswijk\n- Kasteel Bockheim",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Foldev",
+    "title": "Foldev",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Foldev"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Graafschap Orstede"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "'De onbreekbare stad' door de jarenlange belegering die nooit viel; poort naar het Librerium vanuit het noorden."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\n'De onbreekbare stad' door de jarenlange belegering die nooit viel; poort naar het Librerium vanuit het noorden.\n\n## Interessante locaties\n\n- Buskruitwerkplaatsen ('rattenbom')\n- Liebra brug (2 km, naar het Librerium)",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Graankant",
+    "title": "Graankant",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Graankant"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Burggraafschap Jukten"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Hospitum met grote gewelven; verplichte stop voor pelgrims naar Euberdal."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nHospitum met grote gewelven; verplichte stop voor pelgrims naar Euberdal.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Graffel",
+    "title": "Graffel",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Graffel"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Burggraafschap Jukten"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Tolpoorten in de uitlopers van de Neder-Euber en Trongel; belast handelsverkeer tussen Hommelhaven en Ventium."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nTolpoorten in de uitlopers van de Neder-Euber en Trongel; belast handelsverkeer tussen Hommelhaven en Ventium.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Grauwpunt",
+    "title": "Grauwpunt",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Grauwpunt"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Burggraafschap Jukten"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Bezit een flink kasteel op de rotsen langs de Dondel, zwaar gefortificeerd."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nBezit een flink kasteel op de rotsen langs de Dondel, zwaar gefortificeerd.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Hezelstein",
+    "title": "Hezelstein",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Hezelstein"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Triumvantium"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Kleinere stad in het noorden, direct bestuurd door de rijkswegenmeester; ontwerpen voor wegen en bruggen; controlepunt voor import/export en escortes over de Euber."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nKleinere stad in het noorden, direct bestuurd door de rijkswegenmeester; ontwerpen voor wegen en bruggen; controlepunt voor import/export en escortes over de Euber.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Holsveldt",
+    "title": "Holsveldt",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Holsveldt"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Burggraafschap Jukten"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Poorten beheersen de landroute tussen Hommelhaven en Ventium."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nPoorten beheersen de landroute tussen Hommelhaven en Ventium.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Hommelhaven",
+    "title": "Hommelhaven",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Hommelhaven"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Koninklijke vrijstad Hommelhaven"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Grootste gefortificeerde havenstad van Castavonië; bulk van import/export naar Skaffadocië en Randhaarst."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGrootste gefortificeerde havenstad van Castavonië; bulk van import/export naar Skaffadocië en Randhaarst.\n\n## Interessante locaties\n\n- Raathof\n- Bar Spitsval (ratspur kapers)\n- Pakhuizen district",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Houwst",
+    "title": "Houwst",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Houwst"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Burggraafschap Jukten"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Balrût gebouwd na de eeuwige oorlog als teken van de overwinning van het licht; gefinancierd door de burggraaf van Jukten."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nBalrût gebouwd na de eeuwige oorlog als teken van de overwinning van het licht; gefinancierd door de burggraaf van Jukten.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Kasteel_Beunster",
+    "title": "Kasteel Beunster",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Kasteel Beunster"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Baronie Beunster"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "'De ondoordringbare rots'; klein maar heavily versterkt; oude Garmelandse stijl; hield lang stand tegen het duister."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\n'De ondoordringbare rots'; klein maar heavily versterkt; oude Garmelandse stijl; hield lang stand tegen het duister.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Kasteel_Bockheim",
+    "title": "Kasteel Bockheim",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Kasteel Bockheim"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Kroonland Whelen"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Kasteel op een eiland in de Euber, direct bestuurd door de koning; beschermt de heilige Kavilitische plaats (Euberdal); pelgrimsverblijf."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nKasteel op een eiland in de Euber, direct bestuurd door de koning; beschermt de heilige Kavilitische plaats (Euberdal); pelgrimsverblijf.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Kasteel_Lynelheim",
+    "title": "Kasteel Lynelheim",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Kasteel Lynelheim"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Graafschap Orstede"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Sterk gefortifieerd kasteel van Foldev; jaren stand gehouden tegen het duister; namen van gevallenen in de muren gesneden."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nSterk gefortifieerd kasteel van Foldev; jaren stand gehouden tegen het duister; namen van gevallenen in de muren gesneden.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Kasteel_van_Tolheim",
+    "title": "Kasteel van Tolheim",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Kasteel van Tolheim"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Ordestaat Balvan"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Bestuurlijk centrum van de Ordestaat Balvan onder generaal Ropert; vleugels voor leiders van ridderorden."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nBestuurlijk centrum van de Ordestaat Balvan onder generaal Ropert; vleugels voor leiders van ridderorden.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Kluik",
+    "title": "Kluik",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Kluik"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Burggraafschap Jukten"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Kloostercomplex met kavilitische monniken die boeken en manuscripten schrijven."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nKloostercomplex met kavilitische monniken die boeken en manuscripten schrijven.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Meerhaven",
+    "title": "Meerhaven",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Meerhaven"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Burggraafschap Jukten"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Muren lopen diep de rivier in; profiteert van handel langs de Dondel."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nMuren lopen diep de rivier in; profiteert van handel langs de Dondel.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Pildir",
+    "title": "Pildir",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Pildir"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Baljuwschap Koringland"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Hoofdstad van Koringland en na Ventium de stad met de meeste inwoners; bekend om de grote agrarische markt."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nHoofdstad van Koringland en na Ventium de stad met de meeste inwoners; bekend om de grote agrarische markt.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Raskof",
+    "title": "Raskof",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Raskof"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Baronie Kaurum"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "IJzermijnen van Raskof; ijzer wordt langs de Euber/Trantaan door Castavonië verscheept."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nIJzermijnen van Raskof; ijzer wordt langs de Euber/Trantaan door Castavonië verscheept.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Stierebosch",
+    "title": "Stierebosch",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Stierebosch"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Hertogdom Ursihr"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "2e grootste stad van Ursihr, in de donkere bossen; bekend om houtproductie."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\n2e grootste stad van Ursihr, in de donkere bossen; bekend om houtproductie.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Talivaart",
+    "title": "Talivaart",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Talivaart"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Baronie Teteren"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Hoofdstad van de rijkste baronie Teteren; na de Püngü-so oorlogen veel vluchtelingen uit het oosten."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nHoofdstad van de rijkste baronie Teteren; na de Püngü-so oorlogen veel vluchtelingen uit het oosten.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Thalgen",
+    "title": "Thalgen",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Thalgen"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Hertogdom Ursihr"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Hoofdstad van Ursihr en thuisbasis van de Ursihr-familie en de Thalgse wacht (elitesoldaten)."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nHoofdstad van Ursihr en thuisbasis van de Ursihr-familie en de Thalgse wacht (elitesoldaten).\n\n## Interessante locaties\n\n- Kasteel van Thalgen\n- St. Evertinus balrût (volledig van hout)\n- Koninklijke jachtgebieden",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Tolheim",
+    "title": "Tolheim",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Tolheim"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Ordestaat Balvan"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Grootste stad in het noorden van Castavonië, laatste echte grens; militaire stad met veel ridderordes."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nGrootste stad in het noorden van Castavonië, laatste echte grens; militaire stad met veel ridderordes.\n\n## Interessante locaties\n\n- Tratelhuis (raad van ridders en adel)\n- Sterrenwacht-outpost (noorderlicht)\n- Sint Sebaltus plaza",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Turland",
+    "title": "Turland",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Turland"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Markiezaat Erendorf"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Vestingsbalrût van Sint-Hannes, ook te gebruiken als verdedigingswerk bij belegeringen."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nVestingsbalrût van Sint-Hannes, ook te gebruiken als verdedigingswerk bij belegeringen.",
+    "sourceEntityType": "city"
+  },
+  {
+    "docId": "Ventium",
+    "title": "Ventium",
+    "category": "Steden",
+    "infoboxCaption": "Stad",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Ventium"
+        ]
+      },
+      {
+        "cells": [
+          "Land",
+          "Koninkrijk Castavonië"
+        ]
+      },
+      {
+        "cells": [
+          "Regio",
+          "Kroonland Whelen"
+        ]
+      },
+      {
+        "cells": [
+          "Beschrijving",
+          "Hoofdstad van Castavonië en grootste stad van het koninkrijk; politiek en religieus centrum aan de rivier de Trongel. Koning Krastus en de 7e oplidoom regeren hier. Centrum van handel met talloze gilden. Ooit hoofdstad van graafschap Koringland."
+        ]
+      }
+    ],
+    "content": "## Beschrijving\n\nHoofdstad van Castavonië en grootste stad van het koninkrijk; politiek en religieus centrum aan de rivier de Trongel. Koning Krastus en de 7e oplidoom regeren hier. Centrum van handel met talloze gilden. Ooit hoofdstad van graafschap Koringland.\n\n## Interessante locaties\n\n- Werkplaats van de trongelse smidsgilde\n- Sint Lubertus-Jan balrût (grootste van het Triumvantium)\n- Handelsdistrict",
+    "sourceEntityType": "city"
   },
   {
     "docId": "Aasha",
@@ -3627,248 +7031,32 @@
     "sourceEntityType": "deity"
   },
   {
-    "docId": "Asmodeaans_geloof",
-    "title": "Asmodeaans geloof",
-    "category": "Religies",
-    "infoboxCaption": "Religie",
+    "docId": "Almeric",
+    "title": "Almeric",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
     "infoboxRows": [
       {
         "cells": [
           "Naam",
-          "Asmodeaans geloof"
+          "Almeric"
         ]
       },
       {
         "cells": [
-          "Goden",
-          "Asmodeus"
+          "Functie",
+          "Adviseur (tovenaar)"
         ]
       },
       {
         "cells": [
-          "Beschrijving",
-          "Duister geloof rond Asmodeus (lust)."
+          "Loyaliteit",
+          "Ménok"
         ]
       }
     ],
-    "content": "## Beschrijving\n\nDuister geloof rond Asmodeus (lust).",
-    "sourceEntityType": "religion"
-  },
-  {
-    "docId": "Dravogo",
-    "title": "Dravogo",
-    "category": "Religies",
-    "infoboxCaption": "Religie",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Dravogo"
-        ]
-      },
-      {
-        "cells": [
-          "Goden",
-          "Aasha"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Geloof met vrouwelijke priesteressen (orde Eerbaarheid); vuur/rood = leven, duisternis/zwart = dood. Eerste geschriften ontcijferd in Oud-Krestoris (-333)."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nGeloof met vrouwelijke priesteressen (orde Eerbaarheid); vuur/rood = leven, duisternis/zwart = dood. Eerste geschriften ontcijferd in Oud-Krestoris (-333).",
-    "sourceEntityType": "religion"
-  },
-  {
-    "docId": "Duistere_goden_(het_Duister)",
-    "title": "Duistere goden (het Duister)",
-    "category": "Religies",
-    "infoboxCaption": "Religie",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Duistere goden (het Duister)"
-        ]
-      },
-      {
-        "cells": [
-          "Goden",
-          "Kozel, Kronos, Carrion, Asmodeus, Gormagon, Belphegor, Malachai, Danterion, Aasha, Morgana"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Gesplitst van 1 onstabiele god naar 7 stabiele goden. Duistere goden worden niet aanbeden maar worden sterker door zonden te beoefenen. Kozelaars staan volledig aan de kant van Kozel en Morgana."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nGesplitst van 1 onstabiele god naar 7 stabiele goden. Duistere goden worden niet aanbeden maar worden sterker door zonden te beoefenen. Kozelaars staan volledig aan de kant van Kozel en Morgana.",
-    "sourceEntityType": "religion"
-  },
-  {
-    "docId": "Gregoriaans_geloof",
-    "title": "Gregoriaans geloof",
-    "category": "Religies",
-    "infoboxCaption": "Religie",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Gregoriaans geloof"
-        ]
-      },
-      {
-        "cells": [
-          "Goden",
-          "Sint Gregorius van Skaffadocië"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Ontstond -133 toen Gregorius van Skaffadocië de mana-bliksemdraak versloeg."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nOntstond -133 toen Gregorius van Skaffadocië de mana-bliksemdraak versloeg.",
-    "sourceEntityType": "religion"
-  },
-  {
-    "docId": "IJsbeergeloof",
-    "title": "IJsbeergeloof",
-    "category": "Religies",
-    "infoboxCaption": "Religie",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "IJsbeergeloof"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Oud geloof van Randhaarst; ijsberen zijn heilig."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nOud geloof van Randhaarst; ijsberen zijn heilig.",
-    "sourceEntityType": "religion"
-  },
-  {
-    "docId": "Kavilitisch_geloof_(Kavilisme)",
-    "title": "Kavilitisch geloof (Kavilisme)",
-    "category": "Religies",
-    "infoboxCaption": "Religie",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Kavilitisch geloof (Kavilisme)"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Staatsreligie van Castavonië; ontstaan -112 uit Sint Sebaltus, volgeling van Gregorius. Oplidoom regeert vanuit Ventium."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nStaatsreligie van Castavonië; ontstaan -112 uit Sint Sebaltus, volgeling van Gregorius. Oplidoom regeert vanuit Ventium.",
-    "sourceEntityType": "religion"
-  },
-  {
-    "docId": "Lore",
-    "title": "Lore",
-    "category": "Religies",
-    "infoboxCaption": "Religie",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Lore"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Geloof dat in het Librerium wordt aangehangen."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nGeloof dat in het Librerium wordt aangehangen.",
-    "sourceEntityType": "religion"
-  },
-  {
-    "docId": "Pepelisme",
-    "title": "Pepelisme",
-    "category": "Religies",
-    "infoboxCaption": "Religie",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Pepelisme"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Geloof van Reginald Dèlor."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nGeloof van Reginald Dèlor.",
-    "sourceEntityType": "religion"
-  },
-  {
-    "docId": "Skaffa",
-    "title": "Skaffa",
-    "category": "Religies",
-    "infoboxCaption": "Religie",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Skaffa"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Duister geloof rond Skaffa Djaffa & Kozel."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nDuister geloof rond Skaffa Djaffa & Kozel.",
-    "sourceEntityType": "religion"
-  },
-  {
-    "docId": "Vyrdalisch_geloof_(Varc'o)",
-    "title": "Vyrdalisch geloof (Varc'o)",
-    "category": "Religies",
-    "infoboxCaption": "Religie",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Vyrdalisch geloof (Varc'o)"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Woudgeloof van Maurik Oost ter Dam."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nWoudgeloof van Maurik Oost ter Dam.",
-    "sourceEntityType": "religion"
+    "content": "## Overige informatie\n\nAdviseur meegestuurd door Ménok; lid van de Raad van Tovenaars.",
+    "sourceEntityType": "character"
   },
   {
     "docId": "Antokor",
@@ -3942,6 +7130,40 @@
       }
     ],
     "content": "## Overige informatie\n\nKoning onder de doden, herrezen uit de dood; verlichaming van de dood, draagt harnas en twee-handig zwaard.",
+    "sourceEntityType": "character"
+  },
+  {
+    "docId": "Antrakor",
+    "title": "Antrakor",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Antrakor"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Zwarte ridder"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Asmodeus"
+        ]
+      },
+      {
+        "cells": [
+          "Religie",
+          "Asmodeaans"
+        ]
+      }
+    ],
+    "content": "## Overige informatie\n\nZwarte ridder; verwant aan Antrakas (koning van de ondoden).",
     "sourceEntityType": "character"
   },
   {
@@ -4038,6 +7260,40 @@
       }
     ],
     "content": "## Overige informatie\n\nOostelijke heerser; in oorlog met Castavonië (Püngü-so oorlogen), later vrede.",
+    "sourceEntityType": "character"
+  },
+  {
+    "docId": "Balder_Dèlor",
+    "title": "Balder Dèlor",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Balder Dèlor"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Prins, leider Balderrokken"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Balderokken"
+        ]
+      },
+      {
+        "cells": [
+          "Sterfte",
+          "154, Slag bij Garbeek"
+        ]
+      }
+    ],
+    "content": "## Overige informatie\n\nSneuvelde in de Slag bij Garbeek (154) tegen het staande leger van Godrak (23.000 vs 41.000).",
     "sourceEntityType": "character"
   },
   {
@@ -4373,6 +7629,40 @@
     "sourceEntityType": "character"
   },
   {
+    "docId": "Constantijn_van_Brosen",
+    "title": "Constantijn van Brosen",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Constantijn van Brosen"
+        ]
+      },
+      {
+        "cells": [
+          "Familie",
+          "van Brosen"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Generaal"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Godrak"
+        ]
+      }
+    ],
+    "content": "",
+    "sourceEntityType": "character"
+  },
+  {
     "docId": "De_Doler",
     "title": "De Doler",
     "category": "Personages",
@@ -4441,6 +7731,34 @@
     "sourceEntityType": "character"
   },
   {
+    "docId": "Douwe_van_Booren",
+    "title": "Douwe van Booren",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Douwe van Booren"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Maarschalk"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Godrak"
+        ]
+      }
+    ],
+    "content": "## Overige informatie\n\nMaarschalk; lid van de Raad van 15 heren; organiseerde het Grote Feestmaal (66).",
+    "sourceEntityType": "character"
+  },
+  {
     "docId": "Dramon_de_Barmhartige",
     "title": "Dramon de Barmhartige",
     "category": "Personages",
@@ -4460,6 +7778,28 @@
       }
     ],
     "content": "## Overige informatie\n\nNoemt zichzelf barmhartig omdat hij beweert mensen de dood cadeau te doen.",
+    "sourceEntityType": "character"
+  },
+  {
+    "docId": "Duilius_Scadrall",
+    "title": "Duilius Scadrall",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Duilius Scadrall"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Godrak"
+        ]
+      }
+    ],
+    "content": "",
     "sourceEntityType": "character"
   },
   {
@@ -5047,6 +8387,28 @@
     "sourceEntityType": "character"
   },
   {
+    "docId": "Hulfric_de_Loper",
+    "title": "Hulfric de Loper",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Hulfric de Loper"
+        ]
+      },
+      {
+        "cells": [
+          "Familie",
+          "Ursihr"
+        ]
+      }
+    ],
+    "content": "## Overige informatie\n\nOvergelopen van Ursihr naar Garmeland.",
+    "sourceEntityType": "character"
+  },
+  {
     "docId": "Jan_de_Joviale",
     "title": "Jan de Joviale",
     "category": "Personages",
@@ -5084,6 +8446,62 @@
       }
     ],
     "content": "## Overige informatie\n\nGing naar het Librerium omdat zijn muzikale talent daar gewaardeerd werd; sterft tijdens de verbranding van het Librerium.",
+    "sourceEntityType": "character"
+  },
+  {
+    "docId": "Jerralt_van_Kestellen",
+    "title": "Jerralt van Kestellen",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Jerralt van Kestellen"
+        ]
+      },
+      {
+        "cells": [
+          "Familie",
+          "van Kestellen"
+        ]
+      },
+      {
+        "cells": [
+          "Sterfte",
+          "154, Slag bij Garbeek"
+        ]
+      }
+    ],
+    "content": "",
+    "sourceEntityType": "character"
+  },
+  {
+    "docId": "Jolver_Bunderen",
+    "title": "Jolver Bunderen",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Jolver Bunderen"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Baron (opstandeling)"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "opstandige baronnen"
+        ]
+      }
+    ],
+    "content": "## Overige informatie\n\nLeidde de opstand in de Oorlog van de Gebroken Zegels (49-51) tegen koning Krastus na het Magnum Restrictus Krastosis.",
     "sourceEntityType": "character"
   },
   {
@@ -5815,6 +9233,40 @@
     "sourceEntityType": "character"
   },
   {
+    "docId": "Mylor_van_Valderingen",
+    "title": "Mylor van Valderingen",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Mylor van Valderingen"
+        ]
+      },
+      {
+        "cells": [
+          "Familie",
+          "van Valderingen"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Admiraal"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Godrak"
+        ]
+      }
+    ],
+    "content": "## Overige informatie\n\nErvaren admiraal; bleef met 5.000 troepen achter bij de boten tijdens de landing op de vulkaaneilanden (81).",
+    "sourceEntityType": "character"
+  },
+  {
     "docId": "Namayara",
     "title": "Namayara",
     "category": "Personages",
@@ -6092,6 +9544,80 @@
       }
     ],
     "content": "## Overige informatie\n\nRekenmeester; bestudeert nieuwe rekenformules.",
+    "sourceEntityType": "character"
+  },
+  {
+    "docId": "Primus_van_Garmeland",
+    "title": "Primus van Garmeland",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Primus van Garmeland"
+        ]
+      },
+      {
+        "cells": [
+          "Bijnaam",
+          "Hertog van Garmeland"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Hertog"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Hertogdom Garmeland"
+        ]
+      },
+      {
+        "cells": [
+          "Sterfte",
+          "-99, Slag bij Heimart"
+        ]
+      }
+    ],
+    "content": "## Overige informatie\n\nSneuvelde met zijn zoon bij de Slag bij Heimart; leidde tot de val van Garmeland.",
+    "sourceEntityType": "character"
+  },
+  {
+    "docId": "Qrijn_van_Ruitenberg",
+    "title": "Qrijn van Ruitenberg",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Qrijn van Ruitenberg"
+        ]
+      },
+      {
+        "cells": [
+          "Familie",
+          "van Ruitenberg"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Generaal"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Godrak"
+        ]
+      }
+    ],
+    "content": "## Overige informatie\n\nGeneraal tijdens de veldtocht op de vulkaaneilanden; kwam niet terug (vermoedelijk omgekomen in 99).",
     "sourceEntityType": "character"
   },
   {
@@ -6413,6 +9939,40 @@
     "sourceEntityType": "character"
   },
   {
+    "docId": "Siegmond_van_Valderingen",
+    "title": "Siegmond van Valderingen",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Siegmond van Valderingen"
+        ]
+      },
+      {
+        "cells": [
+          "Familie",
+          "van Valderingen"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Opvolgend-admiraal"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Godrak"
+        ]
+      }
+    ],
+    "content": "",
+    "sourceEntityType": "character"
+  },
+  {
     "docId": "Skaffadus_II_Dèlor",
     "title": "Skaffadus II Dèlor",
     "category": "Personages",
@@ -6511,6 +10071,40 @@
     "sourceEntityType": "character"
   },
   {
+    "docId": "Theon_van_Brimeur",
+    "title": "Theon van Brimeur",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Theon van Brimeur"
+        ]
+      },
+      {
+        "cells": [
+          "Familie",
+          "van Brimeur"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Generaal"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Godrak"
+        ]
+      }
+    ],
+    "content": "## Overige informatie\n\nGeneraal; regelde voedselvoorraden/logistiek; ook Tilaat van Tilium Viminar.",
+    "sourceEntityType": "character"
+  },
+  {
     "docId": "Tiberius_Artus",
     "title": "Tiberius Artus",
     "category": "Personages",
@@ -6597,6 +10191,80 @@
     "sourceEntityType": "character"
   },
   {
+    "docId": "Valder_Ursihr_de_Ademloze",
+    "title": "Valder Ursihr de Ademloze",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Valder Ursihr de Ademloze"
+        ]
+      },
+      {
+        "cells": [
+          "Bijnaam",
+          "Overwinnaar bij het bloedveld"
+        ]
+      },
+      {
+        "cells": [
+          "Familie",
+          "Ursihr"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Heer"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Ursihr, Whelen"
+        ]
+      }
+    ],
+    "content": "## Overige informatie\n\n17 jaar; aanvoerder bij de Slag bij Heimart (-99).",
+    "sourceEntityType": "character"
+  },
+  {
+    "docId": "Viktan_de_Rivierkreeft",
+    "title": "Viktan de Rivierkreeft",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Viktan de Rivierkreeft"
+        ]
+      },
+      {
+        "cells": [
+          "Bijnaam",
+          "Tyrant van de Beken"
+        ]
+      },
+      {
+        "cells": [
+          "Functie",
+          "Heer"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Garmeland"
+        ]
+      }
+    ],
+    "content": "## Overige informatie\n\nHield de oorlog na de Slag bij Heimart nog 2 jaar in stand via plunderingen en guerrilla.",
+    "sourceEntityType": "character"
+  },
+  {
     "docId": "Viktor_Smits",
     "title": "Viktor Smits",
     "category": "Personages",
@@ -6628,6 +10296,28 @@
       }
     ],
     "content": "## Overige informatie\n\nGefaalde tovenaar die mensen oplichtte; veroordeeld tot levenslange taakstraf (paddenstoelen plukken); meegenomen door snazelaars van anna.",
+    "sourceEntityType": "character"
+  },
+  {
+    "docId": "Vitus_Tragrec",
+    "title": "Vitus Tragrec",
+    "category": "Personages",
+    "infoboxCaption": "Personage",
+    "infoboxRows": [
+      {
+        "cells": [
+          "Naam",
+          "Vitus Tragrec"
+        ]
+      },
+      {
+        "cells": [
+          "Loyaliteit",
+          "Godrak"
+        ]
+      }
+    ],
+    "content": "",
     "sourceEntityType": "character"
   },
   {
@@ -6715,883 +10405,5 @@
     ],
     "content": "",
     "sourceEntityType": "character"
-  },
-  {
-    "docId": "Argouw",
-    "title": "Argouw",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Argouw"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Burggraafschap Jukten"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Paleis-fort van de oude heren van Garmeland in Garmelandse architectuur."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nPaleis-fort van de oude heren van Garmeland in Garmelandse architectuur.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Arstellen",
-    "title": "Arstellen",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Arstellen"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Graafschap Sambadije"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Rijke stad hoog in het noorden bij de legendarische Sambaatse ijzerheuvels waar hoge adel begraven ligt."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nRijke stad hoog in het noorden bij de legendarische Sambaatse ijzerheuvels waar hoge adel begraven ligt.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Barterburg",
-    "title": "Barterburg",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Barterburg"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Graafschap Sambadije"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Hoofdstad van Sambadije en centrale verbinding van Castavonië; bekend om de muskus-os en warme kledij."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nHoofdstad van Sambadije en centrale verbinding van Castavonië; bekend om de muskus-os en warme kledij.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Beunster-stad",
-    "title": "Beunster-stad",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Beunster-stad"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Baronie Beunster"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Enige gefortificeerde grote stad in Beunster; snel gegroeid tijdens de eeuwige oorlog met militaire havens en scheepswerven; grootste Gregoriaanse kerk van Castavonië."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nEnige gefortificeerde grote stad in Beunster; snel gegroeid tijdens de eeuwige oorlog met militaire havens en scheepswerven; grootste Gregoriaanse kerk van Castavonië.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Bokkum",
-    "title": "Bokkum",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Bokkum"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Burggraafschap Jukten"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Handelscentrum voor noordelijk vee; fokt grote praalbokken."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nHandelscentrum voor noordelijk vee; fokt grote praalbokken.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Corburg",
-    "title": "Corburg",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Corburg"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Burggraafschap Jukten"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Communicatiecentrum van het rijk; Raventoren met boodschappervogels."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nCommunicatiecentrum van het rijk; Raventoren met boodschappervogels.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Demen",
-    "title": "Demen",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Demen"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Graafschap Sambadije"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "'Rattenstad' omdat het grootste deel van de bevolking ratspur is; unieke ratspur-architectuur met bruggetjes en paden."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\n'Rattenstad' omdat het grootste deel van de bevolking ratspur is; unieke ratspur-architectuur met bruggetjes en paden.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Euberdal",
-    "title": "Euberdal",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Euberdal"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Kroonland Whelen"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Stad op een eiland in de Euber, direct bestuurd door de kroon; bedevaartsoord waar Sint Sebaltus begraven is."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nStad op een eiland in de Euber, direct bestuurd door de kroon; bedevaartsoord waar Sint Sebaltus begraven is.\n\n## Interessante locaties\n\n- Tombe van Sebaltus in het balrût-complex\n- Pelgrimswijk\n- Kasteel Bockheim",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Foldev",
-    "title": "Foldev",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Foldev"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Graafschap Orstede"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "'De onbreekbare stad' door de jarenlange belegering die nooit viel; poort naar het Librerium vanuit het noorden."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\n'De onbreekbare stad' door de jarenlange belegering die nooit viel; poort naar het Librerium vanuit het noorden.\n\n## Interessante locaties\n\n- Buskruitwerkplaatsen ('rattenbom')\n- Liebra brug (2 km, naar het Librerium)",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Graankant",
-    "title": "Graankant",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Graankant"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Burggraafschap Jukten"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Hospitum met grote gewelven; verplichte stop voor pelgrims naar Euberdal."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nHospitum met grote gewelven; verplichte stop voor pelgrims naar Euberdal.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Graffel",
-    "title": "Graffel",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Graffel"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Burggraafschap Jukten"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Tolpoorten in de uitlopers van de Neder-Euber en Trongel; belast handelsverkeer tussen Hommelhaven en Ventium."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nTolpoorten in de uitlopers van de Neder-Euber en Trongel; belast handelsverkeer tussen Hommelhaven en Ventium.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Grauwpunt",
-    "title": "Grauwpunt",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Grauwpunt"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Burggraafschap Jukten"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Bezit een flink kasteel op de rotsen langs de Dondel, zwaar gefortificeerd."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nBezit een flink kasteel op de rotsen langs de Dondel, zwaar gefortificeerd.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Hezelstein",
-    "title": "Hezelstein",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Hezelstein"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Triumvantium"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Kleinere stad in het noorden, direct bestuurd door de rijkswegenmeester; ontwerpen voor wegen en bruggen; controlepunt voor import/export en escortes over de Euber."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nKleinere stad in het noorden, direct bestuurd door de rijkswegenmeester; ontwerpen voor wegen en bruggen; controlepunt voor import/export en escortes over de Euber.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Holsveldt",
-    "title": "Holsveldt",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Holsveldt"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Burggraafschap Jukten"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Poorten beheersen de landroute tussen Hommelhaven en Ventium."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nPoorten beheersen de landroute tussen Hommelhaven en Ventium.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Hommelhaven",
-    "title": "Hommelhaven",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Hommelhaven"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Koninklijke vrijstad Hommelhaven"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Grootste gefortificeerde havenstad van Castavonië; bulk van import/export naar Skaffadocië en Randhaarst."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nGrootste gefortificeerde havenstad van Castavonië; bulk van import/export naar Skaffadocië en Randhaarst.\n\n## Interessante locaties\n\n- Raathof\n- Bar Spitsval (ratspur kapers)\n- Pakhuizen district",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Houwst",
-    "title": "Houwst",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Houwst"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Burggraafschap Jukten"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Balrût gebouwd na de eeuwige oorlog als teken van de overwinning van het licht; gefinancierd door de burggraaf van Jukten."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nBalrût gebouwd na de eeuwige oorlog als teken van de overwinning van het licht; gefinancierd door de burggraaf van Jukten.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Kluik",
-    "title": "Kluik",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Kluik"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Burggraafschap Jukten"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Kloostercomplex met kavilitische monniken die boeken en manuscripten schrijven."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nKloostercomplex met kavilitische monniken die boeken en manuscripten schrijven.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Meerhaven",
-    "title": "Meerhaven",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Meerhaven"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Burggraafschap Jukten"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Muren lopen diep de rivier in; profiteert van handel langs de Dondel."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nMuren lopen diep de rivier in; profiteert van handel langs de Dondel.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Pildir",
-    "title": "Pildir",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Pildir"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Baljuwschap Koringland"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Hoofdstad van Koringland en na Ventium de stad met de meeste inwoners; bekend om de grote agrarische markt."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nHoofdstad van Koringland en na Ventium de stad met de meeste inwoners; bekend om de grote agrarische markt.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Raskof",
-    "title": "Raskof",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Raskof"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Baronie Kaurum"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "IJzermijnen van Raskof; ijzer wordt langs de Euber/Trantaan door Castavonië verscheept."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nIJzermijnen van Raskof; ijzer wordt langs de Euber/Trantaan door Castavonië verscheept.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Stierebosch",
-    "title": "Stierebosch",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Stierebosch"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Hertogdom Ursihr"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "2e grootste stad van Ursihr, in de donkere bossen; bekend om houtproductie."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\n2e grootste stad van Ursihr, in de donkere bossen; bekend om houtproductie.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Talivaart",
-    "title": "Talivaart",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Talivaart"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Baronie Teteren"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Hoofdstad van de rijkste baronie Teteren; na de Püngü-so oorlogen veel vluchtelingen uit het oosten."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nHoofdstad van de rijkste baronie Teteren; na de Püngü-so oorlogen veel vluchtelingen uit het oosten.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Thalgen",
-    "title": "Thalgen",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Thalgen"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Hertogdom Ursihr"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Hoofdstad van Ursihr en thuisbasis van de Ursihr-familie en de Thalgse wacht (elitesoldaten)."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nHoofdstad van Ursihr en thuisbasis van de Ursihr-familie en de Thalgse wacht (elitesoldaten).\n\n## Interessante locaties\n\n- Kasteel van Thalgen\n- St. Evertinus balrût (volledig van hout)\n- Koninklijke jachtgebieden",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Tolheim",
-    "title": "Tolheim",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Tolheim"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Ordestaat Balvan"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Grootste stad in het noorden van Castavonië, laatste echte grens; militaire stad met veel ridderordes."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nGrootste stad in het noorden van Castavonië, laatste echte grens; militaire stad met veel ridderordes.\n\n## Interessante locaties\n\n- Tratelhuis (raad van ridders en adel)\n- Sterrenwacht-outpost (noorderlicht)\n- Sint Sebaltus plaza",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Turland",
-    "title": "Turland",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Turland"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Markiezaat Erendorf"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Vestingsbalrût van Sint-Hannes, ook te gebruiken als verdedigingswerk bij belegeringen."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nVestingsbalrût van Sint-Hannes, ook te gebruiken als verdedigingswerk bij belegeringen.",
-    "sourceEntityType": "city"
-  },
-  {
-    "docId": "Ventium",
-    "title": "Ventium",
-    "category": "Steden",
-    "infoboxCaption": "Stad",
-    "infoboxRows": [
-      {
-        "cells": [
-          "Naam",
-          "Ventium"
-        ]
-      },
-      {
-        "cells": [
-          "Land",
-          "Koninkrijk Castavonië"
-        ]
-      },
-      {
-        "cells": [
-          "Regio",
-          "Kroonland Whelen"
-        ]
-      },
-      {
-        "cells": [
-          "Beschrijving",
-          "Hoofdstad van Castavonië en grootste stad van het koninkrijk; politiek en religieus centrum aan de rivier de Trongel. Koning Krastus en de 7e oplidoom regeren hier. Centrum van handel met talloze gilden. Ooit hoofdstad van graafschap Koringland."
-        ]
-      }
-    ],
-    "content": "## Beschrijving\n\nHoofdstad van Castavonië en grootste stad van het koninkrijk; politiek en religieus centrum aan de rivier de Trongel. Koning Krastus en de 7e oplidoom regeren hier. Centrum van handel met talloze gilden. Ooit hoofdstad van graafschap Koringland.\n\n## Interessante locaties\n\n- Werkplaats van de trongelse smidsgilde\n- Sint Lubertus-Jan balrût (grootste van het Triumvantium)\n- Handelsdistrict",
-    "sourceEntityType": "city"
   }
 ]

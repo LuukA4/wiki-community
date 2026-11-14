@@ -47,7 +47,7 @@
   },
   "pages_preview": {
     "file": "dry-run/pages.json",
-    "count": 204,
+    "count": 292,
     "categories": [
       "Goden",
       "Landen",
@@ -56,7 +56,8 @@
       "Regio's",
       "Religies",
       "Steden",
-      "Tijdlijn"
+      "Tijdlijn",
+      "Voorwerpen"
     ]
   }
 }
