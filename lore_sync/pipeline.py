@@ -1,3 +1,4 @@
+import json
 import logging
 import time
 
@@ -66,7 +67,7 @@ def build_pages(entities: dict, sources_cfg: dict) -> list:
     return pages
 
 
-def run_sync(settings, only_types=None) -> dict:
+def run_sync(settings, only_types=None, output_path=None) -> dict:
     sources_cfg = settings.sources
     service = drive_source.build_service(settings.google_credentials_json)
     extractor = Extractor(settings.mistral_api_key, settings.mistral_model, settings.request_pause)
@@ -112,6 +113,10 @@ def run_sync(settings, only_types=None) -> dict:
         time.sleep(settings.request_pause)
 
     pages = build_pages(all_entities, sources_cfg)
+    if output_path:
+        with open(output_path, "w", encoding="utf-8") as fh:
+            json.dump(pages, fh, ensure_ascii=False, indent=2)
+        log.info("Pagina's weggeschreven naar %s", output_path)
     written = skipped = 0
     for page in pages:
         result = sink.write_page(page, overwrite=settings.force)

@@ -59,9 +59,24 @@ Opmerking: de `apiKey` in de frontend is een publieke Firebase-web-key (geen geh
 
 Welke entiteitstypes uit welk document worden gehaald, staat in `config/sources.json` → `title_rules` (match op de bestandsnaam). Spreadsheets (zoals de tijdlijn) worden direct als CSV geparseerd naar `tijdlijn`.
 
-## Setup
+## Twee routes
 
-### 1. Google Drive-toegang (service account)
+**Route A — zonder Google Cloud account (aanbevolen nu):** Drive-lezen gebeurt via de **Mistral google_drive-connector** (in deze sessie / in een Mistral Workflow met de connector eraan), niet via de Drive API. Jij hoeft dus géén Google Cloud project aan te maken. De import naar Firestore doe je met het Firebase service account dat je lokaal als bestand hebt:
+
+```bash
+# 1. pages.json maken (hier in de sessie, via de Drive-connector) -> dry-run/pages.json
+# 2. importeren naar Firestore (lokaal, alleen Firebase-creds nodig):
+export FIREBASE_PROJECT_ID=the-lore-wiki
+export FIREBASE_SERVICE_ACCOUNT_JSON="$(cat firebase-service-account.json)"
+python -m lore_sync import dry-run/pages.json --dry-run   # check
+python -m lore_sync import dry-run/pages.json             # echte import
+```
+
+Let op: `MISTRAL_API_KEY` is alleen voor LLM-calls (api.mistral.ai) — daar kun je **niet** Drive mee lezen. De Drive-toegang zit in de aparte google_drive-connector van de Mistral-sessie. Die connector is sessie-gebonden: een GitHub Actions-run kan daar niet bij.
+
+**Route B — volledig geautomatiseerd in GitHub Actions (optioneel):** hiervoor is wél een Google Cloud project + service account nodig (zie hieronder). De workflow `.github/workflows/sync-lore.yml` draait wekelijks (zondag 03:00 UTC) en handmatig via **Run workflow** (standaard als dry run).
+
+### Google Drive-toegang via service account (alleen Route B)
 
 1. Maak een project in Google Cloud Console, zet de **Google Drive API** aan.
 2. Maak een service account aan, download de JSON-key.
@@ -78,9 +93,9 @@ Welke entiteitstypes uit welk document worden gehaald, staat in `config/sources.
 
 Maak een API-key aan op [console.mistral.ai](https://console.mistral.ai) → secret `MISTRAL_API_KEY`. Model instelbaar via `MISTRAL_MODEL` (standaard `mistral-large-latest`).
 
-### 4. GitHub Actions (automatisering)
+### 4. GitHub Actions (alleen Route B)
 
-De workflow `.github/workflows/sync-lore.yml` draait wekelijks (zondag 03:00 UTC) en handmatig via **Run workflow** (standaard als dry run). Zet in de repo onder **Settings → Secrets and variables → Actions** de secrets: `MISTRAL_API_KEY`, `GOOGLE_SERVICE_ACCOUNT_JSON`, `FIREBASE_PROJECT_ID`, `FIREBASE_SERVICE_ACCOUNT_JSON`.
+Zet in de repo onder **Settings → Secrets and variables → Actions** de secrets: `MISTRAL_API_KEY`, `GOOGLE_SERVICE_ACCOUNT_JSON`, `FIREBASE_PROJECT_ID`, `FIREBASE_SERVICE_ACCOUNT_JSON`. Secrets zijn write-only: ik kan ze niet uitlezen — voor Route A gebruik je het lokale key-bestand.
 
 ## Lokaal draaien
 
@@ -92,9 +107,11 @@ export FIREBASE_PROJECT_ID=...
 export FIREBASE_SERVICE_ACCOUNT_JSON='$(cat firebase-key.json)'
 
 python -m lore_sync list                                  # toon Drive-bestanden
-python -m lore_sync sync --dry-run                        # extractie zonder Firestore-writes
+python -m lore_sync sync --dry-run --output pages.json    # extractie, zonder Firestore-writes
 python -m lore_sync sync --types character timeline_event # alleen bepaalde types
 python -m lore_sync sync --force                          # alles opnieuw
+python -m lore_sync import dry-run/pages.json --dry-run   # import-preview (geen Google nodig)
+python -m lore_sync import dry-run/pages.json             # importeer naar Firestore
 pytest                                                    # tests
 ```
 

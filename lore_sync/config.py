@@ -56,13 +56,14 @@ def load_settings(sources_path=None, dry_run=False, force=False, folders=None) -
     )
 
 
-def validate(settings: Settings, need_firestore: bool) -> list:
+def validate(settings: Settings, need_drive: bool = True, need_mistral: bool = True, need_firestore: bool = True) -> list:
     problems = []
-    if not settings.drive_folder_ids:
-        problems.append("Geen Drive folder IDs: zet 'folders' in config/sources.json of DRIVE_ROOT_FOLDER_ID.")
-    if not settings.google_credentials_json:
-        problems.append("GOOGLE_SERVICE_ACCOUNT_JSON ontbreekt (service account JSON met Drive read-toegang).")
-    if not settings.mistral_api_key:
+    if need_drive:
+        if not settings.drive_folder_ids:
+            problems.append("Geen Drive folder IDs: zet 'folders' in config/sources.json of DRIVE_ROOT_FOLDER_ID.")
+        if not settings.google_credentials_json:
+            problems.append("GOOGLE_SERVICE_ACCOUNT_JSON ontbreekt (service account JSON met Drive read-toegang).")
+    if need_mistral and not settings.mistral_api_key:
         problems.append("MISTRAL_API_KEY ontbreekt.")
     if need_firestore:
         if not settings.firebase_project_id:
