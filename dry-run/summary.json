@@ -44,5 +44,19 @@
     "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]": 26,
     "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)": 26,
     "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)": 117
+  },
+  "pages_preview": {
+    "file": "dry-run/pages.json",
+    "count": 204,
+    "categories": [
+      "Goden",
+      "Landen",
+      "Organisaties",
+      "Personages",
+      "Regio's",
+      "Religies",
+      "Steden",
+      "Tijdlijn"
+    ]
   }
 }

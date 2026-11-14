@@ -17,29 +17,45 @@ lore_sync.extract           Mistral AI → gestructureerde JSON per entiteitstyp
    ▼
 lore_sync.merge             dedup/merge op slug van de naam; sources per entiteit bijgehouden
    ▼
-lore_sync.firestore_sink    batched upserts (merge=True) met deterministische doc-ID = slug
+lore_sync.page_builder      entiteit → `pages`-document in het exacte formaat van de website:
+   │                          doc-ID = titel met spaties→underscores, category, infoboxRows
+   │                          ({cells: [label, waarde]}), infoboxCaption, content als Markdown
+   │                          ({Naam} wiki-links uit Drive worden [[Naam]])
+   ▼
+lore_sync.firestore_sink    setDoc naar collectie `pages`; pagina's die al bestaan worden
+   │                          overgeslagen (--force overschrijft); Admin SDK omzeilt de
+   │                          security rules (bedoeld voor de bulk-import)
    │                          + sync_state per bronbestand (modifiedTime) voor incrementeel sync
    ▼
-Firestore (Firebase)
+Firestore (project `the-lore-wiki`)
 ```
 
-## Firestore-collecties
+## Datamodel van de website (Legendarium)
 
-Standaard mapping (te wijzigen in `config/sources.json` → `entity_collections`):
+De website leest uit Firestore (project `the-lore-wiki`):
 
-| Entiteitstype | Collectie | Voorbeeldvelden |
+- **`pages/{docId}`** — één document per wiki-pagina. `docId = title.replace(/\s+/g, '_')`. Velden: `title`, `content` (Markdown: koppen, **vet**, lijsten, `[[WikiLink]]`/`[[Doel|Tekst]]`, afbeeldingen `![alt](images/bestand){width=.. align=..}`), `category` (groep op de startpagina), `infoboxRows` (array van `{cells: [label, waarde, ...]}` — één object per rij), `infoboxCaption`, `updatedAt`.
+- **`images/{bestandsnaam}`** — `name`, `data` (base64 data-URL, max ~700KB), `uploadedAt`.
+- **`locks/page-{titel}`** — bewerk-vergrendeling (hartslag, TTL 5 min).
+- **`editorRequests/{uid}`** —ferrer aanwezig = bewerkrechten (code gecheckt via rules tegen `settings/editor-code`).
+
+De sync maakt hier **alleen `pages`-documenten** aan (plus `sync_state`/`sync_runs` voor de sync zelf). Bestaat een pagina al? Dan wordt hij overgeslagen, zodat handmatige wijzigingen in de website behouden blijven (`--force` overschrijft wel).
+
+Mapping entiteitstype → categorie/caption staat in `config/sources.json` → `entity_pages`:
+
+| Entiteitstype | Categorie (startpagina) | Infobox-titel |
 |---|---|---|
-| `character` | `personages` | naam, familie, functie, titels, loyaliteit, religie, geboorteplaats, sterfteplaats, informatie, sources |
-| `country` | `landen` | naam, type, motto, hoofdstad, regeringsvorm, beschrijving |
-| `region` | `regios` | naam, type, land, hoofdstad, beschrijving |
-| `city` | `steden` | naam, land, regio, beschrijving, interessante_locaties |
-| `timeline_event` | `tijdlijn` | jaar (negatief = vóór jaar 0), titel, detail, groep, kleur |
-| `organization` | `organisaties` | naam, type, leider, locatie, leden, beschrijving |
-| `deity` | `goden` | naam, titel, domeinen, beschrijving |
-| `religion` | `religies` | naam, goden, beschrijving |
-| `item` | `voorwerpen` | naam, type, eigenaar, beschrijving |
+| `character` | Personages | Personage |
+| `country` | Landen | Land |
+| `region` | Regio's | Regio |
+| `city` | Steden | Stad |
+| `organization` | Organisaties | Organisatie |
+| `deity` | Goden | God |
+| `religion` | Religies | Religie |
+| `item` | Voorwerpen | Voorwerp |
+| `timeline_event` | één pagina "Tijdlijn" (lijst, op jaar gesorteerd) | Tijdlijn |
 
-Daarnaast: `sync_state` (per Drive-bestand: `modifiedTime`, `processedAt`, `stats`) en `sync_runs` (per run een samenvatting). Bestanden met een ongewijzigde `modifiedTime` worden overgeslagen, tenzij `--force`.
+Opmerking: de `apiKey` in de frontend is een publieke Firebase-web-key (geen geheim; dat hoort zo bij Firebase). De import gebruikt een **service account** (Admin SDK), nooit een persoonlijk login.
 
 Welke entiteitstypes uit welk document worden gehaald, staat in `config/sources.json` → `title_rules` (match op de bestandsnaam). Spreadsheets (zoals de tijdlijn) worden direct als CSV geparseerd naar `tijdlijn`.
 
@@ -87,5 +103,5 @@ Zonder Firestore-credentials kun je met `--dry-run` (of `DRY_RUN=true`) de extra
 ## Extending
 
 - Nieuwe bronmap: voeg het folder-ID toe aan `folders` in `config/sources.json` (of `--folders`).
-- Nieuw documenttype: voeg een regel toe aan `title_rules` en eventueel een schema in `lore_sync/schemas.py`.
-- Bestaand entiteitstype uitbreiden: pas het schema in `lore_sync/schemas.py` aan; Firestore merge't nieuwe velden automatisch bij.
+- Nieuw documenttype: voeg een regel toe aan `title_rules` en een schema in `lore_sync/schemas.py`.
+- Bestaand entiteitstype uitbreiden: pas het extractieschema in `lore_sync/schemas.py` én de infobox-rijen/content in `lore_sync/page_builder.py` aan; de categorie/caption staat in `config/sources.json` → `entity_pages`.

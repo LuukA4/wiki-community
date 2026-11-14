@@ -1,16 +1,17 @@
 {
   "folders": ["1aWiso3nOz-QUr3kHwCKhU9F_S0EVqgVv"],
-  "entity_collections": {
-    "character": "personages",
-    "country": "landen",
-    "region": "regios",
-    "city": "steden",
-    "timeline_event": "tijdlijn",
-    "organization": "organisaties",
-    "deity": "goden",
-    "religion": "religies",
-    "item": "voorwerpen"
+  "pages_collection": "pages",
+  "entity_pages": {
+    "character": { "category": "Personages", "caption": "Personage" },
+    "country": { "category": "Landen", "caption": "Land" },
+    "region": { "category": "Regio's", "caption": "Regio" },
+    "city": { "category": "Steden", "caption": "Stad" },
+    "organization": { "category": "Organisaties", "caption": "Organisatie" },
+    "deity": { "category": "Goden", "caption": "God" },
+    "religion": { "category": "Religies", "caption": "Religie" },
+    "item": { "category": "Voorwerpen", "caption": "Voorwerp" }
   },
+  "timeline_page": { "title": "Tijdlijn", "category": "Tijdlijn", "caption": "Tijdlijn" },
   "title_rules": [
     { "match": "personen", "types": ["character"] },
     { "match": "personages", "types": ["character"] },

@@ -1,17 +1,15 @@
 import json
 from datetime import datetime, timezone
 
-from .merge import slugify, entity_key
-from .schemas import name_field
-
 
 def _now():
     return datetime.now(timezone.utc).isoformat()
 
 
 class FirestoreSink:
-    def __init__(self, project_id: str, credentials_json: str, dry_run: bool = False):
+    def __init__(self, project_id: str, credentials_json: str, dry_run: bool = False, pages_collection: str = "pages"):
         self.dry_run = dry_run
+        self.pages_collection = pages_collection
         self.db = None
         if not dry_run:
             import firebase_admin
@@ -21,31 +19,29 @@ class FirestoreSink:
                 cred = credentials.Certificate(json.loads(credentials_json))
                 firebase_admin.initialize_app(cred, {"projectId": project_id})
             self.db = firestore.client()
+            self._server_timestamp = firestore.SERVER_TIMESTAMP
 
-    def write_entities(self, collection: str, entities: list) -> int:
-        if not entities:
-            return 0
+    def page_exists(self, doc_id: str) -> bool:
         if self.dry_run:
-            return len(entities)
-        written = 0
-        batch = self.db.batch()
-        pending = 0
-        for item in entities:
-            doc_id = item.get("id") or slugify(item.get(name_field(item.get("type", "")), ""))
-            data = dict(item)
-            data["id"] = doc_id
-            data["updatedAt"] = _now()
-            batch.set(self.db.collection(collection).document(doc_id), data, merge=True)
-            pending += 1
-            if pending == 500:
-                batch.commit()
-                written += pending
-                batch = self.db.batch()
-                pending = 0
-        if pending:
-            batch.commit()
-            written += pending
-        return written
+            return False
+        return self.db.collection(self.pages_collection).document(doc_id).get().exists
+
+    def write_page(self, page: dict, overwrite: bool = False) -> str:
+        doc_id = page["docId"]
+        if not overwrite and self.page_exists(doc_id):
+            return "skipped"
+        if self.dry_run:
+            return "written"
+        data = {
+            "title": page["title"],
+            "category": page.get("category", ""),
+            "content": page.get("content", ""),
+            "infoboxRows": page.get("infoboxRows", []),
+            "infoboxCaption": page.get("infoboxCaption", ""),
+            "updatedAt": self._server_timestamp,
+        }
+        self.db.collection(self.pages_collection).document(doc_id).set(data)
+        return "written"
 
     def get_state(self, file_id: str):
         if self.dry_run:
@@ -71,4 +67,4 @@ class FirestoreSink:
     def write_run_summary(self, summary: list) -> None:
         if self.dry_run:
             return
-        self.db.collection("sync_runs").document().set({"startedAt": _now(), "files": summary})
+        self.db.collection("sync_runs").document().set({"finishedAt": _now(), "files": summary})
