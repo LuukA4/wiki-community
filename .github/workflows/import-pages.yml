@@ -1,0 +1,37 @@
+name: Importeer pages.json naar Firestore
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (geen writes naar Firestore)"
+        type: boolean
+        default: true
+      force:
+        description: "Overschrijf pagina's die al bestaan"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installeer dependencies
+        run: pip install -r requirements.txt
+
+      - name: Import pagina's
+        env:
+          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+          FORCE: ${{ inputs.force || 'false' }}
+        run: python -m lore_sync import dry-run/pages.json
