@@ -1,6 +1,7 @@
 import json
 
 from .firestore_sink import FirestoreSink
+from .page_builder import sanitize_doc_id
 
 
 def load_pages_json(path) -> list:
@@ -12,6 +13,7 @@ def load_pages_json(path) -> list:
     for i, page in enumerate(data):
         if not isinstance(page, dict) or not page.get("docId") or not page.get("title"):
             raise ValueError(f"pagina #{i} in {path} mist 'docId' of 'title'")
+        page["docId"] = sanitize_doc_id(page["docId"])
         pages.append(page)
     return pages
 

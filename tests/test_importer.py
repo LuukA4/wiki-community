@@ -30,6 +30,12 @@ def test_load_pages_json_rejects_non_array(tmp_path):
         load_pages_json(path)
 
 
+def test_load_pages_json_sanitizes_doc_id(tmp_path):
+    path = _write(tmp_path, [{"docId": "Opperraad_/_Hoge_militaire_raad", "title": "Opperraad / Hoge militaire raad"}])
+    pages = load_pages_json(path)
+    assert pages[0]["docId"] == "Opperraad_-_Hoge_militaire_raad"
+
+
 def test_import_pages_dry_run_counts(tmp_path):
     path = _write(tmp_path, [
         {"docId": "A", "title": "A"},

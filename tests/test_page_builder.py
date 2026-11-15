@@ -2,6 +2,7 @@ from lore_sync.page_builder import (
     build_content,
     doc_id_for_title,
     entity_to_page,
+    sanitize_doc_id,
     timeline_events_to_page,
     to_wiki_links,
 )
@@ -12,6 +13,12 @@ PAGE_CFG = {"category": "Personages", "caption": "Personage"}
 def test_doc_id_matches_website_rule():
     assert doc_id_for_title("Krastus Suyckerbuyck I") == "Krastus_Suyckerbuyck_I"
     assert doc_id_for_title("  dubbele   spaties ") == "_dubbele_spaties_"
+
+
+def test_doc_id_sanitizes_firestore_path_separator():
+    assert doc_id_for_title("Opperraad / Hoge militaire raad") == "Opperraad_-_Hoge_militaire_raad"
+    assert sanitize_doc_id("Familie Valderingen / Vintar-Valderingen".replace(" ", "_")) == "Familie_Valderingen_-_Vintar-Valderingen"
+    assert "/" not in sanitize_doc_id("a/b/c")
 
 
 def test_to_wiki_links_converts_drive_markers():

@@ -11,8 +11,12 @@ def to_wiki_links(text) -> str:
     return WIKILINK.sub(lambda m: f"[[{m.group(1).strip()}]]", str(text))
 
 
+def sanitize_doc_id(doc_id: str) -> str:
+    return str(doc_id).replace("/", "-")
+
+
 def doc_id_for_title(title: str) -> str:
-    return re.sub(r"\s+", "_", title)
+    return sanitize_doc_id(re.sub(r"\s+", "_", title))
 
 
 def _cell_value(value) -> str:
