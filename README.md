@@ -61,7 +61,10 @@ Welke entiteitstypes uit welk document worden gehaald, staat in `config/sources.
 
 ## Twee routes
 
-**Route A — zonder Google Cloud account (aanbevolen nu):** Drive-lezen gebeurt via de **Mistral google_drive-connector** (in deze sessie / in een Mistral Workflow met de connector eraan), niet via de Drive API. Jij hoeft dus géén Google Cloud project aan te maken. De import naar Firestore doe je met het Firebase service account dat je lokaal als bestand hebt:
+**Route A — zonder Google Cloud account (aanbevolen nu):** Drive-lezen gebeurt via de **Mistral google_drive-connector** (in deze sessie / in een Mistral Workflow met de connector eraan), niet via de Drive API. Jij hoeft dus géén Google Cloud project aan te maken. De import naar Firestore kan op twee manieren:
+
+- **Via GitHub Actions (nadat de PR gemerged is naar main):** `.github/workflows/import-pages.yml` — handmatig starten via **Run workflow** (standaard dry-run). Gebruikt alleen de secrets `FIREBASE_PROJECT_ID` + `FIREBASE_SERVICE_ACCOUNT_JSON` en importeert `dry-run/pages.json` naar collectie `pages`.
+- **Lokaal:** met het Firebase service account als bestand (zie onderstaand commando).
 
 ```bash
 # 1. pages.json maken (hier in de sessie, via de Drive-connector) -> dry-run/pages.json
@@ -74,7 +77,7 @@ python -m lore_sync import dry-run/pages.json             # echte import
 
 Let op: `MISTRAL_API_KEY` is alleen voor LLM-calls (api.mistral.ai) — daar kun je **niet** Drive mee lezen. De Drive-toegang zit in de aparte google_drive-connector van de Mistral-sessie. Die connector is sessie-gebonden: een GitHub Actions-run kan daar niet bij.
 
-**Route B — volledig geautomatiseerd in GitHub Actions (optioneel):** hiervoor is wél een Google Cloud project + service account nodig (zie hieronder). De workflow `.github/workflows/sync-lore.yml` draait wekelijks (zondag 03:00 UTC) en handmatig via **Run workflow** (standaard als dry run).
+**Route B — volledige sync in GitHub Actions (optioneel):** hiervoor is wél een Google Cloud project + service account nodig (zie hieronder). De workflow `.github/workflows/sync-lore.yml` draait wekelijks (zondag 03:00 UTC) en handmatig via **Run workflow** (standaard als dry run).
 
 ### Google Drive-toegang via service account (alleen Route B)
 
