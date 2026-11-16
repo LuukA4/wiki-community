@@ -1,0 +1,404 @@
+[
+  {
+    "naam": "Baljuwschap Koringland",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Pildir",
+    "heerser": "Pierot van Ganderen",
+    "beschrijving": "Dichtstbevolkte gebied van Castavonië, voortgekomen uit het Markiezaat van Whelen. Belangrijkste tarweproducent van het Triumvantium met geëxporteerde oogsten en het jaarlijkse oogstfeest.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)",
+      "kaur (1u7hJM1hvA1fECxhvFO6--Ahl7QC2rB1r3jzyhA-5dac)"
+    ],
+    "id": "baljuwschap-koringland"
+  },
+  {
+    "naam": "Baljuwschap Vaeldur",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Patershof",
+    "heerser": "Bertus Maarmers",
+    "beschrijving": "~31.000 inwoners, basaltkliffen en grasland.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "baljuwschap-vaeldur"
+  },
+  {
+    "naam": "Baronie Beunster",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Beunster",
+    "heerser": "Wilhelm van Braamond",
+    "beschrijving": "~24.000 inwoners; snel gegroeid tijdens de eeuwige oorlog door militaire havens.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "baronie-beunster"
+  },
+  {
+    "naam": "Baronie Frummenwoud",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Vinkelburg",
+    "heerser": "Karlos Bervoets",
+    "beschrijving": "~20.000 inwoners, moerassige bossen; jachtboten van de adel.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "baronie-frummenwoud"
+  },
+  {
+    "naam": "Baronie Kaurum",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Kertdal",
+    "heerser": "Steiner Bredius",
+    "beschrijving": "Ook wel 'Het Land van Kaur'; een van de 5 overgebleven baronieën na de Magnum Restrictus Krastosis. Kiest in oorlogen altijd de winnende kant. Rijk door zilvervoorraad en ijzer; wapenschild met zwijn is ouder dan dat van Castavonië.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)",
+      "kaur (1u7hJM1hvA1fECxhvFO6--Ahl7QC2rB1r3jzyhA-5dac)"
+    ],
+    "id": "baronie-kaurum"
+  },
+  {
+    "naam": "Baronie Teteren",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Talivaart",
+    "heerser": "Nilper van Teteren",
+    "beschrijving": "~187.000 inwoners, rijkste baronie; na de Püngü-so oorlogen veel vluchtelingen uit het oosten.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "baronie-teteren"
+  },
+  {
+    "naam": "Baronie Varinst",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Gronat",
+    "heerser": "Ferdinand van Polst",
+    "beschrijving": "~14.000 inwoners, moeras en duinen.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "baronie-varinst"
+  },
+  {
+    "naam": "Baronie Yalten",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Duisen",
+    "heerser": "Ernst van Duisen",
+    "beschrijving": "~110.000 inwoners, toendra; valt onder gezag van Ursihr.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "baronie-yalten"
+  },
+  {
+    "naam": "Burggraafschap Inderwaarden",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Kolderdrecht",
+    "heerser": "Maurik Oost ter Dam",
+    "beschrijving": "~203.000 inwoners, loof- en dennenbossen; draslanden vertraagden de opmars in de eeuwige oorlog.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "burggraafschap-inderwaarden"
+  },
+  {
+    "naam": "Burggraafschap Jukten",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Houwst",
+    "heerser": "Johannes van Jukten",
+    "beschrijving": "Heerlijkheden; hoofdstad ook Grauwpunt, Graankant, Holsveldt, Corburg, Graffel, Bokkum, Argouw, Meerhaven, Onkfalen, Kluik.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "burggraafschap-jukten"
+  },
+  {
+    "naam": "Burggraafschap Seermuk",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Népadrek",
+    "heerser": "Tietus van Népadrek",
+    "beschrijving": "~16.000 inwoners, rotsen; fort met dikste muren van alle eilandforten, beschermer Ragitonis (draak).",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "burggraafschap-seermuk"
+  },
+  {
+    "naam": "Familie Valderingen / Vintar-Valderingen",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "beschrijving": "Belangrijke staat met de grootste vloot van het Triumvantium; moeder van Gregorius II komt uit dit huis.",
+    "sources": [
+      "kaur (1u7hJM1hvA1fECxhvFO6--Ahl7QC2rB1r3jzyhA-5dac)"
+    ],
+    "id": "familie-valderingen-vintar-valderingen"
+  },
+  {
+    "naam": "Graafschap Fraamden",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Eksterbank",
+    "heerser": "Arnold van Boomschaal",
+    "beschrijving": "~430.000 inwoners, graslanden en loofbossen.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "graafschap-fraamden"
+  },
+  {
+    "naam": "Graafschap Goldra",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Aarthuijs",
+    "heerser": "Harold Artus (goldraak)",
+    "beschrijving": "~302.000 inwoners, basaltkliffen en grasland. Militair innovatief (fort Hardonium).",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "graafschap-goldra"
+  },
+  {
+    "naam": "Graafschap Orstede",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Foldev",
+    "heerser": "Karlis van Orstede",
+    "beschrijving": "~340.000 inwoners. Een van de meest verstedelijkte regio's; bierproductie, buskruit, vuurwapens, kanonnen. Foldev: 'de onbreekbare stad', poort naar het Librerium via de 2 km lange Liebra brug.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)",
+      "kaur (1u7hJM1hvA1fECxhvFO6--Ahl7QC2rB1r3jzyhA-5dac)"
+    ],
+    "id": "graafschap-orstede"
+  },
+  {
+    "naam": "Graafschap Sambadije",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Barterburg",
+    "heerser": "Sven Degeer",
+    "beschrijving": "~530.000 inwoners, toendra en bergen. Grondstofwinning (ijzer, koper), grootste ratspurpopulatie (clan Skrum), Sambaatse IJzerheuvels met grafheuvels van oude keizers.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)",
+      "kaur (1u7hJM1hvA1fECxhvFO6--Ahl7QC2rB1r3jzyhA-5dac)"
+    ],
+    "id": "graafschap-sambadije"
+  },
+  {
+    "naam": "Graafschap Walgen",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Brimeur",
+    "heerser": "Judocus van Brimeur",
+    "beschrijving": "~42.000 inwoners, grasland en stranden; opstand in Brimeur tegen Druval (jaar 46).",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "graafschap-walgen"
+  },
+  {
+    "naam": "Groot-Zijpdom Ooststeden",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Krimpelhof",
+    "heerser": "Marthinus Zijp",
+    "beschrijving": "~43.000 inwoners; Zijpdommen zijn gefortificeerde gemeenten gekocht/beschermd door Marthinus Zijp.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "groot-zijpdom-ooststeden"
+  },
+  {
+    "naam": "Hekserij Brokster",
+    "type": "region",
+    "land": "Koninkrijk Dèlor",
+    "beschrijving": "Slechte relaties met Castavonië; enorme invloed ondanks klein grondgebied; 10+ kikkerman stammen.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "hekserij-brokster"
+  },
+  {
+    "naam": "Hertogdom Beekervaart",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Ruijtersbergen",
+    "heerser": "Koenraad Ursihr",
+    "beschrijving": "~630.000 inwoners, graslanden en loofbossen.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "hertogdom-beekervaart"
+  },
+  {
+    "naam": "Hertogdom Randhaarst",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Krimbon",
+    "beschrijving": "~80.000 inwoners, ijs en naaldbossen; regeert een Jarl.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "hertogdom-randhaarst"
+  },
+  {
+    "naam": "Hertogdom Ursihr",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Thalgen",
+    "heerser": "Barsem Ursihr",
+    "beschrijving": "Ontstond na een interne breuk in de Storbuutse Federatie; modern feodaal model, bekering tot het Kavilitische geloof. Bekend om infanterie, houtkap, bont en papier; havenstad Hommelhaven.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)",
+      "kaur (1u7hJM1hvA1fECxhvFO6--Ahl7QC2rB1r3jzyhA-5dac)"
+    ],
+    "id": "hertogdom-ursihr"
+  },
+  {
+    "naam": "Koninklijke vrijstad Hommelhaven",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Hommelhaven",
+    "heerser": "Hendrik van Palland (hoogschout)",
+    "beschrijving": "~39.000 inwoners, grootste gefortificeerde havenstad; bulk van import/export naar Skaffadocië en Randhaarst. Kreeg vrijstadrechten in jaar 50.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "koninklijke-vrijstad-hommelhaven"
+  },
+  {
+    "naam": "Kroonland Druval",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Thitemar",
+    "heerser": "Gregorius II van Druval",
+    "beschrijving": "~123.000 inwoners, basaltkliffen en heide.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "kroonland-druval"
+  },
+  {
+    "naam": "Kroonland Metradorium",
+    "type": "region",
+    "land": "Koninkrijk Dèlor",
+    "hoofdstad": "Librerium",
+    "beschrijving": "Kroonland direct door Reginald bestuurd; gigantische brug naar Borlova met aquaducten en portcullisen.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "kroonland-metradorium"
+  },
+  {
+    "naam": "Kroonland Whelen",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Ventium",
+    "heerser": "Krastus Suykerbuyk",
+    "beschrijving": "Kroonland bestuurd door Krastus zelf. Ventium is hoofdstad en diplomatiek centrum; hier zetelt de Oplidoom van het Kavilisme en de Trongelse Smidsgilde. Clan Salvesium (grootste ratspur clan) rond Ventium.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "kroonland-whelen"
+  },
+  {
+    "naam": "Markiezaat Erendorf",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Dondelburg",
+    "heerser": "Herman van Ninten",
+    "beschrijving": "Gearchiveerd tegen de Nooise invasies (jaar 86).",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "markiezaat-erendorf"
+  },
+  {
+    "naam": "Markiezaat van Vintar-Valderingen",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Vrandsen",
+    "heerser": "Aegidius van Valderingen",
+    "beschrijving": "~108.000 inwoners, duinen en kustrotsen. Grootste vloot; Eksterbank (grootste bank van het rijk).",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "markiezaat-van-vintar-valderingen"
+  },
+  {
+    "naam": "Ordestaat Balvan",
+    "type": "region",
+    "land": "Koninkrijk Castavonië",
+    "hoofdstad": "Tolheim",
+    "heerser": "Ropert van Droord",
+    "beschrijving": "~170.000 inwoners, militaire staat ontstaan uit het noorden van Sambadije na de noorderratten-opstand. Thuisland van de noorderratten (clan Normok). Meerdere ridderordes gevestigd.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "ordestaat-balvan"
+  },
+  {
+    "naam": "Pepelarij",
+    "type": "region",
+    "land": "Koninkrijk Dèlor",
+    "heerser": "Balder Dèlor",
+    "beschrijving": "Tweede grootste stad van het rijk.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "pepelarij"
+  },
+  {
+    "naam": "Prinsdom Mosdor",
+    "type": "region",
+    "land": "Koninkrijk Dèlor",
+    "heerser": "Tristan Dèlor",
+    "beschrijving": "Raad van Raven; oorsprongregio Beekervaart.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "prinsdom-mosdor"
+  },
+  {
+    "naam": "Prinsdom Rollodo",
+    "type": "region",
+    "land": "Koninkrijk Dèlor",
+    "heerser": "Felix Dèlor",
+    "beschrijving": "Meeste goudmijnen van het Triumvantium; goudwerkers.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "prinsdom-rollodo"
+  },
+  {
+    "naam": "Tilium Viminar",
+    "type": "region",
+    "land": "Groothertogdom Godrak",
+    "hoofdstad": "Garvië",
+    "heerser": "Theon van Brimeur",
+    "beschrijving": "~40.000 inwoners.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "tilium-viminar"
+  },
+  {
+    "naam": "Walterschap Hoelterwoud",
+    "type": "region",
+    "land": "Koninkrijk Dèlor",
+    "beschrijving": "Magisch bos, Neder-Hoelts dialect, Hoelterse mensachtigen en creatures.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "walterschap-hoelterwoud"
+  }
+]

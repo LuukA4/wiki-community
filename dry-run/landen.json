@@ -1,0 +1,167 @@
+[
+  {
+    "naam": "Bohlul",
+    "type": "country",
+    "beschrijving": "Oostelijk rijk, in oorlog met Castavonië (Püngü-so oorlogen), later vrede (Vrede van Trazam, 96) en pact van Sallahri (102).",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "bohlul"
+  },
+  {
+    "naam": "Groot-Tovenarij van Ménok",
+    "type": "country",
+    "hoofdstad": "De Witte Toren",
+    "heerser": "Ménok de Witte (Groot-Tovenaar / Aarts-Grootmeester)",
+    "beschrijving": "Eiland van basalt met de grote tovenaarstoren van Ménok, training voor niet-mana tovenaars, groot archief. Inwoners 33.600.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "groot-tovenarij-van-menok"
+  },
+  {
+    "naam": "Groothertogdom Godrak",
+    "type": "country",
+    "motto": "gesmeedt uyt Schichte ende Inferno / Graboda v Scartos ï Dravum",
+    "hoofdstad": "Druval & Vaeldur (Patershof)",
+    "heerser": "Gregorius II van Druval",
+    "regeringsvorm": "Groothertogdom",
+    "religies": [
+      "Dravogo",
+      "Gregoriaans"
+    ],
+    "beschrijving": "Baronie (-182), hertogdom (-128, onder Keizerrijk Dèlor), groothertogdom sinds 44 binnen het Triumvantium. Grootste vloot van het Triumvantium, aristocratische oligarchie. Inwoners ~2.082.000.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "groothertogdom-godrak"
+  },
+  {
+    "naam": "Het Librerium",
+    "type": "country",
+    "hoofdstad": "Librerium",
+    "heerser": "Ménok de Witte",
+    "beschrijving": "Oorspronkelijk klooster Sint Gregorius (opgericht -130), in -86 verbouwd tot Librerium, hoofdstad van Dèlor door Keizer Skaffadus I. Inwoners 169.000.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "het-librerium"
+  },
+  {
+    "naam": "Keizerrijk Olorundar",
+    "type": "country",
+    "beschrijving": "Oostelijk rijk in Afrika-achtige regio's: Ekundè, Oloja, Nafaruza, Zarukha Mansanaat, Confederatie van Havas, Djalu Kwitoo-Vangoo, Ozuzu Federatie, Fari Toroké, Dahusa, Aboro, Ajiruba, Kalomé, Mbara-Lunu, Okon Goro, Marafa, Bohlul.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "keizerrijk-olorundar"
+  },
+  {
+    "naam": "Khaltè Atabegaat",
+    "type": "country",
+    "beschrijving": "Staat in het noordoosten.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "khalte-atabegaat"
+  },
+  {
+    "naam": "Koninkrijk Castavonië",
+    "type": "country",
+    "motto": "met volck 'n vaderlant vereent.",
+    "hoofdstad": "Ventium",
+    "heerser": "Krastus Suykerbuyk",
+    "regeringsvorm": "Koninkrijk",
+    "religies": [
+      "Kavilisme"
+    ],
+    "beschrijving": "Ontstond als baronie van Whelen (-300, onder Beekervaart), graafschap (-264), markiezaat (-212), hertogdom (-177, onder Keizerrijk Dèlor), koninkrijk sinds jaar 42 binnen het Triumvantium. Inwoners ~3.162.000.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "koninkrijk-castavonie"
+  },
+  {
+    "naam": "Koninkrijk Dèlor",
+    "type": "country",
+    "motto": "Wy heerschen as 't waeter.",
+    "beschrijving": "Stadstaat Dèlor (-504 - -415), koninkrijk (-415 - -210), keizerrijk (-210 - 32). Keizerrijk viel uiteen na de slag om de Euber (jaar 32) en werd verdeeld in het Triumvantium.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "koninkrijk-delor"
+  },
+  {
+    "naam": "Koninkrijk Lepan",
+    "type": "country",
+    "beschrijving": "In het oosten; split in Noord- en Neder-Lepan (jaar 21). Neder-Lepan veroverd in de Püngü-so oorlogen (82-96).",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "koninkrijk-lepan"
+  },
+  {
+    "naam": "Koninkrijk Oemban",
+    "type": "country",
+    "beschrijving": "Dwergenrijk, in -74 onderworpen aan het keizerrijk na een korte oorlog.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "koninkrijk-oemban"
+  },
+  {
+    "naam": "Mushroomland",
+    "type": "country",
+    "beschrijving": "Verborgen koninkrijk in de moerassen,(destination van verbannen duistere adel, o.a. Kwiebus).",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "mushroomland"
+  },
+  {
+    "naam": "Oud-Krestoris",
+    "type": "country",
+    "beschrijving": "Oud westelijk rijk; in -216 overspoeld door duisternis, vluchtelingen kwamen aan op Skaffadocië (-182).",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "oud-krestoris"
+  },
+  {
+    "naam": "Republiek van Androeve",
+    "type": "country",
+    "beschrijving": "Gesticht door vluchtelingen uit Oud-Krestoris op Skaffadocië (-182), later hertogdom onder het keizerrijk (-128).",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "republiek-van-androeve"
+  },
+  {
+    "naam": "Triumvantium",
+    "type": "country",
+    "regeringsvorm": "Triumviraat",
+    "beschrijving": "Verbond van drie staten ontstaan in jaar 45 na de verdeling van het Keizerrijk Dèlor door Skaffadus II. Leden: Reginald Dèlor, Krastus Suykerbuyk, Gregorius II van Druval. Opgericht door Keizer Skaffadus II van Dèlor.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "triumvantium"
+  },
+  {
+    "naam": "Zegenland",
+    "type": "country",
+    "beschrijving": "Het westelijke continent waar de meeste lore zich afspeelt.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "zegenland"
+  },
+  {
+    "naam": "Zetsunotè Shogunate",
+    "type": "country",
+    "beschrijving": "Oosters shogunaat.",
+    "sources": [
+      "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)"
+    ],
+    "id": "zetsunote-shogunate"
+  }
+]

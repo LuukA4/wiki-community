@@ -1,0 +1,63 @@
+{
+  "collections": {
+    "personages": {
+      "type": "character",
+      "count": 65
+    },
+    "steden": {
+      "type": "city",
+      "count": 26
+    },
+    "landen": {
+      "type": "country",
+      "count": 16
+    },
+    "goden": {
+      "type": "deity",
+      "count": 18
+    },
+    "organisaties": {
+      "type": "organization",
+      "count": 34
+    },
+    "regios": {
+      "type": "region",
+      "count": 34
+    },
+    "religies": {
+      "type": "religion",
+      "count": 10
+    },
+    "tijdlijn": {
+      "type": "timeline_event",
+      "count": 153
+    }
+  },
+  "sources": {
+    "Bevolkingsgroepen (1-tlKUOki5nQFR63wKZAGyqcstQvJw_8yRUpgs9HwLkw)": 20,
+    "Lore - Cartografie (1BnpzQW95TJlk50pdL1xe36eXs1sJaLDiduoT1iCDFOQ)": 49,
+    "Lore - Geschiedenis (1D4EBo3PsaBJoRlWFc4Xpo6jDbs4FD6fxJlSpRmk2CCc) [gedeeltelijk]": 43,
+    "Lore - Goden & Religies (WIP) (1oqbQwxpFN8GIDGNS_2V_nayut4njstCacygfcEzaWos)": 28,
+    "kaur (1u7hJM1hvA1fECxhvFO6--Ahl7QC2rB1r3jzyhA-5dac)": 6,
+    "Lore - Groepen, Raden, Ordes, Gilden (1z23obeWSAOs28q4RrGOqYEgTRUQ6dhVLFIpEi6jLm-Q)": 14,
+    "Lore - Personen (1JvALYbeMMtfFT1iPrPgsAkTuoCYPfWuyqpAAmxIzlIY) [gedeeltelijk]": 46,
+    "Lore - Personen II (1HdUwNBmGgKqS4waEWv7ZdwSulrEGsmKPB7NLvxVQeZc) [gedeeltelijk]": 26,
+    "Lore - Plaatsen (WIP) (1KCFGWsXezBMh8Eg-gLd0TWfmiBKwUIr1oDT_gwTAvxM) + Lore Steden (1B-k5njKstMOjz920YkjlXeAs3HWGa1cDHIfLWiDy7jI)": 26,
+    "Lore - Tijdlijn (WIP) (1_CjSPBm89R9shMti1UIRnzRLMlLurbSCMUUc0nYSaQc)": 117
+  },
+  "pages_preview": {
+    "file": "dry-run/pages.json",
+    "count": 292,
+    "categories": [
+      "Goden",
+      "Landen",
+      "Organisaties",
+      "Personages",
+      "Regio's",
+      "Religies",
+      "Steden",
+      "Tijdlijn",
+      "Voorwerpen"
+    ]
+  }
+}
