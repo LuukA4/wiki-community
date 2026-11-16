@@ -70,4 +70,12 @@ def validate(settings: Settings, need_drive: bool = True, need_mistral: bool = T
             problems.append("FIREBASE_PROJECT_ID ontbreekt.")
         if not settings.firebase_credentials_json:
             problems.append("FIREBASE_SERVICE_ACCOUNT_JSON ontbreekt (service account met Firestore rechten).")
+        else:
+            try:
+                json.loads(settings.firebase_credentials_json)
+            except ValueError:
+                problems.append(
+                    "FIREBASE_SERVICE_ACCOUNT_JSON is geen geldige JSON (moet beginnen met '{'): "
+                    "plak de volledige inhoud van het service-account-keybestand, geen bestandsnaam of placeholder."
+                )
     return problems
