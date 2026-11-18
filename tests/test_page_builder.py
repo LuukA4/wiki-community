@@ -1,7 +1,10 @@
 from lore_sync.page_builder import (
     build_content,
+    build_title_index,
     doc_id_for_title,
     entity_to_page,
+    resolve_page_links,
+    resolve_wiki_links,
     sanitize_doc_id,
     timeline_events_to_page,
     to_wiki_links,
@@ -81,3 +84,36 @@ def test_timeline_events_to_page_sorted():
 def test_build_content_list_field():
     md = build_content("city", {"interessante_locaties": ["Balrût", "Haven"]})
     assert md == "## Interessante locaties\n\n- Balrût\n- Haven"
+
+
+def test_to_wiki_links_drops_placeholder_markers():
+    assert to_wiki_links("x {?} y {-} z {Anna}") == "x  y  z [[Anna]]"
+
+
+def test_resolve_wiki_links_canonicalizes_to_existing_titles():
+    index = build_title_index(["Ventium", "Castavonië"])
+    assert resolve_wiki_links("[[ventium]] en [[Onbekend]]", index) == "[[Ventium]] en [[Onbekend]]"
+    assert resolve_wiki_links("[[castavonie|het rijk]]", index) == "[[Castavonië|het rijk]]"
+
+
+def test_resolve_page_links_fixes_content_and_infobox():
+    index = build_title_index(["Ventium"])
+    page = {
+        "title": "Anna",
+        "content": "Woont in [[ventium]].",
+        "infoboxRows": [{"cells": ["Geboorteplaats", "[[VENTIUM]]"]}],
+    }
+    resolve_page_links(page, index)
+    assert page["content"] == "Woont in [[Ventium]]."
+    assert page["infoboxRows"][0]["cells"][1] == "[[Ventium]]"
+
+
+def test_entity_to_page_adds_images_section():
+    item = {
+        "naam": "Kaurum",
+        "beschrijving": "Baronie.",
+        "afbeeldingen": ["![wapen](images/kaurum-wapen.png)"],
+    }
+    page = entity_to_page("region", item, {"category": "Regio's", "caption": "Regio"})
+    assert "## Afbeeldingen\n\n![wapen](images/kaurum-wapen.png)" in page["content"]
+    assert "## Beschrijving" in page["content"]

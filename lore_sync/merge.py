@@ -19,16 +19,6 @@ def strip_link_markers(value):
     return re.sub(r"[{}\[\]]", "", value) if isinstance(value, str) else value
 
 
-def strip_links_deep(value):
-    if isinstance(value, str):
-        return strip_link_markers(value).strip()
-    if isinstance(value, list):
-        return [strip_links_deep(v) for v in value]
-    if isinstance(value, dict):
-        return {k: strip_links_deep(v) for k, v in value.items()}
-    return value
-
-
 def normalize_name(name: str) -> str:
     name = strip_link_markers(name or "")
     name = unicodedata.normalize("NFKD", name)
@@ -80,8 +70,11 @@ def merge_entities(entities_by_type: dict, entity_type: str, items, source: str)
     for raw in items:
         if not isinstance(raw, dict):
             continue
-        item = strip_links_deep(raw)
-        if not item.get(name_field(entity_type)):
+        item = dict(raw)
+        name_key = name_field(entity_type)
+        if isinstance(item.get(name_key), str):
+            item[name_key] = strip_link_markers(item[name_key]).strip()
+        if not item.get(name_key):
             continue
         key = entity_key(entity_type, item)
         if key in bucket:

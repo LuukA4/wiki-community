@@ -1,13 +1,16 @@
 import json
 import logging
 import time
+from pathlib import Path
 
-from . import chunking, drive_source, merge
+from . import chunking, drive_source, images, merge
 from .config import SPREADSHEET_MIME
 from .csv_parse import parse_timeline_csv
 from .extract import Extractor
 from .firestore_sink import FirestoreSink
-from .page_builder import entity_to_page, timeline_events_to_page
+from .merge import normalize_name
+from .page_builder import build_title_index, entity_to_page, resolve_page_links, timeline_events_to_page
+from .schemas import name_field
 
 log = logging.getLogger("lore_sync")
 
@@ -64,42 +67,87 @@ def build_pages(entities: dict, sources_cfg: dict) -> list:
         for key, item in sorted(bucket.items()):
             item.setdefault("id", key)
             pages.append(entity_to_page(entity_type, item, page_cfg))
+    title_index = build_title_index([p["title"] for p in pages])
+    for page in pages:
+        resolve_page_links(page, title_index)
     return pages
+
+
+def collect_drive_image(service, meta: dict, mime: str, all_images: dict, max_image_bytes: int, export_mime: str = None) -> str:
+    if export_mime:
+        raw = drive_source.export_file_bytes(service, meta["id"], export_mime)
+    else:
+        raw = drive_source.download_file_bytes(service, meta["id"])
+    image = {
+        "name": meta.get("name", ""),
+        "data": images.data_url_from_bytes(raw, mime),
+        "source": source_ref(meta),
+    }
+    image = images.enforce_max_data_url(image, max_image_bytes)
+    if image is None:
+        log.warning("Afbeelding te groot (>%d bytes als data-URL), overgeslagen: %s", max_image_bytes, meta.get("name"))
+        return "skipped_too_big"
+    all_images[image["name"]] = image
+    return "collected"
 
 
 def run_sync(settings, only_types=None, output_path=None) -> dict:
     sources_cfg = settings.sources
     service = drive_source.build_service(settings.google_credentials_json)
     extractor = Extractor(settings.mistral_api_key, settings.mistral_model, settings.request_pause)
+    max_image_bytes = int(sources_cfg.get("max_image_data_url_bytes", images.MAX_DATA_URL_BYTES))
     sink = FirestoreSink(
         settings.firebase_project_id,
         settings.firebase_credentials_json,
         settings.dry_run,
         pages_collection=sources_cfg.get("pages_collection", "pages"),
+        images_collection=sources_cfg.get("images_collection", "images"),
     )
 
     files = sorted(drive_source.iter_folder_files(service, settings.drive_folder_ids), key=lambda f: f.get("name", "").lower())
     log.info("%d bestanden gevonden in Drive", len(files))
     all_entities = {}
+    all_images = {}
     file_summary = []
+    image_summary = []
     for meta in files:
+        mime = meta.get("mimeType", "")
         if is_skipped(meta.get("name", ""), sources_cfg):
             log.info("Overslaan (regel): %s", meta.get("name"))
             continue
-        if drive_source.EXPORT_MIME.get(meta.get("mimeType")) is None:
-            log.info("Overslaan (type %s): %s", meta.get("mimeType"), meta.get("name"))
+        if drive_source.is_image_mime(mime):
+            status = collect_drive_image(service, meta, mime, all_images, max_image_bytes)
+            image_summary.append({"file": meta.get("name"), "fileId": meta["id"], "status": status})
+            continue
+        if mime == drive_source.DRAWING_MIME:
+            drawing_meta = dict(meta, name=f"{meta.get('name', '')}.png")
+            status = collect_drive_image(
+                service, drawing_meta, drive_source.DRAWING_EXPORT_MIME, all_images, max_image_bytes,
+                export_mime=drive_source.DRAWING_EXPORT_MIME,
+            )
+            image_summary.append({"file": meta.get("name"), "fileId": meta["id"], "status": status})
+            continue
+        if drive_source.EXPORT_MIME.get(mime) is None:
+            log.info("Overslaan (type %s): %s", mime, meta.get("name"))
             continue
         if not settings.force:
             state = sink.get_state(meta["id"])
             if state and state.get("modifiedTime") == meta.get("modifiedTime"):
                 log.info("Ongewijzigd, overslaan: %s", meta.get("name"))
                 continue
-        log.info("Verwerken: %s (%s)", meta.get("name"), meta.get("mimeType"))
+        log.info("Verwerken: %s (%s)", meta.get("name"), mime)
         text = drive_source.export_file_text(service, meta)
         if not text.strip():
             log.info("  leeg, overslaan")
             continue
-        types = resolve_types(meta.get("name", ""), meta.get("mimeType", ""), sources_cfg)
+        text, embedded = images.extract_embedded_images(
+            text, prefix=f"{merge.slugify(meta.get('name', 'doc'))}-", max_bytes=max_image_bytes
+        )
+        for image in embedded:
+            all_images[image["name"]] = image
+        text, _bare = images.convert_bare_image_lines(text)
+        block_map = images.block_images(text)
+        types = resolve_types(meta.get("name", ""), mime, sources_cfg)
         if only_types:
             types = [t for t in types if t in only_types]
         if not types:
@@ -107,6 +155,11 @@ def run_sync(settings, only_types=None, output_path=None) -> dict:
             continue
         entities = collect_from_file(meta, text, types, sources_cfg, extractor, settings)
         for entity_type, bucket in entities.items():
+            nf = name_field(entity_type)
+            for item in bucket.values():
+                key = normalize_name(str(item.get(nf, "")))
+                if key in block_map:
+                    item.setdefault("afbeeldingen", []).extend(block_map[key])
             merge.merge_entities(all_entities, entity_type, list(bucket.values()), source_ref(meta))
         file_summary.append({"file": meta.get("name"), "fileId": meta["id"], "entities": {t: len(b) for t, b in entities.items()}})
         sink.set_state(meta["id"], meta, {t: len(b) for t, b in entities.items()})
@@ -117,6 +170,10 @@ def run_sync(settings, only_types=None, output_path=None) -> dict:
         with open(output_path, "w", encoding="utf-8") as fh:
             json.dump(pages, fh, ensure_ascii=False, indent=2)
         log.info("Pagina's weggeschreven naar %s", output_path)
+        images_path = Path(output_path).parent / "images.json"
+        with open(images_path, "w", encoding="utf-8") as fh:
+            json.dump(list(all_images.values()), fh, ensure_ascii=False, indent=2)
+        log.info("Afbeeldingen weggeschreven naar %s", images_path)
     written = skipped = 0
     for page in pages:
         result = sink.write_page(page, overwrite=settings.force)
@@ -126,14 +183,25 @@ def run_sync(settings, only_types=None, output_path=None) -> dict:
             skipped += 1
             log.info("Pagina bestaat al, overgeslagen: %s", page["title"])
     log.info("Pagina's geschreven: %d, overgeslagen (bestaat al): %d", written, skipped)
+    img_written = img_skipped = 0
+    for image in all_images.values():
+        if sink.write_image(image, overwrite=settings.force) == "written":
+            img_written += 1
+        else:
+            img_skipped += 1
+    log.info("Afbeeldingen geschreven: %d, overgeslagen (bestaat al): %d", img_written, img_skipped)
     sink.write_run_summary(file_summary)
     return {
         "dry_run": settings.dry_run,
         "pages_written": written,
         "pages_skipped_existing": skipped,
         "pages_total": len(pages),
+        "images_written": img_written,
+        "images_skipped_existing": img_skipped,
+        "images_total": len(all_images),
         "entities": {t: len(b) for t, b in all_entities.items()},
         "files": file_summary,
+        "images": image_summary,
     }
 
 

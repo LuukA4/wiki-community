@@ -35,3 +35,12 @@ jobs:
           DRY_RUN: ${{ inputs.dry_run || 'false' }}
           FORCE: ${{ inputs.force || 'false' }}
         run: python -m lore_sync import dry-run/pages.json
+
+      - name: Import afbeeldingen (indien images.json aanwezig)
+        if: hashFiles('dry-run/images.json') != ''
+        env:
+          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+          FORCE: ${{ inputs.force || 'false' }}
+        run: python -m lore_sync import-images dry-run/images.json

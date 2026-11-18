@@ -1,14 +1,49 @@
 import re
 
+from .merge import normalize_name
 from .schemas import name_field
 
 WIKILINK = re.compile(r"\{([^{}]+)\}")
+WIKI_LINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]*))?\]\]")
+LINK_PLACEHOLDERS = {"?", "-"}
 
 
 def to_wiki_links(text) -> str:
     if not text:
         return ""
-    return WIKILINK.sub(lambda m: f"[[{m.group(1).strip()}]]", str(text))
+
+    def repl(m):
+        inner = m.group(1).strip()
+        if inner in LINK_PLACEHOLDERS:
+            return ""
+        return f"[[{inner}]]"
+
+    return WIKILINK.sub(repl, str(text))
+
+
+def build_title_index(titles) -> dict:
+    return {normalize_name(t): t for t in titles if t}
+
+
+def resolve_wiki_links(text, title_index: dict):
+    if not text:
+        return text or ""
+
+    def repl(m):
+        target, label = m.group(1).strip(), m.group(2)
+        canonical = title_index.get(normalize_name(target))
+        if not canonical:
+            return m.group(0)
+        return f"[[{canonical}|{label}]]" if label else f"[[{canonical}]]"
+
+    return WIKI_LINK.sub(repl, str(text))
+
+
+def resolve_page_links(page: dict, title_index: dict) -> dict:
+    page["content"] = resolve_wiki_links(page.get("content", ""), title_index)
+    for row in page.get("infoboxRows", []):
+        row["cells"] = [resolve_wiki_links(c, title_index) if isinstance(c, str) else c for c in row.get("cells", [])]
+    return page
 
 
 def sanitize_doc_id(doc_id: str) -> str:
@@ -141,13 +176,18 @@ def entity_to_page(entity_type: str, item: dict, page_cfg: dict) -> dict:
             value = _cell_value(item.get(spec))
         if value:
             rows.append({"cells": [label, value]})
+    content = build_content(entity_type, item)
+    image_lines = [str(x) for x in item.get("afbeeldingen", []) if x]
+    if image_lines:
+        section = "## Afbeeldingen\n\n" + "\n".join(image_lines)
+        content = f"{content}\n\n{section}" if content else section
     return {
         "docId": doc_id_for_title(title),
         "title": title,
         "category": page_cfg.get("category", entity_type),
         "infoboxCaption": page_cfg.get("caption", page_cfg.get("category", entity_type)),
         "infoboxRows": rows,
-        "content": build_content(entity_type, item),
+        "content": content,
         "sourceEntityType": entity_type,
         "sources": item.get("sources", []),
     }

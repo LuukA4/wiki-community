@@ -1,6 +1,8 @@
 {
   "folders": ["1aWiso3nOz-QUr3kHwCKhU9F_S0EVqgVv"],
   "pages_collection": "pages",
+  "images_collection": "images",
+  "max_image_data_url_bytes": 700000,
   "entity_pages": {
     "character": { "category": "Personages", "caption": "Personage" },
     "country": { "category": "Landen", "caption": "Land" },
