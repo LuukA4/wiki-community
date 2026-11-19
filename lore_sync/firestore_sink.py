@@ -1,15 +1,25 @@
 import json
 from datetime import datetime, timezone
 
+from .page_builder import sanitize_doc_id
+
 
 def _now():
     return datetime.now(timezone.utc).isoformat()
 
 
 class FirestoreSink:
-    def __init__(self, project_id: str, credentials_json: str, dry_run: bool = False, pages_collection: str = "pages"):
+    def __init__(
+        self,
+        project_id: str,
+        credentials_json: str,
+        dry_run: bool = False,
+        pages_collection: str = "pages",
+        images_collection: str = "images",
+    ):
         self.dry_run = dry_run
         self.pages_collection = pages_collection
+        self.images_collection = images_collection
         self.db = None
         if not dry_run:
             import firebase_admin
@@ -38,9 +48,41 @@ class FirestoreSink:
             "content": page.get("content", ""),
             "infoboxRows": page.get("infoboxRows", []),
             "infoboxCaption": page.get("infoboxCaption", ""),
+            "sources": page.get("sources", []),
             "updatedAt": self._server_timestamp,
         }
         self.db.collection(self.pages_collection).document(doc_id).set(data)
+        return "written"
+
+    def list_pages(self) -> list:
+        if self.dry_run:
+            return []
+        pages = []
+        for doc in self.db.collection(self.pages_collection).stream():
+            page = doc.to_dict() or {}
+            page["docId"] = doc.id
+            pages.append(page)
+        return pages
+
+    def image_exists(self, name: str) -> bool:
+        if self.dry_run:
+            return False
+        return self.db.collection(self.images_collection).document(sanitize_doc_id(name)).get().exists
+
+    def write_image(self, image: dict, overwrite: bool = False) -> str:
+        doc_id = sanitize_doc_id(image["name"])
+        if not overwrite and self.image_exists(image["name"]):
+            return "skipped"
+        if self.dry_run:
+            return "written"
+        data = {
+            "name": image["name"],
+            "data": image["data"],
+            "uploadedAt": self._server_timestamp,
+        }
+        if image.get("source"):
+            data["source"] = image["source"]
+        self.db.collection(self.images_collection).document(doc_id).set(data)
         return "written"
 
     def get_state(self, file_id: str):

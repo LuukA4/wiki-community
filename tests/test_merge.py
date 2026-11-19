@@ -46,3 +46,16 @@ def test_timeline_key_includes_jaar():
     )
     assert set(entities["timeline_event"].keys()) == {"val-van-rijk--500", "val-van-rijk-42"}
     assert entity_key("timeline_event", {"jaar": 7, "titel": "Slag"}) == "slag-7"
+
+
+def test_merge_keeps_wiki_links_in_text_fields_but_strips_name():
+    entities = {}
+    merge_entities(
+        entities,
+        "character",
+        [{"naam": "{Anna}", "informatie": "Kent {Bollet} en {Ventium}."}],
+        "doc A (idA)",
+    )
+    item = entities["character"]["anna"]
+    assert item["naam"] == "Anna"
+    assert item["informatie"] == "Kent {Bollet} en {Ventium}."

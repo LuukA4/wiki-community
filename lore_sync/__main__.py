@@ -4,7 +4,7 @@ import logging
 import sys
 
 from .config import load_settings, validate
-from .importer import import_pages, load_pages_json
+from .importer import import_images, import_pages, load_images_json, load_pages_json
 from .pipeline import list_drive_files, run_sync
 
 
@@ -29,6 +29,16 @@ def main(argv=None) -> int:
     imp.add_argument("--dry-run", action="store_true", help="Alleen tonen wat er geschreven zou worden")
     imp.add_argument("--force", action="store_true", help="Overschrijf pagina's die al bestaan")
     imp.add_argument("--config", help="Pad naar sources.json")
+    imp_img = sub.add_parser("import-images", help="Importeer een images.json naar de images-collectie (geen Google Drive nodig)")
+    imp_img.add_argument("file", help="Pad naar images.json (naast de pages.json van een sync)")
+    imp_img.add_argument("--dry-run", action="store_true", help="Alleen tonen wat er geschreven zou worden")
+    imp_img.add_argument("--force", action="store_true", help="Overschrijf afbeeldingen die al bestaan")
+    imp_img.add_argument("--config", help="Pad naar sources.json")
+    ver = sub.add_parser("verify", help="Vergelijk Drive-bronnen met de pagina's (where did tekst/links verloren?)")
+    ver.add_argument("--pages", help="Pad naar pages.json (standaard: lees uit Firestore)")
+    ver.add_argument("--output", help="Schrijf het rapport als JSON naar dit pad")
+    ver.add_argument("--config", help="Pad naar sources.json")
+    ver.add_argument("--folders", nargs="*", help="Override Drive folder IDs")
     args = parser.parse_args(argv)
 
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
@@ -58,6 +68,55 @@ def main(argv=None) -> int:
         result = import_pages(pages, sink, overwrite=settings.force)
         result["dry_run"] = settings.dry_run
         print(json.dumps(result, ensure_ascii=False, indent=2))
+        return 0
+
+    if args.command == "import-images":
+        problems = validate(settings, need_drive=False, need_mistral=False, need_firestore=not settings.dry_run)
+        if problems:
+            for problem in problems:
+                logging.error(problem)
+            return 2
+        images = load_images_json(args.file)
+        from .firestore_sink import FirestoreSink
+
+        sink = FirestoreSink(
+            settings.firebase_project_id,
+            settings.firebase_credentials_json,
+            settings.dry_run,
+            images_collection=settings.sources.get("images_collection", "images"),
+        )
+        result = import_images(images, sink, overwrite=settings.force)
+        result["dry_run"] = settings.dry_run
+        print(json.dumps(result, ensure_ascii=False, indent=2))
+        return 0
+
+    if args.command == "verify":
+        if args.pages:
+            problems = validate(settings, need_drive=True, need_mistral=False, need_firestore=False)
+            pages = load_pages_json(args.pages)
+        else:
+            problems = validate(settings, need_drive=True, need_mistral=False, need_firestore=True)
+            pages = None
+        if problems:
+            for problem in problems:
+                logging.error(problem)
+            return 2
+        from .firestore_sink import FirestoreSink
+        from .verify import run_verify, save_report
+
+        if pages is None:
+            sink = FirestoreSink(
+                settings.firebase_project_id,
+                settings.firebase_credentials_json,
+                settings.dry_run,
+                pages_collection=settings.sources.get("pages_collection", "pages"),
+            )
+            pages = sink.list_pages()
+        report = run_verify(settings, pages)
+        if args.output:
+            save_report(report, args.output)
+            logging.info("Rapport weggeschreven naar %s", args.output)
+        print(json.dumps(report, ensure_ascii=False, indent=2))
         return 0
 
     need_firestore = args.command == "sync" and not settings.dry_run

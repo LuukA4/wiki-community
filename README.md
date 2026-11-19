@@ -20,9 +20,16 @@ lore_sync.merge             dedup/merge op slug van de naam; sources per entitei
 lore_sync.page_builder      entiteit → `pages`-document in het exacte formaat van de website:
    │                          doc-ID = titel met spaties→underscores, category, infoboxRows
    │                          ({cells: [label, waarde]}), infoboxCaption, content als Markdown
-   │                          ({Naam} wiki-links uit Drive worden [[Naam]])
+   │                          ({Naam} wiki-links uit Drive worden [[Naam]]; linkdoelen worden
+   │                          genormaliseerd naar bestaande paginatitels; {?}/{-} vallen weg)
    ▼
-lore_sync.firestore_sink    setDoc naar collectie `pages`; pagina's die al bestaan worden
+lore_sync.images             afbeeldingen: losse image/*-bestanden en drawings uit Drive plus in
+   │                          Docs ingebedde afbeeldingen (data-URI's in de markdown-export) →
+   │                          base64 data-URL in collectie `images/{bestandsnaam}`, in content als
+   │                          `![alt](images/bestand)` (gekoppeld aan entiteiten via `Naam:`-blokken);
+   │                          te groot → downscale via Pillow (optioneel) anders skip
+   ▼
+lore_sync.firestore_sink    setDoc naar collectie `pages` en `images`; documenten die al bestaan worden
    │                          overgeslagen (--force overschrijft); Admin SDK omzeilt de
    │                          security rules (bedoeld voor de bulk-import)
    │                          + sync_state per bronbestand (modifiedTime) voor incrementeel sync
@@ -39,7 +46,7 @@ De website leest uit Firestore (project `the-lore-wiki`):
 - **`locks/page-{titel}`** — bewerk-vergrendeling (hartslag, TTL 5 min).
 - **`editorRequests/{uid}`** —ferrer aanwezig = bewerkrechten (code gecheckt via rules tegen `settings/editor-code`).
 
-De sync maakt hier **alleen `pages`-documenten** aan (plus `sync_state`/`sync_runs` voor de sync zelf). Bestaat een pagina al? Dan wordt hij overgeslagen, zodat handmatige wijzigingen in de website behouden blijven (`--force` overschrijft wel).
+De sync maakt hier **`pages`- en `images`-documenten** aan (plus `sync_state`/`sync_runs` voor de sync zelf). Bestaat een document al? Dan wordt het overgeslagen, zodat handmatige wijzigingen in de website behouden blijven (`--force` overschrijft wel).
 
 Mapping entiteitstype → categorie/caption staat in `config/sources.json` → `entity_pages`:
 
@@ -63,16 +70,17 @@ Welke entiteitstypes uit welk document worden gehaald, staat in `config/sources.
 
 **Route A — zonder Google Cloud account (aanbevolen nu):** Drive-lezen gebeurt via de **Mistral google_drive-connector** (in deze sessie / in een Mistral Workflow met de connector eraan), niet via de Drive API. Jij hoeft dus géén Google Cloud project aan te maken. De import naar Firestore kan op twee manieren:
 
-- **Via GitHub Actions (nadat de PR gemerged is naar main):** `.github/workflows/import-pages.yml` — handmatig starten via **Run workflow** (standaard dry-run). Gebruikt alleen de secrets `FIREBASE_PROJECT_ID` + `FIREBASE_SERVICE_ACCOUNT_JSON` en importeert `dry-run/pages.json` naar collectie `pages`.
+- **Via GitHub Actions (nadat de PR gemerged is naar main):** `.github/workflows/import-pages.yml` — handmatig starten via **Run workflow** (standaard dry-run). Gebruikt alleen de secrets `FIREBASE_PROJECT_ID` + `FIREBASE_SERVICE_ACCOUNT_JSON` en importeert `dry-run/pages.json` naar collectie `pages`; als `dry-run/images.json` aanwezig is, worden ook die afbeeldingen naar collectie `images` geïmporteerd.
 - **Lokaal:** met het Firebase service account als bestand (zie onderstaand commando).
 
 ```bash
-# 1. pages.json maken (hier in de sessie, via de Drive-connector) -> dry-run/pages.json
+# 1. pages.json + images.json maken (hier in de sessie, via de Drive-connector) -> dry-run/
 # 2. importeren naar Firestore (lokaal, alleen Firebase-creds nodig):
 export FIREBASE_PROJECT_ID=the-lore-wiki
 export FIREBASE_SERVICE_ACCOUNT_JSON="$(cat firebase-service-account.json)"
 python -m lore_sync import dry-run/pages.json --dry-run   # check
 python -m lore_sync import dry-run/pages.json             # echte import
+python -m lore_sync import-images dry-run/images.json     # afbeeldingen (als aanwezig)
 ```
 
 Let op: `MISTRAL_API_KEY` is alleen voor LLM-calls (api.mistral.ai) — daar kun je **niet** Drive mee lezen. De Drive-toegang zit in de aparte google_drive-connector van de Mistral-sessie. Die connector is sessie-gebonden: een GitHub Actions-run kan daar niet bij.
@@ -115,10 +123,30 @@ python -m lore_sync sync --types character timeline_event # alleen bepaalde type
 python -m lore_sync sync --force                          # alles opnieuw
 python -m lore_sync import dry-run/pages.json --dry-run   # import-preview (geen Google nodig)
 python -m lore_sync import dry-run/pages.json             # importeer naar Firestore
+python -m lore_sync import-images dry-run/images.json     # importeer afbeeldingen (als aanwezig)
+python -m lore_sync verify --pages dry-run/pages.json --output dry-run/verify-report.json
+                                                           # vergelijk Drive-bronnen met pagina's
 pytest                                                    # tests
 ```
 
 Zonder Firestore-credentials kun je met `--dry-run` (of `DRY_RUN=true`) de extractie testen; de Firestore-secrets zijn dan niet nodig.
+
+## Verify: gaat er tekst/links verloren tussen Drive en de website?
+
+`python -m lore_sync verify` exporteret elke Drive-bron opnieuw en vergelijkt die met de pagina's (uit `--pages dry-run/pages.json`, of uit Firestore als je `--pages` weglaat). Per bronbestand rapporteert het: aantal tekens/secties in de bron, hoeveel pagina's daraus zijn voortgekomen (via `sources` of titel-in-tekst), hoeveel tekens die pagina's tonen (content + infobox), de coverage-ratio, `{...}`-linkverwijzingen in de bron vs `[[...]]`-links op de site, en welke linkdoelen ontbreken. Met `--output` schrijf je het hele rapport als JSON.
+
+Bekende verliesposten die dit inzichtelijk maakt: alleen de gewhiteliste velden per entiteitstype worden paginatekst (`CONTENT_SECTIONS` in `lore_sync/page_builder.py`), de LLM vat lange tekst samen, velden buiten het schema in `lore_sync/schemas.py` vallen weg, en pagina's met `Informatie: -` in de bron krijgen geen content.
+
+## Afbeeldingen overzetten
+
+De sync kopieert nu automatisch foto's naar de website:
+
+- **Losse afbeeldingsbestanden** (`image/*`) en **drawings** (→ PNG) in de Drive-mappen worden als base64 data-URL weggeschreven naar `images/{bestandsnaam}` (`name`, `data`, `uploadedAt`, `source`).
+- **In Docs ingebedde afbeeldingen** (data-URI's in de `text/markdown`-export) worden vóór het chunken uit de tekst gehaald, geüpload als `images/{docslug}-image-{n}.{ext}` (of op basis van de alt-tekst), en in de tekst vervangen door `![alt](images/naam)`.
+- **Kale bestandsnaamregels** in een document (bijv. `Dèlor2.jpg`) worden niet meer weggegooid maar als `![Dèlor2.jpg](images/Dèlor2.jpg)` in de tekst opgenomen.
+- Paginatekst bevat de afbeeldingen in een `## Afbeeldingen`-sectie; de koppeling aan de juiste entiteit gebeurt via de `Naam:`-blokken in het bronbestand (`lore_sync.images.block_images`).
+- Grootte-guard: `max_image_data_url_bytes` in `config/sources.json` (standaard 700000, passend bij de ~700KB limiet van de website). Te groot → downscale met Pillow (optioneel, anders wordt de afbeelding overgeslagen met een warning).
+- Bij `--output pages.json` schrijft de sync automatisch `images.json` ernaast; Route A importeert die via `python -m lore_sync import-images dry-run/images.json` (ook als stap in `import-pages.yml`).
 
 ## Extending
 
